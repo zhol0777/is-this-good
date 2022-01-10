@@ -1,7 +1,7 @@
 # Is this good?
 
-THIS IS A LONG DOCUMENT CURRENTLY, SO PLEASE JUST CTRL/CMD-F YOUR WAY INTO FINDING SOMETHING THAT MAY APPLY TO YOU. THERE IS ALSO A TABLE OF CONTENTS AROUND HERE SOMEWHERE.
-PLEASE DM ME FOR COMPLAINTS, SUGGESTIONS AND ADDITIONS, OR JUST SUBMIT A PULL REQUEST.
+ THIS IS A LONG DOCUMENT CURRENTLY, SO PLEASE JUST CTRL/CMD-F YOUR WAY INTO FINDING SOMETHING THAT MAY APPLY TO YOU. THERE IS ALSO A TABLE OF CONTENTS PROVIDED.
+ Feel free to file pull requests or issues for information you wish to be added, or political complaints.
 
 Answer: *Good is a question for moral philosophers to answer, and that’s not who we are. There is no good and there is no bad; there are merely different products that fulfill different needs and niches. A prebuilt like a Leopold or a Varmilo may be “good enough” for someone who only wants a mechanical keyboard and not to have to think about it too much. Gateron Browns may be “good enough” for someone who isn’t asking for much more than a light bump in their press. $30 AliExpress keycaps might be good enough for someone who doesn’t want to look at thin shinethrough ABS anymore. Maybe you want thin shinethrough ABS because you don’t care much about “thickness”! And so on. Now, never ask me if something is “good” ever again.*  
 
@@ -19,7 +19,7 @@ zhol
 
 - [Is this good?](#is-this-good)
   - [Prebuilt Keyboards](#prebuilt-keyboards)
-      - [Non-standard bottom row layouts](#non-standard-bottom-row-layouts)
+    - [Non-standard bottom row layouts](#non-standard-bottom-row-layouts)
   - [Keyboard Kits](#keyboard-kits)
     - [Firmware Support](#firmware-support)
     - [Switch orientation](#switch-orientation)
@@ -42,6 +42,7 @@ zhol
       - [Poor Legends Quality](#poor-legends-quality)
       - [Poor kitting/compatability](#poor-kittingcompatability)
       - [Warped Bars](#warped-bars)
+      - [Thickness](#thickness)
   - [Switches (The Switch Meta)](#switches-the-switch-meta)
     - [Gateron](#gateron)
       - [Inks](#inks)
@@ -68,7 +69,6 @@ zhol
       - [Not Recommended](#not-recommended)
       - [Be aware of issues](#be-aware-of-issues)
     - [Plate Mount](#plate-mount)
-      - [Recommended](#recommended-1)
   - [Lubricants](#lubricants)
     - [A quick reference](#a-quick-reference)
     - [Housing And Stem For Switch And Stabilizer](#housing-and-stem-for-switch-and-stabilizer)
@@ -82,7 +82,7 @@ zhol
 
 ## Prebuilt Keyboards
 
-Believe it or not, you may not require something as robust as whatever build that some Keyboard YouTuber (read: possible leech) is showing off with a $400 price tag in the preview thumbnail! A healthy mindset recognizes that a keyboard is a tool, and either your tool works for you, or works against you; a good prebuilt board will work for you, and get everything you need without getting in your way.
+Believe it or not, you may not require something as robust as whatever build that some Keyboard YouTuber is showing off with a $400 price tag in the preview thumbnail! A healthy mindset recognizes that a keyboard is a tool, and either your tool works for you, or works against you; a good prebuilt board will work for you, and get everything you need without getting in your way.
 Things to keep in mind:
 
 - The Good Brands
@@ -104,7 +104,17 @@ Things to keep in mind:
   - CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
   - Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
 
-#### Non-standard bottom row layouts
+### Non-standard bottom row layouts
+
+Some bottom row layouts on *some* prebuilts will have strange width spacebars that are less easy to find replacements for than your traditional 6.25u or 7u spacebar.
+
+![Corsair K70 with 6.5u width spacebar](images/corsairk70.png)
+Pictured: Corsair K70, via [Best Buy](https://www.bestbuy.com/site/corsair-k70-rgb-mk-2-low-profile-rapidfire-full-size-wired-mechanical-cherry-mx-low-profile-speed-switch-gaming-keyboard-black/6298657.p?).
+Note the 6.5u spacebar.
+
+![Razer Blackwidow Chroma v1 with 6.0u width spacebar](images/razer6u.png)
+Pictured: Razer Blackwidow Chroma v1, via [Razer](https://www2.razer.com/br-pt/gaming-keyboards-keypads/razer-blackwidow-chroma-v1).
+Note the 6u spacebar.
 
 ## Keyboard Kits
 
@@ -172,54 +182,62 @@ Some people say these boards break easily. Honestly, I think most of the time th
 
 ### On Clones
 
-If you're reading this guide, there's a solid chance that you're new, and are not emotionally ready to pony up $130 or whatever for a best-in-class keyset from a group buy. Instead, you're looking to spend a more reasonable amount of money within a price bracket that is saturated by clones. Clones aren't the only option, but sometimes, they are hard to ignore.
+If you're reading this guide, there's a solid chance that you're new, and are not emotionally ready to pony up $130 for a best-in-class keyset from a group buy. Instead, you're looking to spend a more reasonable amount of money within a price bracket that is saturated by clones. Clones aren't the only option, but sometimes, they are hard to ignore.
 
-The morals of intellectual property theft (can you steal colors? How bad is it for you personally to buy keys with novelties of stolen art?) are a question best left for yourself to answer - we’re not interested in moral philosophy here. However, here are the possible functional issues with buying clones:
+The morals of intellectual property theft (Can you steal color combinations? How bad is it for you personally to buy keys printed with stolen art?) are a question best left for yourself to answer - we’re not interested in moral philosophy here. However, here are the possible functional issues with buying clones:
 
 - Poor color matching
 - Poor quality molds for doubleshot
 - Poor quality print for legends
 - Poor quality legends alignment
 - Error prone to dye-sub misprint and otherwise poor quality control
-  - Getting a replacement key that was misprinted may take 1-2 months
+  - Getting a replacement key (if its even offered) for a misprint may take 1-2 months
 - Sub-standard thinness
 
 ### On Kitting, or, How To Read A Kitting Diagram
 
-![](images/pbtcoral.png)
+![Vaguely Japanese themed keyset with minimal kitting to support ANSI 108 key](images/pbtcoral.png)
 
 Pictured: 108 key keyset, via [Amazon](https://www.amazon.ca/Japanese-Keycaps-Percent-Mechanical-Keyboard/dp/B0936TN1JJ)
 
-The above keyset will provide support for standard 60% (Pok3r) ANSI (this means not ISO, this means not European usually) layouts, ANSI TKL’s, and ANSI full-size. However, what are you to do if you have a board you want to put keycaps on that even deviates slightly from this? You’ll be out of luck without the proper 1.75u right shift that you might need, or the 1u Control/Function/Alt keys that you need.
+The above keyset will provide support for standard 60% (ex. Pok3r) ANSI (this means **not ISO**, this means **not European** usually) layouts, ANSI TKL’s, and ANSI full-size keyboards. However, what are you to do if you have a board you want to put keycaps on that even deviates slightly from this? You’ll be out of luck without the proper 1.75u right shift that you might need, or the 1u Control/Function/Alt keys that you need.
 
-The real question that you’re asking is: “How do I know what I need?” How do you see if a kitting render has what you’re looking for?
+The real question that you’re asking is: “How do I know what I need?” For keyboards that have a less-common layout (i.e. not 6.25u spacebar 60%, TKL, or full-size), the reading below will attempt to explain what you need to look for to support your own board in diagrams of keysets.
 
 #### Extensions To Look For
 
 If you know your board layout, then you can see which individual keys you need so you can hunt for them in the kitting diagrams provided with every keyset. This chart is wholesale stolen from [the excellent KDD Info & How-To guide written by Buburoo](https://docs.google.com/document/d/1jjQghqjGP6BasZt4i0zTmK4p-gN_3IRhIAm2-CPE0kE/edit#).
 
-![](images/extensionkitting.png)
+Note: the piece on "different/additional shifts" denotes
+
+- 2u shift support for GK64 and Womier K66/YC66 support
+- 2.25u shift support for Leopold FC660-type layouts
+- 1.75u shift support for most 65%, 75%, 96%/1800, and split right shift layouts
+
+![Guide that shows which keys required to support certain types of boards](images/extensionkitting.png)
 
 Now with this information known to you, you can probably start reading kitting renders for support like I have in this diagram below -
 
-![](images/jkdkrow.png)
+![JKDK Red on White keyset, with annotations drawn to show which parts of the render will support which sets](images/jkdkrow.png)
+
+Pictured: JKDK RoW (Red-on-white), annotations by me
 
 #### Example: A Well Kitted Keyset
 
-![](images/pbttarokitting.png)
+![Cherry Taro, by pwade3, render, with annotations drawn to show which parts of the render will support which sets](images/pbttarokitting.png)
 
-Pictured: “Cherry Taro”, designed by pwade (via [Novelkeys](https://novelkeys.com/products/cherry-taro))
+Pictured: “Cherry Taro”, designed by pwade (via [Novelkeys](https://novelkeys.com/products/cherry-taro)), annotations by me
 
 Here’s a good example of a base kit that provides very flexible kitting! You may not use all of it, but you’ll likely be able to use it on most/all of your boards, barring those with unpopular and esoteric layouts. You get
 
 - Mod pipe and mod tilde (some prefer their look on 60’s)
-- Stepped caps lock and 1.75u Control on R3 (nice to have for HHKB-style layouts
+- F13 key (nice for F13 TKL's or some exploded 75%'s)
+- Stepped caps lock and 1.75u Control on R3 (nice to have for HHKB-style layouts)
 - Physical ISO compatibility (ISO enter, R3 1u pipe, 1.25u left shift R4, and >< key beside left shift)
 - Flexible 65%, 75%, and 1800/96% support
 - Split backspace (R2 1.5u backspace, R1 pipe)
 - Split bars (predominantly for Alice-layout spacebars support, may support other less-common layouts as well)
 - 6u spacebar for stranger layouts
-  - TODO: double check this
 - Minivan (popular 40% layout) (R2 1.75u backspace, R3 1.25u Tab and 1.5u Enter)
 - Extra shift keys
   - 2.25u right shift to support FC660M-style layouts
@@ -230,34 +248,34 @@ Here’s a good example of a base kit that provides very flexible kitting! You m
 
 #### Reading Reviews
 
-Reading reviews from people who have actually purchased a keyset is more advisable than asking someone who has never bought the keyset you’re about to purchase. Reviews provide some context towards the quality of a product, and the high chance that users have submitted photos of what their keyset looks like on arrival. Don’t get caught by renderbait! Yes, a cell phone camera shot plus your gaming monitor probably won't reproduce, blah blah blah, but come on man, it's better than going off of the renders from a vendor.
+Reading reviews from people who have actually purchased a keyset is more advisable than asking someone who has never bought the keyset you’re about to purchase. Reviews provide some context towards the quality of a product, and the high chance that users have submitted photos of what their keyset looks like on arrival. Don’t get caught by renderbait! Yes, a cell phone camera shot plus your gaming monitor probably won't reproduce accurate colors, blah blah blah, but come on, it's better than going off of the renders from a vendor.
 
 #### Poor Legends Quality
 
-| Genuine GMK Darling        | PBT Darling Clone Example 1                     | PBT Darling Clone Example 2                              |
-| -------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
-| ![](images/gmkdarling.png) | ![](images/pbtdarlingclone1.png)                | ![](images/pbtdarlingclone2.png)                         |
-|                            | Poor color matching and different legends font. | Poor color matching, different font, missing sublegends. |
+| Genuine GMK Darling                                                                                                                                     | PBT Darling Clone Example 1                         | PBT Darling Clone Example 2                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
+| ![GMK Darling](images/gmkdarling.png)                                                                                                                   | ![PBT Darling clone 1](images/pbtdarlingclone1.png) | ![PBT Darling clone 2](images/pbtdarlingclone2.png)      |
+| via [MyKeyboard.eu](https://www.facebook.com/mykeyboard.eu/posts/gmk-darling-by-xerpocalypse-is-here-and-it-starts-shipping-out-today/2796713847241440) | Poor color matching and different legends font.     | Poor color matching, different font, missing sublegends. |
 
-| ePBT Dreamscape Render         | HK Gaming Dreamscape                                                                                                                |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/epbtdreamscape.png) | ![](images/hkgamingdreamscape.png)                                                                                                  |
-|                                | Left side of the gradient does not have white legends like the original set, implying HK Gaming cannot/will not do reverse dye sub. |
+| [ePBT Dreamscape Render](https://geekhack.org/index.php?topic=113377.0) | HK Gaming Dreamscape                                                                                                                |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ![ePBT Dreamscape Render](images/epbtdreamscape.png)                    | ![HK Gaming Dreamscape (clone) render](images/hkgamingdreamscape.png)                                                               |
+| Designed by tsoiab10                                                    | Left side of the gradient does not have white legends like the original set, implying HK Gaming cannot/will not do reverse dye sub. |
 
-| JKDK BoW                                                 | XMX Pseudo-Handarbeige                                      |
-| -------------------------------------------------------- | ----------------------------------------------------------- |
-| ![](images/jkdkbow.png)                                  | ![](images/xm_handarbeige.png)                              |
-| via JKDK message to cardio (“That shift is flying away”) | Sinking Tab and Pipe legend, short backslash legend vs pipe |
+| JKDK BoW (black on white)                                                                | XMX Pseudo-Handarbeige                                           |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![picture of JKDK Black on White set, with mis-aligned Shift legend](images/jkdkbow.png) | ![picture of Handarbeige-like keyset](images/xm_handarbeige.png) |
+| via JKDK message to cardio (“That shift is flying away”)                                 | Sinking Tab and Pipe legend, short backslash legend vs pipe      |
 
-| Winmix/Catcher Olivia clone, doubleshot PBT                                                                                                                                                                                                                                                                    | "Shell Studio" "PBT Blush" (Doubleshot PBT Olivia clone)                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/winmixolivia.png)                                                                                                                                                                                                                                                                                   | ![](images/pbt_blush.png)                                                                                                                                                                                      |
-| via AliExpress reviews. These aren’t technically bad since their molds have improved (and the letters in Backspace aren't all different sizes anymore), but the font and lack of icon legends on the modifier keys are a dead giveaway to this being a lazy clone. Also, what’s the deal with “CapsLock”, man? | From [imgur album](https://imgur.com/a/CufPcmV) provided by /u/RatratanX from Reddit. Via their description, “You'll get what you paid for. Uneven thickness of legends. Still lucky no problems on mounting.” |
+| Winmix/Catcher Olivia clone, doubleshot PBT                                                                                                                                                         | "Shell Studio" "PBT Blush" (Doubleshot PBT Olivia clone)                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![picture of GMK Olivia clone from Winmix](images/winmixolivia.png)                                                                                                                                 | ![picture of GMK Olivia clone from Shell Studio](images/pbt_blush.png)                                                                                                                                         |
+| via AliExpress reviews. Lack of icon legends on the modifier keys are a dead giveaway to this being a clone. I'm personally not a fan of the font used. Also, what’s the deal with “CapsLock”, man? | From [imgur album](https://imgur.com/a/CufPcmV) provided by /u/RatratanX from Reddit. Via their description, “You'll get what you paid for. Uneven thickness of legends. Still lucky no problems on mounting.” |
 
-| Winmix OSA Doubleshot PBT                                                                      | Aifei clone of GMK Jamon                                                             | Domikey Dolch (Cherry profile)                                                                                                              |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/osa.png)                                                                            | ![](images/aifeijamon.png)                                                           | ![](images/domikeydolch.png)                                                                                                                |
-| "ENB", via /u/denker88 on reddit. Legends are fine with the exception of one noticeable issue. | via AliExpress review. Note the inconsistent lettering legends on the modifier keys. | Pretty acceptable legend quality, but someone with a very fussy eye might make a stink about the spacing between the “F” and “T” in “Shift” |
+| Winmix OSA Doubleshot PBT                                                              | Aifei clone of GMK Jamon                                                        | Domikey Dolch (Cherry profile)                                                                                                   |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ![picture of Winmix OSA keyset](images/osa.png)                                        | ![picture of GMK Jamon clone by Aifei](images/aifeijamon.png)                   | ![picture of Domikey Dolch keyset](images/domikeydolch.png)                                                                      |
+| via /u/denker88 on reddit. Legends are fine with the exception of one prominent issue. | via AliExpress review. Note the inconsistent letter sizes on the modifier keys. | Decent legend quality, but someone with a very fussy eye might make a stink about the spacing between the “F” and “T” in “Shift” |
 
 #### Poor kitting/compatability
 
@@ -267,7 +285,13 @@ Please refer to [the kitting section](#on-kitting-or-how-to-read-a-kitting-diagr
 
 Early ePBT sets and Geekark R1 were known to have bars for stabilized keys that were significantly warped, and required intervention to un-warp them. These things have been solved, but some cheaper PBT sets with bars that don’t have rigidity ribs may warp as the injected plastic cools, and might require a dip in very hot water to soften it up enough for you to un-warp them. NOTE: DO NOT ATTEMPT THIS WITH ABS, YOU WILL MELT YOUR KEYCAPS.
 
+#### Thickness
+
+TODO: Fill this out
+
 ## Switches (The Switch Meta)
+
+For personal switch recommendations, please refer to [the spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWkz3vJflKwHt6aYwWWAULPU3NKbqfZj8J9h6IkcapPYVUbtxsaLXF9hnRmf-1aBAijMmBg0Jm6D7A/pubhtml) that milo and I have put together.
 
 ### Gateron
 
@@ -292,7 +316,7 @@ Gateron makes Zeal switches. The general gist on these is that they are not bad 
 
 DOES NOT WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS
 
-Starting off by selling fake Tealios with stolen Gateron top housing molds, JWK produces some of the smoothest linears available on the market, and a respectable range of tactile options. Famous for producing the budget switch commonly referred to as “JWICK”s, and infamous for producing recolors of their base linear or tactile frequently for vendors who understand how much people like to color-coordinate their switches with the rest of their board. Their major flaw is that their tops tend to lend a particular “thin” topping out sound, and some enthusiasts mitigate against this by replacing the tops with those from Cherry MX switches.
+Starting off by [selling fake Tealios with Gateron top housing molds](https://www.theremingoat.com/blog/t1s?rq=t1), JWK produces some of the smoothest linears available on the market, and a respectable range of tactile options. Famous for producing the budget switch commonly referred to as “JWICK”s, and infamous for producing recolors of their base linear or tactile frequently for vendors who understand how much people like to color-coordinate their switches with the rest of their board. Their major flaw is that their tops tend to lend a particular “thin” topping out sound, and some enthusiasts mitigate against this by replacing the tops with those from Cherry MX switches.
 
 #### Everglide Aqua King/Water King
 
@@ -367,7 +391,7 @@ Manufactures Akko CS line of switches, as well as Akko Jelly (probably)/Akko CS/
 
 Please verify which type of stabilizer you need for your board; very few take PCB mount and Plate mount stabilizers simultaneously, so you can just assume that only one works and you either need to buy one or the other. The housings have very visible differences so you can’t really get them mixed up -
 
-![](images/stabilizercomparison.png)
+![plate mounted and pcb mounted stabilizers comparison](images/stabilizercomparison.png)
 (image borrowed from [monstargears](https://www.monstargears.com/98/?idx=172))
 
 **You must mod the stabilizers to make them good.**
@@ -376,11 +400,11 @@ As with all cases, it is important that you attempt to wire-balance (YouTube gui
 
 ### PCB Mount Stabilizers
 
-![](images/bm60ec_pcb.png)
+![60% pcb that accepts pcb mounted stabilizers](images/bm60ec_pcb.png)
 
 Pictured: a KPRepublic BM60EC PCB - note how there are two holes on each side of the socket for a stabilized key - this is where the housing for a PCB mount stabilizer fits in
 
-![](images/pcbmountstabsplate.png)
+![60% keyboard plate that does not accept plate mounted stabilizers](images/pcbmountstabsplate.png)
 
 Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lack of specific and clear cutouts for stabilizers around stabilized keys like the shift, enter backspace, or space?
 
@@ -417,40 +441,40 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 
 If your plate takes plate mount stabilizers, it will be very obvious from the appearance of the plate that there are cutouts that match the shape of a plate mount stabilizer housing:
 
-![](images/platemountedplate.png)
+![60% keyboard plate with cutouts for plate mounted stabilizers](images/platemountedplate.png)
 
 Pictured: A plate with specific cutouts for plate-mount stabilizers to fit into the plate. Also note that the hole to fit the wire through that extends from one stabilizer housing cutout to the other.
 
 Folk knowledge suggests that plate mount stabilizers aren’t “as good” as PCB mount stabilizers, but these can still sound perfectly fine if you’re willing to ignore some hater in your ear.
 
-#### Recommended
-
-- Durock Plate Mount/Everglide Plate Mount
-  - Decent for plate mounts in my experience with the all-black ones.
-- Gateron Plate Mount
-  - Not god-awful for my experience. The claim of “factory lube” is somewhat wishful thinking, just re-do this on your own.
-- Zeal Stabilizers
-  - Zeal’s got some expensive products but they are still good.
+- Recommended
+  - Durock Plate Mount/Everglide Plate Mount
+    - Decent for plate mounts in my experience with the all-black ones.
+  - Gateron Plate Mount
+    - Not god-awful for my experience. The claim of “factory lube” is somewhat wishful thinking, just re-do this on your own.
 
 ## Lubricants
 
-Lubricant recommendations are a soft science that borders on old wives’ tales and parroting more than actual hard reproducibility. Here, I parrot old wives tales, but try to provide some justification for them.
+Lubricant recommendations are a soft science leaning towards parroting old wives’ tales than  hard reproducibility. Here, I parrot old wives tales, but try to provide some justification for them.
 
 ### A quick reference
 
-|                 | Krytox 105-107 | 3203 | 3204 | 205g0         | XHT BDZ | Dielectric Grease | China Grease  | Superlube |
-| --------------- | -------------- | ---- | ---- | ------------- | ------- | ----------------- | ------------- | --------- |
-| Spring          | ✓              | ✓    | ✓    | ✓             | X       | X                 | !<sup>4</sup> | 51004     |
-| Housing         | ✓<sup>1</sup>  | ✓    | ✓    | ✓             | X       | X                 | !<sup>4</sup> | 51004     |
-| Stem            | ✓<sup>1</sup>  | ✓    | ✓    | ✓<sup>2</sup> | X       | X                 | !<sup>4</sup> | 51004     |
-| Stabilizer Wire | X              | X    | X    | ✓<sup>3</sup> | ✓       | ✓                 | ✓<sup>4</sup> | 51030     |
+|                 | Krytox 105-107 | 3203 | 3204 | 205g0         | XHT BDZ | Dielectric Grease | China Grease  | Superlube<sup>5</sup> |
+| --------------- | -------------- | ---- | ---- | ------------- | ------- | ----------------- | ------------- | --------------------- |
+| Spring          | ✓              | ✓    | ✓    | ✓             | X       | X                 | !<sup>4</sup> | 51004                 |
+| Housing         | ✓<sup>1</sup>  | ✓    | ✓    | ✓             | X       | X                 | !<sup>4</sup> | 51004                 |
+| Stem            | ✓<sup>1</sup>  | ✓    | ✓    | ✓<sup>2</sup> | X       | X                 | !<sup>4</sup> | 51004                 |
+| Stabilizer Wire | X              | X    | X    | ✓<sup>3</sup> | ✓       | ✓                 | ✓<sup>4</sup> | NLGI G0-G2            |
 
-<sup>1</sup>: PTFE oils do not provide the same smoothing as greases do, but are still good for when users want to be more conservative with their lubrication.  
-<sup>2</sup>: Grease at this viscosity is known to dull the bump on tactile stems. Avoid unless you intend on reducing the bump.  
+<sup>1</sup>: PTFE oils do not provide the same smoothing to housings as greases do, but are still good for when users want to be more conservative/less drastic with their lubrication.  
+<sup>2</sup>: Grease at this viscosity is known to dull/smoothen/reduce the intensity of the bump on tactile stems. Avoid unless you intend on reducing the bump.  
 <sup>3</sup>: It can be argued that 205g0 is too thin for stabilizer wires, and will migrate soon with continuous usage. Still, this is a preference thing.  
 <sup>4</sup>: Products marketed as "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are likely manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.
+<sup>5</sup>: 51004 and 51030 are known good oils. For stabilizer wire, some silicone grease PTFE that's NLGI Grade 0 to Grade 2 (such as 92003) should be great.
 
 ### Housing And Stem For Switch And Stabilizer
+
+We recommend greases/oils that contain Teflon (PTFE/polytetrafluoroethylene) content for high-quality lubrication that is not not prone to separating quickly when left at rest.
 
 - Recommended
   - Industrial greases developed by Miller Stephenson/Dupont/Chemours
@@ -479,20 +503,22 @@ Lubricant recommendations are a soft science that borders on old wives’ tales 
   
 ### Switch Spring
 
-Spring lubing does not require PTFE content in the way that housing lubing does to reduce friction; the purpose of lubing a switch spring is to provide goop that dampens the vibration a spring may experience during a strong upstroke movement that leads to what you may recognize as “spring ping”.
+The purpose of lubing a switch spring is to provide goop that dampens the vibration a spring may experience during a strong upstroke movement that leads to what you may recognize as “spring ping”.
 
 - Recommended
   - Traditional industrial greases like GPL 205g0, 3204/204g0, 3203/203g0 can be painted on the spring, or donut dipped.
   - Thinner oils like Krytox GPL 105, 106, 107 are fine for bag lubing.
   - Gazzew’s Blend #7 also works great for donut dipping. If you buy parts from him, he might throw this in if you spend enough. It’s real thick stuff, so its best for springs really.
   - Rainkeebs recommended gun oil. I trust rain.
-  - Superlube 51004
+  - Superlube oil like 51004
 - Not Recommended
-  - Dielectric grease. Come on, man.
+  - Dielectric grease
   - Petroleum-based lubricants
     - Your plastics will melt. I explained this earlier.
 
 ### Stabilizer Wire Lubricant
+
+You no longer require PTFE content for applications to the wire to prevent wire ticking. Dielectric grease, silicone grease, lithium grease, all those will get the job done as well.
 
 - Recommended
   - GPL 205g0 (Does not have to be Krytox)
@@ -505,7 +531,6 @@ Spring lubing does not require PTFE content in the way that housing lubing does 
     - You don’t need a specific brand. You do not need a specific brand. Permatex is pretty popular in North America, but your region may vary. It doesn’t need to be very specific because you just need some goop that’s thick enough to stop the wire from rattling all over the place.
   - Superlube
     - NLGI Grade 0 to Grade 2 will get the job done.
-    - Xalmart's named 51030 by name, but the stuff that TKC or RingerKeys sells will do fine
 - Not recommended
   - Grease thinner than 205g0
     - This grease will migrate (read: be pushed around by the movement of the wire) around until there is little left to dampen the wire tick.
@@ -537,10 +562,10 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
 
 #### Winglatch Housings
 
-| Kailh Box Jade (Winglatch top housing)                                                                                                             | Gateron Brown (non-winglatch top housing)                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/kailhwinglatch.png)                                                                                                                     | ![](images/gateronbrown.png)                                                                                                                                                              |
-| “Winglatch” housing (via kbdfans). Note the lack of 2 legs ("pins") on each side of the top housing, which is secured by two large "wings" instead | Gateron KS-9 Brown, with “Cherry style”/”4 pin” top housing. Note the contrast of the polycarbonate against the nylon, which makes the individual "pins"/legs of the top housing apparent |
+| Kailh Box Jade (Winglatch top housing)                                                            | Gateron Brown (non-winglatch top housing)                                                                            |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ![Kailh Box Jade](images/kailhwinglatch.png)                                                      | ![Gateron Brown KS-9](images/gateronbrown.png)                                                                       |
+| “Winglatch” housing (via kbdfans). The top housing is secured two large "wings", one on each side | “Cherry style”/”4 pin” top housing. Note the two "pins"/legs of each side the top housing, securing it to the bottom |
 
 Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.
 
@@ -551,4 +576,4 @@ These following switches are known to have fairly tight housings, and will not r
 - Outemu x Gazzew “Boba” variants (this includes those with PC/clear tops)
 - Kailh x Novelkeys Cream variants
 - “Panda” housings
-  - The proliferation of housings made with the Panda name has kinda diluted the meaning, but thanks to the fact that most of these variants (Purple Pandas, Frost Pandas, Ethereal Pandas, Glorious Pandas) are produced by Tecsee, you can safely assume that the molds provide similarly tight tolerances. Pandas are known to have tight housings.
+  - [The proliferation of housings made with the Panda name](https://www.theremingoat.com/blog/the-pandaverse) has kinda diluted the meaning, but thanks to the fact that most of these variants (Purple Pandas, Frost Pandas, Ethereal Pandas, Glorious Pandas) are produced by Tecsee, you can safely assume that the molds provide similarly tight tolerances. Pandas are known to have tight housings.
