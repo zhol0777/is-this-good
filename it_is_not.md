@@ -41,6 +41,10 @@ Things to keep in mind:
   * CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
   * Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
 
+#### Non-standard bottom row layouts
+
+
+
 ## Keyboard Kits
 
 ### Firmware Support
@@ -153,7 +157,7 @@ Here’s a good example of a base kit that provides very flexible kitting! You m
 * Flexible 65%, 75%, and 1800/96% support
 * Split backspace (R2 1.5u backspace, R1 pipe)
 * Split bars (predominantly for Alice-layout spacebars support, may support other less-common layouts as well)
-* 6u spacebar for FC660m-like layouts
+* 6u spacebar for stranger layouts
   * TODO: double check this
 * Minivan (popular 40% layout) (R2 1.75u backspace, R3 1.25u Tab and 1.5u Enter)
 * Extra shift keys
@@ -165,9 +169,39 @@ Here’s a good example of a base kit that provides very flexible kitting! You m
 
 #### Reading Reviews
 
+Reading reviews from people who have actually purchased a keyset is more advisable than asking someone who has never bought the keyset you’re about to purchase. Reviews provide some context towards the quality of a product, and the high chance that users have submitted photos of what their keyset looks like on arrival. Don’t get caught by renderbait! Yes, a cell phone camera shot plus your gaming monitor probably won't reproduce, blah blah blah, but come on man, it's better than going off of the renders from a vendor.
+
 #### Poor Legends Quality
 
-#### Poor Compatability/Kitting
+| Genuine GMK Darling        | PBT Darling Clone Example 1                     | PBT Darling Clone Example 2                              |
+| -------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
+| ![](images/gmkdarling.png) | ![](images/pbtdarlingclone1.png)                | ![](images/pbtdarlingclone2.png)                         |
+|                            | Poor color matching and different legends font. | Poor color matching, different font, missing sublegends. |
+
+
+| ePBT Dreamscape Render         | HK Gaming Dreamscape                                                                                                                |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ![](images/epbtdreamscape.png) | ![](images/hkgamingdreamscape.png)                                                                                                  |
+|                                | Left side of the gradient does not have white legends like the original set, implying HK Gaming cannot/will not do reverse dye sub. |
+
+| JKDK BoW                                                 | XMX Pseudo-Handarbeige                                      |
+| -------------------------------------------------------- | ----------------------------------------------------------- |
+| ![](images/jkdkbow.png)                                  | ![](images/xm_handarbeige.png)                              |
+| via JKDK message to cardio (“That shift is flying away”) | Sinking Tab and Pipe legend, short backslash legend vs pipe |
+
+| Winmix/Catcher Olivia clone, doubleshot PBT                                                                                                                                                                                                                                                                    | "Shell Studio" "PBT Blush" (Doubleshot PBT Olivia clone)                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](images/winmixolivia.png)                                                                                                                                                                                                                                                                                   | ![](images/pbt_blush.png)                                                                                                                                                                                      |
+| via AliExpress reviews. These aren’t technically bad since their molds have improved (and the letters in Backspace aren't all different sizes anymore), but the font and lack of icon legends on the modifier keys are a dead giveaway to this being a lazy clone. Also, what’s the deal with “CapsLock”, man? | From [imgur album](https://imgur.com/a/CufPcmV) provided by /u/RatratanX from Reddit. Via their description, “You'll get what you paid for. Uneven thickness of legends. Still lucky no problems on mounting.” |
+
+| Winmix OSA Doubleshot PBT                                                                      | Aifei clone of GMK Jamon                                                             | Domikey Dolch (Cherry profile)                                                                                                              |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](images/osa.png)                                                                            | ![](images/aifeijamon.png)                                                           | ![](images/domikeydolch.png)                                                                                                                |
+| "ENB", via /u/denker88 on reddit. Legends are fine with the exception of one noticeable issue. | via AliExpress review. Note the inconsistent lettering legends on the modifier keys. | Pretty acceptable legend quality, but someone with a very fussy eye might make a stink about the spacing between the “F” and “T” in “Shift” |
+
+#### Poor kitting/compatability
+
+Please refer to [the kitting section](#on-kitting-or-how-to-read-a-kitting-diagram) for more detail, but a bad keyset is one that is going to omit support for boards you either have currently, or plan on having in the future.
 
 #### Warped Bars
 
@@ -261,8 +295,7 @@ A flaw in the design of how Kailh Box switches generate a tactile event means th
 
 #### Cream stem stand-ins
 
-Kailh stems tend to run on the longer side, meaning when they are swapped into other housings, they tend to bottom out on the pole and not the slider.
-Stems Identical to those of the Novelkey Creams in terms of sound. Pro burgundy stems have a slightly shorter travel distance, but the difference is minimal. Great stem choice for frankenswitches.
+Kailh stems tend to run on the longer side, meaning when they are swapped into other housings, they tend to bottom out on the pole and not the slider - this is a feature non-unique to Novelkeys Cream stems. Linear stems like those from Kailh Blacks, Kailh Pro Burgundies, and/or Kailh Reds should effectively be identical, barring the Cream stems having been exposed to a retool that the other linear switchs have not been (cannot confirm, ymmv). 
 
 ### KTT
 
@@ -348,10 +381,15 @@ Lubricant recommendations are a soft science that borders on old wives’ tales 
 
 |                 | Krytox 105-107 | 3203 | 3204 | 205g0 | XHT BDZ | Dielectric Grease | China Grease | Superlube |
 | --------------- | -------------- | ---- | ---- | ----- | ------- | ----------------- | ------------ | --------- |
-| Spring          | Good           | Good | Good | Good  | No      | No                | No           | Good      |
-| Housing         | Yes            | Good | good | Yes   | No      | No                | Warning      | Maybe     |
-| Stem            | Yes            | Good | Good | Good  | No      | No                | Warning      | Maybe     |
-| Stabilizer Wire | No             | No   | No   | Kinda | Yes     | Yes               | Yes          | Maybe     |
+| Spring          | ✓              | ✓    | ✓    | ✓     | No      | No                | !^4^         | Good      |
+| Housing         | ✓^1^           | ✓    | ✓    | ✓     | No      | No                | !^4^         | Maybe     |
+| Stem            | ✓^1^           | ✓    | ✓    | ✓^2^  | No      | No                | !^4^         | Maybe     |
+| Stabilizer Wire | X              | X    | X    | ✓^3^  | Yes     | Yes               | ✓^4^         | Maybe     |
+
+^1^: PTFE oils do not provide the same smoothing as greases do, but are still good for when users want to be more conservative with their lubrication
+^2^: Grease at this viscosity is known to dull the bump on tactile stems. Avoid unless you intend on reducing the bump.
+^3^: It can be argued that 205g0 is too thin for stabilizer wires, and will migrate soon with continuous usage. Still, this is a preference thing.
+^4^: Products marketed as "Krytox" or "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.
 
 ### Housing And Stem For Switch And Stabilizer
 
