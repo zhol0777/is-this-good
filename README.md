@@ -389,7 +389,7 @@ Manufactures Akko CS line of switches, as well as Akko Jelly (probably)/Akko CS/
 
 ## Switch openers
 
-A Cherry-style switch opener does not open wingwatch housings, and a winglatch style opener does not open up Cherry-style switch tops.
+A Cherry-style switch opener does not open winglatch housings, and a winglatch style opener does not open up Cherry-style switch tops.
 
 | Opener                                                                                                                            | Winglatch top housing                                                     | 4 pin top example                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------- |
