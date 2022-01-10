@@ -72,8 +72,8 @@ zhol
   - [Lubricants](#lubricants)
     - [A quick reference](#a-quick-reference)
     - [Housing And Stem For Switch And Stabilizer](#housing-and-stem-for-switch-and-stabilizer)
-      - [Switch Spring](#switch-spring)
-      - [Stabilizer Wire Lubricant](#stabilizer-wire-lubricant)
+    - [Switch Spring](#switch-spring)
+    - [Stabilizer Wire Lubricant](#stabilizer-wire-lubricant)
   - [Films](#films)
     - [Materials](#materials)
       - [Switches that Films Don’t Work Good in](#switches-that-films-dont-work-good-in)
@@ -109,7 +109,7 @@ Things to keep in mind:
 
 ### Firmware Support
 
-Being able to reprogram your keyboard with your preferred key layout or fun features is one of the significant benefits of having a fancier keyboard than the $
+Being able to reprogram your keyboard with your preferred key layout or fun features is one of the significant benefits of having a fancier keyboard. If programming custom key layouts or macros is something you're interested in, then this is something you may want to note.
 
 - Worst: No software - what you see is what you get!
 - Kinda Bad: China software
@@ -121,7 +121,7 @@ Being able to reprogram your keyboard with your preferred key layout or fun feat
   - Some PCBs will advertise that they run QMK/VIA, but they haven’t had their firmware merged to [their Git](https://github.com/qmk/qmk_firmware/tree/master/keyboards) yet; these only will ship some .hex/.bin file to be flashed with QMK Toolbox/equivalent command line tool.
   - Likewise, if the layout JSON hasn’t been merged to the-via yet, then you will need to take the .json layout file that the vendor provides, and side-load that into VIA Configurator. It’s one more step, it’s not the worst thing in the world..
 - Best: Out-of-the-box QMK + VIA/VIAL support
-  - You can compile it! You can adjust your keymaps and flash! You can enable features not included in the shipped firmwarebinary! Wow!
+  - You can compile it! You can adjust your keymaps and flash! You can enable features not included in the shipped firmware or binary! Wow!
 
 ### Switch orientation
 
@@ -369,8 +369,7 @@ Please verify which type of stabilizer you need for your board; very few take PC
 ![](images/stabilizercomparison.png)
 (image borrowed from [monstargears](https://www.monstargears.com/98/?idx=172))
 
-**You must mod the stabilizers to make them good.
-**
+**You must mod the stabilizers to make them good.**
 
 As with all cases, it is important that you attempt to wire-balance (YouTube guides will be sufficient on this) and provide lube for your stabilizer wire before you start considering other means to reduce rattle and tick, such as “holee mod”, “epsi mod”, “plumbers mod”, “tailors mod”, the “Keynions/Korean stab mod”, and so on. Issey83 has also provided video tutorials on stabilizer assembly that you should watch and re-watch should you have issue with stabilizer assembly and installation that are provided in the pins in #kb-help.
 
@@ -476,7 +475,7 @@ Lubricant recommendations are a soft science that borders on old wives’ tales 
     - Whatever grease you found on AliExpress or Amazon
       - The difference between SW92SA and Mystery Manufacturer “GPL 205g0” is that I already know that SW92SA is jank and going to separate, while if I buy GPL 205g0, I run the risk of deluding myself into believing that I have the hookup while everyone buying lube from a traditional vendor is getting scammed. If you know you’re getting a grease that’s going to separate, then more power to you.
   
-#### Switch Spring
+### Switch Spring
 
 Spring lubing does not require PTFE content in the way that housing lubing does to reduce friction; the purpose of lubing a switch spring is to provide goop that dampens the vibration a spring may experience during a strong upstroke movement that leads to what you may recognize as “spring ping”.
 
@@ -491,7 +490,7 @@ Spring lubing does not require PTFE content in the way that housing lubing does 
   - Petroleum-based lubricants
     - Your plastics will melt. I explained this earlier.
 
-#### Stabilizer Wire Lubricant
+### Stabilizer Wire Lubricant
 
 - Recommended
   - GPL 205g0 (Does not have to be Krytox)
@@ -534,10 +533,10 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
   
 #### Switches that Films Don’t Work Good in
 
-| Kailh Box Jade                     | Gateron Brown                                               |
-| ---------------------------------- | ----------------------------------------------------------- |
-| ![](images/kailhwinglatch.png)     | ![](images/gateronbrown.png)                                |
-| “Winglatch” housing (via kbdfans). | Gateron KS-9 Brown, with “Cherry style”/”4 pin” top housing |
+| Kailh Box Jade                                                                                                                                     | Gateron Brown                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](images/kailhwinglatch.png)                                                                                                                     | ![](images/gateronbrown.png)                                                                                                                                                              |
+| “Winglatch” housing (via kbdfans). Note the lack of 2 legs ("pins") on each side of the top housing, which is secured by two large "wings" instead | Gateron KS-9 Brown, with “Cherry style”/”4 pin” top housing. Note the contract of the polycarbonate against the nylon, which makes the individual "pins"/legs of the top housing apparent |
 
 Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.
 
