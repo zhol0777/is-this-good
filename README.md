@@ -76,7 +76,8 @@ zhol
     - [Stabilizer Wire Lubricant](#stabilizer-wire-lubricant)
   - [Films](#films)
     - [Materials](#materials)
-      - [Switches that Films Don’t Work Good in](#switches-that-films-dont-work-good-in)
+    - [Switches that Films Don’t Work Good in](#switches-that-films-dont-work-good-in)
+      - [Winglatch Housings](#winglatch-housings)
       - [Misc. Cases](#misc-cases)
 
 ## Prebuilt Keyboards
@@ -470,10 +471,11 @@ Lubricant recommendations are a soft science that borders on old wives’ tales 
       - I say “most” due to the possibility of Tribosys KSL becoming available in the future, which has been formulated to not gunk up the connection of the contact leaves.
   - Hesitant Recommendation
     - Glorious G-Lube
+      - Less than ideal, but it may be your only option. At least you know what you're getting into.
       - [SDS](https://cdn.discordapp.com/attachments/481804810497163264/768374046505041950/G-Lube_MSDS.pdf) for those interested
       - No PTFE content confirmed. A great description is provided by u/marks_ [here](https://www.reddit.com/r/MechanicalKeyboards/comments/jfbzqx/a_chemical_breakdown_of_glorious_lube_glube/)
     - Whatever grease you found on AliExpress or Amazon
-      - The difference between SW92SA and Mystery Manufacturer “GPL 205g0” is that I already know that SW92SA is jank and going to separate, while if I buy GPL 205g0, I run the risk of deluding myself into believing that I have the hookup while everyone buying lube from a traditional vendor is getting scammed. If you know you’re getting a grease that’s going to separate, then more power to you.
+      - The difference between SW92SA and Mystery Manufacturer “GPL 205g0” is that I already know that SW92SA is jank and going to separate, while if I buy GPL 205g0, I run the risk of deluding myself into believing that I have the hookup while everyone buying genuine Krytox from a traditional vendor is getting scammed. If you know you’re getting a grease that’s going to separate, then more power to you.
   
 ### Switch Spring
 
@@ -531,12 +533,14 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
     - These films are made of hard polycarbonate. They will not compress.
     - 0.125mm - 0.15mm thick. Buy 0.125mm thick if your housings feel like they don’t suffer from too much wobble, or 0.15mm thick if you’re sure that there’s a bit of housing wobble.
   
-#### Switches that Films Don’t Work Good in
+### Switches that Films Don’t Work Good in
 
-| Kailh Box Jade                                                                                                                                     | Gateron Brown                                                                                                                                                                             |
+#### Winglatch Housings
+
+| Kailh Box Jade (Winglatch top housing)                                                                                                             | Gateron Brown (non-winglatch top housing)                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](images/kailhwinglatch.png)                                                                                                                     | ![](images/gateronbrown.png)                                                                                                                                                              |
-| “Winglatch” housing (via kbdfans). Note the lack of 2 legs ("pins") on each side of the top housing, which is secured by two large "wings" instead | Gateron KS-9 Brown, with “Cherry style”/”4 pin” top housing. Note the contract of the polycarbonate against the nylon, which makes the individual "pins"/legs of the top housing apparent |
+| “Winglatch” housing (via kbdfans). Note the lack of 2 legs ("pins") on each side of the top housing, which is secured by two large "wings" instead | Gateron KS-9 Brown, with “Cherry style”/”4 pin” top housing. Note the contrast of the polycarbonate against the nylon, which makes the individual "pins"/legs of the top housing apparent |
 
 Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.
 
