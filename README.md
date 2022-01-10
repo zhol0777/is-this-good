@@ -17,33 +17,93 @@ Thanks,
 
 zhol
 
+- [Is this good?](#is-this-good)
+  - [Prebuilt Keyboards](#prebuilt-keyboards)
+      - [Non-standard bottom row layouts](#non-standard-bottom-row-layouts)
+  - [Keyboard Kits](#keyboard-kits)
+    - [Firmware Support](#firmware-support)
+    - [Switch orientation](#switch-orientation)
+    - [Boards We Have Feelings About](#boards-we-have-feelings-about)
+      - [Any Optical Board](#any-optical-board)
+      - [Some Skyloong Optical Kit (SK6*/GK6*, SK87, etc.)](#some-skyloong-optical-kit-sk6gk6-sk87-etc)
+      - [Some Skyloong Mechanical Kit (GK6*X, GK87, etc)](#some-skyloong-mechanical-kit-gk6x-gk87-etc)
+      - [TM680 (Wired)](#tm680-wired)
+        - [LK67](#lk67)
+      - [Royal Kludge Boards](#royal-kludge-boards)
+      - [Tofu60 case](#tofu60-case)
+      - [DZ6* (DZ60, DZ65) PCBs](#dz6-dz60-dz65-pcbs)
+  - [Keycaps](#keycaps)
+    - [On Clones](#on-clones)
+    - [On Kitting, or, How To Read A Kitting Diagram](#on-kitting-or-how-to-read-a-kitting-diagram)
+      - [Extensions To Look For](#extensions-to-look-for)
+      - [Example: A Well Kitted Keyset](#example-a-well-kitted-keyset)
+    - [How To Find A Bad Keycap Set](#how-to-find-a-bad-keycap-set)
+      - [Reading Reviews](#reading-reviews)
+      - [Poor Legends Quality](#poor-legends-quality)
+      - [Poor kitting/compatability](#poor-kittingcompatability)
+      - [Warped Bars](#warped-bars)
+  - [Switches (The Switch Meta)](#switches-the-switch-meta)
+    - [Gateron](#gateron)
+      - [Inks](#inks)
+      - [Zeal](#zeal)
+    - [Durock/Everglide/JWK](#durockeverglidejwk)
+      - [Everglide Aqua King/Water King](#everglide-aqua-kingwater-king)
+    - [Outemu](#outemu)
+      - [Gazzew x Outemu “Boba” Switches](#gazzew-x-outemu-boba-switches)
+    - [Tecsee](#tecsee)
+      - [PME Housings](#pme-housings)
+      - [UHMWPE/PE Mix materials](#uhmwpepe-mix-materials)
+    - [Cherry](#cherry)
+      - [Hyperglide](#hyperglide)
+      - [Non-Hyperglide “Retool”](#non-hyperglide-retool)
+    - [TTC](#ttc)
+    - [Kailh](#kailh)
+      - [Full POM Housing (Creams, Blueberries, etc.)](#full-pom-housing-creams-blueberries-etc)
+      - [Box Tactile](#box-tactile)
+      - [Cream stem stand-ins](#cream-stem-stand-ins)
+    - [KTT](#ktt)
+  - [Stabilizers](#stabilizers)
+    - [PCB Mount Stabilizers](#pcb-mount-stabilizers)
+      - [Recommended](#recommended)
+      - [Not Recommended](#not-recommended)
+      - [Be aware of issues](#be-aware-of-issues)
+    - [Plate Mount](#plate-mount)
+      - [Recommended](#recommended-1)
+  - [Lubricants](#lubricants)
+    - [A quick reference](#a-quick-reference)
+    - [Housing And Stem For Switch And Stabilizer](#housing-and-stem-for-switch-and-stabilizer)
+      - [Switch Spring](#switch-spring)
+      - [Stabilizer Wire Lubricant](#stabilizer-wire-lubricant)
+  - [Films](#films)
+    - [Materials](#materials)
+      - [Switches that Films Don’t Work Good in](#switches-that-films-dont-work-good-in)
+      - [Misc. Cases](#misc-cases)
+
 ## Prebuilt Keyboards
 
 Believe it or not, you may not require something as robust as whatever build that some Keyboard YouTuber (read: possible leech) is showing off with a $400 price tag in the preview thumbnail! A healthy mindset recognizes that a keyboard is a tool, and either your tool works for you, or works against you; a good prebuilt board will work for you, and get everything you need without getting in your way.
 Things to keep in mind:
 
-* The Good Brands
-  * Some brands are preferred by the MechKeys server than others. Leopold is known to have binned (cherry-picked) Cherry MX switches. Them, Varmilo and Keychron are known to apply some grease on their stabilizer wires to prevent stabilizer rattle.
-* Plate mounted stabilizer limitations
-  * Most prebuilts have their PCBs wave-soldered together, which is a process too hot for most PCB mounted stabilizers to survive; hence, most prebuilts are built with plate mount stabilizers
-* Factory lube on stabilizers
-  * Some gamery prebuilts will probably lack this, since stabilizer wire rattle is part of the fun! Other manufacturers (Leopold, Varmilo, Keychron) will have some sort of grease applied to the stabilizer wires on your boards and reduce rattle. If you don’t intend on injecting your stabilizer housings with Superlube, this is nice to have!
-* Non-Standard Bottom row layouts (ex. 6.5u spacebar on some Corsair layouts)
-  * Non-standard bottom row layouts can make finding compatible keysets between a little tricky (ex. Womier K66) to nightmarish (Corsair K70).
-* Non-Cherry MX switches
-  * Common switch manufacturers you’ll find in prebuilts are Gateron, Kailh, Outemu, and maybe TTC in a few cases. Most are decent and punch above their weight comapred to Cherry cost. Sure, they'll have some amount of scratch and spring ping stock
-  * Supposedly HyperX is just rebranded Gateron, Keychron branded switches are just rebranded Huano’s (not great), Logitech’s GL’s are Kailh Chocs, Logitech GX are just Kailh.
-  * Romer-G: avoid at all costs
-* Hotswap support is not found on many prebuilts, but when it’s found, it’s nice to have!
-  * Kailh hotswap is reasonably good hotswap that can arrive in a prebuilt, and it supports most-all Cherry MX clone switches.
-  * Quality of TTC hotswap is unknown, but presumably good.
-  * Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two, but the QC seems to be worse, between leaves having a greater tendency to bend the wrong way, or the portion that is soldered to the board snapping off of the plastic socket part. Moreover, the contact leaves have a slightly greater tendency towards getting bent the wrong way, and this may have to do with their reduced reliability vs Kailh hotswap sockets.
-  * CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
-  * Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
+- The Good Brands
+  - Some brands are preferred by the MechKeys server than others. Leopold is known to have binned (cherry-picked) Cherry MX switches. Them, Varmilo and Keychron are known to apply some grease on their stabilizer wires to prevent stabilizer rattle.
+- Plate mounted stabilizer limitations
+  - Most prebuilts have their PCBs wave-soldered together, which is a process too hot for most PCB mounted stabilizers to survive; hence, most prebuilts are built with plate mount stabilizers
+- Factory lube on stabilizers
+  - Some gamery prebuilts will probably lack this, since stabilizer wire rattle is part of the fun! Other manufacturers (Leopold, Varmilo, Keychron) will have some sort of grease applied to the stabilizer wires on your boards and reduce rattle. If you don’t intend on injecting your stabilizer housings with Superlube, this is nice to have!
+- Non-Standard Bottom row layouts (ex. 6.5u spacebar on some Corsair layouts)
+  - Non-standard bottom row layouts can make finding compatible keysets between a little tricky (ex. Womier K66) to nightmarish (Corsair K70).
+- Non-Cherry MX switches
+  - Common switch manufacturers you’ll find in prebuilts are Gateron, Kailh, Outemu, and maybe TTC in a few cases. Most are decent and punch above their weight comapred to Cherry cost. Sure, they'll have some amount of scratch and spring ping stock
+  - Supposedly HyperX is just rebranded Gateron, Keychron branded switches are just rebranded Huano’s (not great), Logitech’s GL’s are Kailh Chocs, Logitech GX are just Kailh.
+  - Romer-G: avoid at all costs
+- Hotswap support is not found on many prebuilts, but when it’s found, it’s nice to have!
+  - Kailh hotswap is reasonably good hotswap that can arrive in a prebuilt, and it supports most-all Cherry MX clone switches.
+  - Quality of TTC hotswap is unknown, but presumably good.
+  - Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two, but the QC seems to be worse, between leaves having a greater tendency to bend the wrong way, or the portion that is soldered to the board snapping off of the plastic socket part. Moreover, the contact leaves have a slightly greater tendency towards getting bent the wrong way, and this may have to do with their reduced reliability vs Kailh hotswap sockets.
+  - CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
+  - Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
 
 #### Non-standard bottom row layouts
-
-
 
 ## Keyboard Kits
 
@@ -51,17 +111,17 @@ Things to keep in mind:
 
 Being able to reprogram your keyboard with your preferred key layout or fun features is one of the significant benefits of having a fancier keyboard than the $
 
-* Worst: No software - what you see is what you get!
-* Kinda Bad: China software
-  * No idea if you’ve installed a rootkit or not. (You probably haven’t, but still).
-  * Poorly documented, only occasionally translated to English, and sometimes impenetrable.
-* Not Ideal: Proprietary Software that you need to keep installed.
-  * Often not easy to understand or use, confusing, and bloatware.
-* Acceptable: Non-mainlined QMK support
-  * Some PCBs will advertise that they run QMK/VIA, but they haven’t had their firmware merged to [their Git](https://github.com/qmk/qmk_firmware/tree/master/keyboards) yet; these only will ship some .hex/.bin file to be flashed with QMK Toolbox/equivalent command line tool.
-  * Likewise, if the layout JSON hasn’t been merged to the-via yet, then you will need to take the .json layout file that the vendor provides, and side-load that into VIA Configurator. It’s one more step, it’s not the worst thing in the world..
-* Best: Out-of-the-box QMK + VIA/VIAL support
-  * You can compile it! You can adjust your keymaps and flash! You can enable features not included in the shipped firmwarebinary! Wow!
+- Worst: No software - what you see is what you get!
+- Kinda Bad: China software
+  - No idea if you’ve installed a rootkit or not. (You probably haven’t, but still).
+  - Poorly documented, only occasionally translated to English, and sometimes impenetrable.
+- Not Ideal: Proprietary Software that you need to keep installed.
+  - Often not easy to understand or use, confusing, and bloatware.
+- Acceptable: Non-mainlined QMK support
+  - Some PCBs will advertise that they run QMK/VIA, but they haven’t had their firmware merged to [their Git](https://github.com/qmk/qmk_firmware/tree/master/keyboards) yet; these only will ship some .hex/.bin file to be flashed with QMK Toolbox/equivalent command line tool.
+  - Likewise, if the layout JSON hasn’t been merged to the-via yet, then you will need to take the .json layout file that the vendor provides, and side-load that into VIA Configurator. It’s one more step, it’s not the worst thing in the world..
+- Best: Out-of-the-box QMK + VIA/VIAL support
+  - You can compile it! You can adjust your keymaps and flash! You can enable features not included in the shipped firmwarebinary! Wow!
 
 ### Switch orientation
 
@@ -115,13 +175,13 @@ If you're reading this guide, there's a solid chance that you're new, and are no
 
 The morals of intellectual property theft (can you steal colors? How bad is it for you personally to buy keys with novelties of stolen art?) are a question best left for yourself to answer - we’re not interested in moral philosophy here. However, here are the possible functional issues with buying clones:
 
-* Poor color matching
-* Poor quality molds for doubleshot
-* Poor quality print for legends
-* Poor quality legends alignment
-* Error prone to dye-sub misprint and otherwise poor quality control
-  * Getting a replacement key that was misprinted may take 1-2 months
-* Sub-standard thinness
+- Poor color matching
+- Poor quality molds for doubleshot
+- Poor quality print for legends
+- Poor quality legends alignment
+- Error prone to dye-sub misprint and otherwise poor quality control
+  - Getting a replacement key that was misprinted may take 1-2 months
+- Sub-standard thinness
 
 ### On Kitting, or, How To Read A Kitting Diagram
 
@@ -151,19 +211,19 @@ Pictured: “Cherry Taro”, designed by pwade (via [Novelkeys](https://novelkey
 
 Here’s a good example of a base kit that provides very flexible kitting! You may not use all of it, but you’ll likely be able to use it on most/all of your boards, barring those with unpopular and esoteric layouts. You get
 
-* Mod pipe and mod tilde (some prefer their look on 60’s)
-* Stepped caps lock and 1.75u Control on R3 (nice to have for HHKB-style layouts
-* Physical ISO compatibility (ISO enter, R3 1u pipe, 1.25u left shift R4, and >< key beside left shift)
-* Flexible 65%, 75%, and 1800/96% support
-* Split backspace (R2 1.5u backspace, R1 pipe)
-* Split bars (predominantly for Alice-layout spacebars support, may support other less-common layouts as well)
-* 6u spacebar for stranger layouts
-  * TODO: double check this
-* Minivan (popular 40% layout) (R2 1.75u backspace, R3 1.25u Tab and 1.5u Enter)
-* Extra shift keys
-  * 2.25u right shift to support FC660M-style layouts
-  * 2u shift to support GK64-like layouts with 2u left shift and arrows or Womier K66/YC66 2u right shift
-  * 1u shift to support right shift on GK64-like layouts
+- Mod pipe and mod tilde (some prefer their look on 60’s)
+- Stepped caps lock and 1.75u Control on R3 (nice to have for HHKB-style layouts
+- Physical ISO compatibility (ISO enter, R3 1u pipe, 1.25u left shift R4, and >< key beside left shift)
+- Flexible 65%, 75%, and 1800/96% support
+- Split backspace (R2 1.5u backspace, R1 pipe)
+- Split bars (predominantly for Alice-layout spacebars support, may support other less-common layouts as well)
+- 6u spacebar for stranger layouts
+  - TODO: double check this
+- Minivan (popular 40% layout) (R2 1.75u backspace, R3 1.25u Tab and 1.5u Enter)
+- Extra shift keys
+  - 2.25u right shift to support FC660M-style layouts
+  - 2u shift to support GK64-like layouts with 2u left shift and arrows or Womier K66/YC66 2u right shift
+  - 1u shift to support right shift on GK64-like layouts
 
 ### How To Find A Bad Keycap Set
 
@@ -177,7 +237,6 @@ Reading reviews from people who have actually purchased a keyset is more advisab
 | -------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
 | ![](images/gmkdarling.png) | ![](images/pbtdarlingclone1.png)                | ![](images/pbtdarlingclone2.png)                         |
 |                            | Poor color matching and different legends font. | Poor color matching, different font, missing sublegends. |
-
 
 | ePBT Dreamscape Render         | HK Gaming Dreamscape                                                                                                                |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -215,10 +274,10 @@ DOES NOT WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS
 
 Base switches named after colors tend to match spring weight/actuation feeling of equivalent Cherry switches, except that their Clears are light linears instead of Cherry MX Clears, which are heavy tactiles. A lot of options with some winners and some stinkers.
 
-* Their **Pro** series, offered in **Silver** (45g long spring), **Red** (55g spring), and **Yellow** (~63.5g spring), as well as in **KS-9** (PC top, Nylon bottom, SMD compatible) or Full **Milky** housings are known to be decent with their factory lube and stem retool to reduce wobble.
-* Their **Cap** series of switches are known to be decent enough, barring milo’s offhand experience with his v1 browns generating some sort of squeaking noise in some circumstances.
-* Full Milky Housing material switches are known to be a bit scratchier than their other offerings.
-* Their Milk Top Black Bottom captures the slightly lower pitched topping out sound from the Milk Top while retaining a tolerable amount of smoothness from the nylon bottom. If you want a premium version of this, consider the Gateron X.
+- Their **Pro** series, offered in **Silver** (45g long spring), **Red** (55g spring), and **Yellow** (~63.5g spring), as well as in **KS-9** (PC top, Nylon bottom, SMD compatible) or Full **Milky** housings are known to be decent with their factory lube and stem retool to reduce wobble.
+- Their **Cap** series of switches are known to be decent enough, barring milo’s offhand experience with his v1 browns generating some sort of squeaking noise in some circumstances.
+- Full Milky Housing material switches are known to be a bit scratchier than their other offerings.
+- Their Milk Top Black Bottom captures the slightly lower pitched topping out sound from the Milk Top while retaining a tolerable amount of smoothness from the nylon bottom. If you want a premium version of this, consider the Gateron X.
 
 #### Inks
 
@@ -295,7 +354,7 @@ A flaw in the design of how Kailh Box switches generate a tactile event means th
 
 #### Cream stem stand-ins
 
-Kailh stems tend to run on the longer side, meaning when they are swapped into other housings, they tend to bottom out on the pole and not the slider - this is a feature non-unique to Novelkeys Cream stems. Linear stems like those from Kailh Blacks, Kailh Pro Burgundies, and/or Kailh Reds should effectively be identical, barring the Cream stems having been exposed to a retool that the other linear switchs have not been (cannot confirm, ymmv). 
+Kailh stems tend to run on the longer side, meaning when they are swapped into other housings, they tend to bottom out on the pole and not the slider - this is a feature non-unique to Novelkeys Cream stems. Linear stems like those from Kailh Blacks, Kailh Pro Burgundies, and/or Kailh Reds should effectively be identical, barring the Cream stems having been exposed to a retool that the other linear switchs have not been (cannot confirm, ymmv).
 
 ### KTT
 
@@ -327,32 +386,32 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 
 #### Recommended
 
-* Durock V2
-  * The community standard for a solid stabilizer. Still requires a bit of balancing and lube. A bit expensive for the money.
-* Zeal Stabilizers
-  * By god they’re expensive, but Snckler talks a big game about these, and how the tolerances are better than Durock stabs.
-* C3/Equalz Stabilizers
-  * Wires require ape strength to balance, but otherwise I have no complaints. The foam strips included in the V3 package do provide some community options to reduce rattle
-* Cherry Clip ins
-  * Have not borked by retool (yet). As solid as any other stabilizer when wire balanced and lubed with a thick enough grease. If they’re not being flipped, they’re cheap as all hell. Stocked by keebio, 3DKeebs, and Mouser if you’re based in the US.
-* TX Stabilizers
-  * This is the big idea improvement in stabilizers the hobby has been waiting years for - line the inside of the stabilizer stem with a TPU insert to dampen wire ticking. Real good stock. 2u’s practically don’t require lube. Also hard as hell to find, and infrequently and inconsistently stocked between vendors. Sold by TX on TaoBao, Ashkeebs in CA has been known to sell them, as well as Mekibo and ThocKeys in the US. Check their social media/mailing list to see if any of these places will stock them soon before begging for a date when they’ll restock.
+- Durock V2
+  - The community standard for a solid stabilizer. Still requires a bit of balancing and lube. A bit expensive for the money.
+- Zeal Stabilizers
+  - By god they’re expensive, but Snckler talks a big game about these, and how the tolerances are better than Durock stabs.
+- C3/Equalz Stabilizers
+  - Wires require ape strength to balance, but otherwise I have no complaints. The foam strips included in the V3 package do provide some community options to reduce rattle
+- Cherry Clip ins
+  - Have not borked by retool (yet). As solid as any other stabilizer when wire balanced and lubed with a thick enough grease. If they’re not being flipped, they’re cheap as all hell. Stocked by keebio, 3DKeebs, and Mouser if you’re based in the US.
+- TX Stabilizers
+  - This is the big idea improvement in stabilizers the hobby has been waiting years for - line the inside of the stabilizer stem with a TPU insert to dampen wire ticking. Real good stock. 2u’s practically don’t require lube. Also hard as hell to find, and infrequently and inconsistently stocked between vendors. Sold by TX on TaoBao, Ashkeebs in CA has been known to sell them, as well as Mekibo and ThocKeys in the US. Check their social media/mailing list to see if any of these places will stock them soon before begging for a date when they’ll restock.
 
 #### Not Recommended
 
-* Durock V1/Whatever Everglide Thing Is Just A Recolor Of These
-  * A lack of robust wire retention clip means the wire pops out on these much too easily when placing or removing a keycap - this is awful to deal with, especially if the wire pops after you’ve soldered your board together,  which means you’ll have you desolder the board or try to finnick with the wires to get them back in.
-* Cherry/GMK Screw-Ins
-  * Per invis, a relatively recent retool ruined the tolerances of these, making them not very good. Beware!
-* Glorious GOAT Stabilizers
-  * The ones that arrive stock with the GMMK Pro, overdone lube job making them a bit sticky at first. You’ve likely heard all the jokes about them by now. Re-tune them, or replace with any of the recommended screw-ins.
-* No-name “OEM” Stabilizer
-  * One time my stab stems were too tight against my caps and when I tried to remove my shift cap, the clipins undid themselves, and the stems came out with the cap and blasted out of the housings. I decided to get Durocks at that point. I am still bitter.
+- Durock V1/Whatever Everglide Thing Is Just A Recolor Of These
+  - A lack of robust wire retention clip means the wire pops out on these much too easily when placing or removing a keycap - this is awful to deal with, especially if the wire pops after you’ve soldered your board together,  which means you’ll have you desolder the board or try to finnick with the wires to get them back in.
+- Cherry/GMK Screw-Ins
+  - Per invis, a relatively recent retool ruined the tolerances of these, making them not very good. Beware!
+- Glorious GOAT Stabilizers
+  - The ones that arrive stock with the GMMK Pro, overdone lube job making them a bit sticky at first. You’ve likely heard all the jokes about them by now. Re-tune them, or replace with any of the recommended screw-ins.
+- No-name “OEM” Stabilizer
+  - One time my stab stems were too tight against my caps and when I tried to remove my shift cap, the clipins undid themselves, and the stems came out with the cap and blasted out of the housings. I decided to get Durocks at that point. I am still bitter.
 
 #### Be aware of issues
 
-* Staebies
-  * Manufactured by Tecsee. Designed only for GMK molds, so key caps with molds that vary from GMK tolerances (such as some PBT keycaps) may bind, as secondhand reports have claimed. Occasional reports of these stems cracking keycap stems have been spotted in the wild. Other users have a grand time with these, and the stock rattle on the spacebar outclasses TX stabs.
+- Staebies
+  - Manufactured by Tecsee. Designed only for GMK molds, so key caps with molds that vary from GMK tolerances (such as some PBT keycaps) may bind, as secondhand reports have claimed. Occasional reports of these stems cracking keycap stems have been spotted in the wild. Other users have a grand time with these, and the stock rattle on the spacebar outclasses TX stabs.
 
 ### Plate Mount
 
@@ -366,12 +425,12 @@ Folk knowledge suggests that plate mount stabilizers aren’t “as good” as P
 
 #### Recommended
 
-* Durock Plate Mount/Everglide Plate Mount
-  * Decent for plate mounts in my experience with the all-black ones.
-* Gateron Plate Mount
-  * Not god-awful for my experience. The claim of “factory lube” is somewhat wishful thinking, just re-do this on your own.
-* Zeal Stabilizers
-  * Zeal’s got some expensive products but they are still good.
+- Durock Plate Mount/Everglide Plate Mount
+  - Decent for plate mounts in my experience with the all-black ones.
+- Gateron Plate Mount
+  - Not god-awful for my experience. The claim of “factory lube” is somewhat wishful thinking, just re-do this on your own.
+- Zeal Stabilizers
+  - Zeal’s got some expensive products but they are still good.
 
 ## Lubricants
 
@@ -393,29 +452,65 @@ Lubricant recommendations are a soft science that borders on old wives’ tales 
 
 ### Housing And Stem For Switch And Stabilizer
 
-* Recommended
-  * Industrial greases developed by Miller Stephenson/Dupont/Chemours
-    * Tribosys 3203 is a stand-in for 203g0, 3204 is a stand-in for 204g0, and Krytox GPL 205g0 are the commonly recommended greases to lightly paint your switch friction points with.
-  * Oils from the same manufacturer
-    * Prior to using grease to lube Ergo Clears to ensure that they didn’t have return issues, oils were a popular option to reduce friction in a switch. Krytox 105 (thinner) to 107 (a bit more viscous) will fill that need while minimizing the risk that you over-lube.
-  * Superlube
-    * Make xalmart fill this in later
-  * Not Recommended
-    * AliExpress or Amazon mystery grease
-      * If you’re buying lube off Taobao or AliExpress, the odds that its genuine Krytox from Miller Stephenson/Chemours/Dupont are infinitesimal. Notice how there’s no mention of Krytox, or if it is, it's pixelated out in the product image for some reason? You’re getting a product that is similar in consistency to what will work good as a switch grease, but lacks the proper chemical binders to prevent the oils from separating from the grease as quickly. There’s a reason we recommend vendors on MechMap: we trust them to sell products with the proper formulation that prevents their components from separating. We are not interested in scooping finders fees when you end up buying some Miller Stephenson product - we do this to ensure you don’t have to deal with a substandard product when you don’t know what substandard means yet.
-    * Krytox GPL 205g2
-      * If you’re here, maybe you were stubborn and refused to shop anywhere outside of Amazon if you’re asking about this. Maybe you have a gift card, maybe you’re using your parents credit card and they don’t trust it to be used on some dude who named their shop after a bad pun on some keyboard thing. Grade 0 is thick enough for switches. Grade 1 is too thick most of the time, and Grade 2 is way too thick to be used without being thinned, and if anyone says that you do it because they’ve used it before, they’re just using you as a surface to stroke their own ego. Don’t get this, just get some Grade 0 lube, dude.
-    * Petroleum-based lubricants (WD40, vaseline, etc.)
-      * Petroleum based lubricants melt plastics slowly. You would be better served leaving them stock than letting them melt over time.
-    * Most spray lube (WD40, Superlube 31110)
-      * Just run !spraylubing in MechKeys.
-      * I say “most” due to the possibility of Tribosys KSL becoming available in the future, which has been formulated to not gunk up the connection of the contact leaves.
-  * Hesitant Recommendation
-    * Glorious G-Lube
-      * [SDS](https://cdn.discordapp.com/attachments/481804810497163264/768374046505041950/G-Lube_MSDS.pdf) for those interested
-      * No PTFE content confirmed. A great description is provided by u/marks_ [here](https://www.reddit.com/r/MechanicalKeyboards/comments/jfbzqx/a_chemical_breakdown_of_glorious_lube_glube/)
-    * Whatever grease you found on AliExpress or Amazon
-      * The difference between SW92SA and Mystery Manufacturer “GPL 205g0” is that I already know that SW92SA is jank and going to separate, while if I buy GPL 205g0, I run the risk of deluding myself into believing that I have the hookup while everyone buying lube from a traditional vendor is getting scammed. If you know you’re getting a grease that’s going to separate, then more power to you.
+- Recommended
+  - Industrial greases developed by Miller Stephenson/Dupont/Chemours
+    - Tribosys 3203 is a stand-in for 203g0, 3204 is a stand-in for 204g0, and Krytox GPL 205g0 are the commonly recommended greases to lightly paint your switch friction points with.
+  - Oils from the same manufacturer
+    - Prior to using grease to lube Ergo Clears to ensure that they didn’t have return issues, oils were a popular option to reduce friction in a switch. Krytox 105 (thinner) to 107 (a bit more viscous) will fill that need while minimizing the risk that you over-lube.
+  - Superlube
+    - Per xalmart, 51004's a good Superlube oil for these applications.
+  - Not Recommended
+    - AliExpress or Amazon mystery grease
+      - If you’re buying lube off Taobao or AliExpress, the odds that its genuine Krytox from Miller Stephenson/Chemours/Dupont are infinitesimal. Notice how there’s no mention of Krytox, or if it is, it's pixelated out in the product image for some reason? You’re getting a product that is similar in consistency to what will work good as a switch grease, but lacks the proper chemical binders to prevent the oils from separating from the grease as quickly. There’s a reason we recommend vendors on MechMap: we trust them to sell products with the proper formulation that prevents their components from separating. We are not interested in scooping finders fees when you end up buying some Miller Stephenson product - we do this to ensure you don’t have to deal with a substandard product when you don’t know what substandard means yet.
+    - Krytox GPL 205g2
+      - If you’re here, maybe you were stubborn and refused to shop anywhere outside of Amazon if you’re asking about this. Maybe you have a gift card, maybe you’re using your parents credit card and they don’t trust it to be used on some dude who named their shop after a bad pun on some keyboard thing. Grade 0 is thick enough for switches. Grade 1 is too thick most of the time, and Grade 2 is way too thick to be used without being thinned, and if anyone says that you do it because they’ve used it before, they’re just using you as a surface to stroke their own ego. Don’t get this, just get some Grade 0 lube, dude.
+    - Petroleum-based lubricants (WD40, vaseline, etc.)
+      - Petroleum based lubricants melt plastics slowly. You would be better served leaving them stock than letting them melt over time.
+    - Most spray lube (WD40, Superlube 31110)
+      - Just run !spraylubing in MechKeys.
+      - I say “most” due to the possibility of Tribosys KSL becoming available in the future, which has been formulated to not gunk up the connection of the contact leaves.
+  - Hesitant Recommendation
+    - Glorious G-Lube
+      - [SDS](https://cdn.discordapp.com/attachments/481804810497163264/768374046505041950/G-Lube_MSDS.pdf) for those interested
+      - No PTFE content confirmed. A great description is provided by u/marks_ [here](https://www.reddit.com/r/MechanicalKeyboards/comments/jfbzqx/a_chemical_breakdown_of_glorious_lube_glube/)
+    - Whatever grease you found on AliExpress or Amazon
+      - The difference between SW92SA and Mystery Manufacturer “GPL 205g0” is that I already know that SW92SA is jank and going to separate, while if I buy GPL 205g0, I run the risk of deluding myself into believing that I have the hookup while everyone buying lube from a traditional vendor is getting scammed. If you know you’re getting a grease that’s going to separate, then more power to you.
+  
+#### Switch Spring
+
+Spring lubing does not require PTFE content in the way that housing lubing does to reduce friction; the purpose of lubing a switch spring is to provide goop that dampens the vibration a spring may experience during a strong upstroke movement that leads to what you may recognize as “spring ping”.
+
+- Recommended
+  - Traditional industrial greases like GPL 205g0, 3204/204g0, 3203/203g0 can be painted on the spring, or donut dipped.
+  - Thinner oils like Krytox GPL 105, 106, 107 are fine for bag lubing.
+  - Gazzew’s Blend #7 also works great for donut dipping. If you buy parts from him, he might throw this in if you spend enough. It’s real thick stuff, so its best for springs really.
+  - Rainkeebs recommended gun oil. I trust rain.
+  - Superlube 51004
+- Not Recommended
+  - Dielectric grease. Come on, man.
+  - Petroleum-based lubricants
+    - Your plastics will melt. I explained this earlier.
+
+#### Stabilizer Wire Lubricant
+
+- Recommended
+  - GPL 205g0 (Does not have to be Krytox)
+    - Yeah, mystery grease will work here, just let the oil separate first so it doesn’t turn into a mess on your PCB later.
+    - As thick as this is, you can (and probably should) go thicker on the stabilizer wire, which needs a more viscous material to prevent wire tick.
+  - Gazzew Blend #7 (recommend for donut dipping springs and and stabilizer wires. Don’t ask if you should get this, it’s not a must-have, just use some other lube)
+  - XHT-BDZ
+    - A relatively new product, and prices will vary harder.. This is as thick as toothpaste, maybe thicker than Blend #7; the spec sheet says it's about Grade 1.5. Apply this conservatively, as applying a liberal amount may lead your stabilized keys to feel slightly sluggish on press. When used properly, this is pretty good.
+  - Dielectric grease
+    - You don’t need a specific brand. You do not need a specific brand. Permatex is pretty popular in North America, but your region may vary. It doesn’t need to be very specific because you just need some goop that’s thick enough to stop the wire from rattling all over the place.
+  - Superlube
+    - NLGI Grade 0 to Grade 2 will get the job done.
+    - Xalmart's named 51030 by name, but the stuff that TKC or RingerKeys sells will do fine
+- Not recommended
+  - Grease thinner than 205g0
+    - This grease will migrate (read: be pushed around by the movement of the wire) around until there is little left to dampen the wire tick.
+  - PTFE oils like GPL 105-107
+    - I shouldn’t have to put this here, but if a history of help channel activity has taught me anything, some people need to be reminded that making a stabilizer wire oily will not stop it from slapping against the interior of a stabilizer stem.
+  - Petroleum based lubricants
 
 ## Films
 
@@ -424,15 +519,33 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
 
 ### Materials
 
-* Soft
-  * Foam (MDI, Deskeys)
-    * Soft and very compressible. Generally will fit most switches, even in cases where they genuinely are too tight for most films. Fairly annoying to put on, due to the film bending so easily.
-    * Generally 0.3mm thick - this is a normal thickness, and will compress down.
-* Medium
-  * HTV
-    * More papery than polycarbonate, more flexible, but not really compressible like MDI foam/Deskeys film material/Silicone.
-    * Around 0.15mm thick.
-* Hard
-  * Polycarbonate
-    * These films are made of hard polycarbonate. They will not compress.
-    * 0.125mm - 0.15mm thick. Buy 0.125mm thick if your housings feel like they don’t suffer from too much wobble, or 0.15mm thick if you’re sure that there’s a bit of housing wobble.
+- Soft
+  - Foam (MDI, Deskeys)
+    - Soft and very compressible. Generally will fit most switches, even in cases where they genuinely are too tight for most films. Fairly annoying to put on, due to the film bending so easily.
+    - Generally 0.3mm thick - this is a normal thickness, and will compress down.
+- Medium
+  - HTV
+    - More papery than polycarbonate, more flexible, but not really compressible like MDI foam/Deskeys film material/Silicone.
+    - Around 0.15mm thick.
+- Hard
+  - Polycarbonate
+    - These films are made of hard polycarbonate. They will not compress.
+    - 0.125mm - 0.15mm thick. Buy 0.125mm thick if your housings feel like they don’t suffer from too much wobble, or 0.15mm thick if you’re sure that there’s a bit of housing wobble.
+  
+#### Switches that Films Don’t Work Good in
+
+| Kailh Box Jade                     | Gateron Brown                                               |
+| ---------------------------------- | ----------------------------------------------------------- |
+| ![](images/kailhwinglatch.png)     | ![](images/gateronbrown.png)                                |
+| “Winglatch” housing (via kbdfans). | Gateron KS-9 Brown, with “Cherry style”/”4 pin” top housing |
+
+Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.
+
+#### Misc. Cases
+
+These following switches are known to have fairly tight housings, and will not react well to films of medium or hard material (soft films may compress down enough that they still may be able to close together
+
+- Outemu x Gazzew “Boba” variants (this includes those with PC/clear tops)
+- Kailh x Novelkeys Cream variants
+- “Panda” housings
+  - The proliferation of housings made with the Panda name has kinda diluted the meaning, but thanks to the fact that most of these variants (Purple Pandas, Frost Pandas, Ethereal Pandas, Glorious Pandas) are produced by Tecsee, you can safely assume that the molds provide similarly tight tolerances. Pandas are known to have tight housings.
