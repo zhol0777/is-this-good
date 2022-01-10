@@ -72,7 +72,7 @@ Budget keyboard kits that are easily available having south facing switches are 
 
 #### Any Optical Board
 
-Most of these are not great. Optical boards only work with optical switches. Even if yours are hotswap, you cannot use mechanical switch bottoms, your options for tactile leaves are zero-to-limited, and actuation distance will be weird if you stem swap; you’re shooting yourself in the foot if you want to upgrade your switches. The sensors for optical keys sometimes just don’t work or break, and don’t always take to lube great (don’t lube your stem poles, please). And most importantly, Optical switches won’t make you play games better. A laser does not improve latency due to needing to be interpreted by the MCU. You’ll be equally shit at fortnite with an optical board as you will with a mechanical.
+Most of these are not great. Optical boards only work with optical switches. Even if yours are hotswap, you cannot use mechanical switch bottoms, your options for tactile leaves are zero-to-limited, and actuation distance will be weird if you stem swap; you’re shooting yourself in the foot if you want to upgrade your switches. The sensors for optical keys sometimes just don’t work or break, and don’t always take to lube great (don’t lube your stem poles, please). And most importantly, Optical switches won’t make you play games better. A laser does not improve latency due to needing to be interpreted by the MCU. Your performance will not improve.
 
 #### Some Skyloong Optical Kit (SK6*/GK6*, SK87, etc.)
 
@@ -287,7 +287,7 @@ A big manufacturer that produces all sorts of sensor equipment, not just limited
 
 #### Full POM Housing (Creams, Blueberries, etc.)
 
-Infamous for being scratchy as all hell. Claims about POM being a self-lubricating plastic are marketing miscommunications of the material’s science and marketing bullshit. Someone’s going to tell you that you can “break these in” and they’re “good after they’re broken in”, but it’s not worth it. Many people use the stems for franken-switches, which are almost identical to pro burgundy stems. Avoid these.
+Infamous for being scratchy as all hell. Claims about POM being a self-lubricating plastic are marketing miscommunications of the material’s science. Someone’s going to tell you that you can “break these in” and they’re “good after they’re broken in”, but it’s not worth it. These have been used to make frankenswitches made popular by YouTube videos, but you can use other Kailh linear stems as stand-ins for these. Otherwise, it's probably better to avoid them in lieu of some other POM housing switch, such as a Durock POM, or Infinitykey Cow.
 
 #### Box Tactile
 
@@ -345,7 +345,7 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 * Cherry/GMK Screw-Ins
   * Per invis, a relatively recent retool ruined the tolerances of these, making them not very good. Beware!
 * Glorious GOAT Stabilizers
-  * The ones that arrive stock with the GMMK Pro, pretty shitty. You’ve likely heard all the jokes about them by now. Replace with any of the recommended screw-ins.
+  * The ones that arrive stock with the GMMK Pro, overdone lube job making them a bit sticky at first. You’ve likely heard all the jokes about them by now. Re-tune them, or replace with any of the recommended screw-ins.
 * No-name “OEM” Stabilizer
   * One time my stab stems were too tight against my caps and when I tried to remove my shift cap, the clipins undid themselves, and the stems came out with the cap and blasted out of the housings. I decided to get Durocks at that point. I am still bitter.
 
