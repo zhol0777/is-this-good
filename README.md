@@ -1,23 +1,26 @@
 # Is this good?
 
+## A starter guide to buying parts for mechanical keyboards that take Cherry MX-style switches
+
  THIS IS A LONG DOCUMENT CURRENTLY, SO PLEASE JUST CTRL/CMD-F YOUR WAY INTO FINDING SOMETHING THAT MAY APPLY TO YOU. THERE IS ALSO A TABLE OF CONTENTS PROVIDED.
  Feel free to file pull requests or issues for information you wish to be added, or political complaints.
 
 Answer: *Good is a question for moral philosophers to answer, and that’s not who we are. There is no good and there is no bad; there are merely different products that fulfill different needs and niches. A prebuilt like a Leopold or a Varmilo may be “good enough” for someone who only wants a mechanical keyboard and not to have to think about it too much. Gateron Browns may be “good enough” for someone who isn’t asking for much more than a light bump in their press. $30 AliExpress keycaps might be good enough for someone who doesn’t want to look at thin shinethrough ABS anymore. Maybe you want thin shinethrough ABS because you don’t care much about “thickness”! And so on. Now, never ask me if something is “good” ever again.*  
 
-This guide is here to help and contextualize how the qualities of different aspects of products change across prices and manufacturers so that you can understand if something fits your needs, under-delivers, or is overkill. In return for writing it, I ask that you provide some care into giving the relevant parts a solid read-over, lest you risk turning someone helping you in #kb-help or #kb-buying advice from passive to aggressive. There may be advice here and there about what parts may work together, but for the most part, you may need to use your brain still.
+This guide is here to help you figure out if the thing you're considering buying will meet or not meet your needs and expectations. You don't have to read all of it, but I ask that you provide some care into giving the relevant parts a solid read-over, lest you risk turning someone helping you in #kb-help or #kb-buying advice from passive to aggressive. There may be advice here and there about what parts may work together, but for the most part, you may need to use your brain still.
 
 This is not a complete guide to be solely relied on, but a supplement to a set of information I am confident that you can find on your own with reasonable use of your favorite web search engine, YouTube (with information from there taken with grains of salt), the pins in the MechKeys Discord Server, and so on. Also please be considerate to the guide’s revision date, as certain aspects to the keyboard meta may be out of date by the time you read this.
 
 This is mostly folk knowledge and should thus be taken with a grain of salt. This is based on first-hand reports from myself, my co-writers, second-hand reports from friends and people I trust, and is thus subject to being viewed through the lenses of their unspoken and possibly conflicting preferences. Please be mindful of this while reading.
 
-Also, I have not finished writing this.
+Also, I have not finished writing this. Please help.
 
 Thanks,
 
-zhol
+zhol (with assistance from moosh, chickenman, and Daniel)
 
 - [Is this good?](#is-this-good)
+  <!-- - [A starter guide to buying parts for mechanical keyboards that take Cherry MX-style switches](#a-starter-guide-to-buying-parts-for-mechanical-keyboards-that-take-cherry-mx-style-switches) -->
   - [Prebuilt Keyboards](#prebuilt-keyboards)
     - [Non-standard bottom row layouts](#non-standard-bottom-row-layouts)
   - [Keyboard Kits](#keyboard-kits)
@@ -82,13 +85,13 @@ zhol
 
 ## Prebuilt Keyboards
 
-Believe it or not, you may not require something as robust as whatever build that some Keyboard YouTuber is showing off with a $400 price tag in the preview thumbnail! A healthy mindset recognizes that a keyboard is a tool, and either your tool works for you, or works against you; a good prebuilt board will work for you, and get everything you need without getting in your way.
+Believe it or not, you may not require something as robust as whatever build that some Keyboard YouTuber is showing off with a $700 price tag in the preview thumbnail! A healthy mindset recognizes that a keyboard is a tool, and either your tool works for you, or works against you; a good prebuilt board will work for you, and get everything you need without getting in your way.
 Things to keep in mind:
 
 - The Good Brands
-  - Some brands are preferred by the MechKeys server than others. Leopold is known to have binned (cherry-picked) Cherry MX switches. Them, Varmilo and Keychron are known to apply some grease on their stabilizer wires to prevent stabilizer rattle.
+  - Some brands are preferred by the MechKeys server than others. Leopold is known to have binned (cherry-picked) Cherry MX switches. Them, Varmilo and Keychron are known to apply some grease on their stabilizer wires to prevent stabilizer rattle. ABKO makes tanks, and so on.
 - Plate mounted stabilizer limitations
-  - Most prebuilts have their PCBs wave-soldered together, which is a process too hot for most PCB mounted stabilizers to survive; hence, most prebuilts are built with plate mount stabilizers
+  - Most prebuilts have their PCBs wave-soldered together, which is a process too hot for most PCB mounted stabilizers to survive; hence, most prebuilts are built with plate mount stabilizers. They will generally be unable to be upgraded with other PCB mount stabilizers.
 - Factory lube on stabilizers
   - Some gamery prebuilts will probably lack this, since stabilizer wire rattle is part of the fun! Other manufacturers (Leopold, Varmilo, Keychron) will have some sort of grease applied to the stabilizer wires on your boards and reduce rattle. If you don’t intend on injecting your stabilizer housings with Superlube, this is nice to have!
 - Non-Standard Bottom row layouts (ex. 6.5u spacebar on some Corsair layouts)
@@ -96,13 +99,16 @@ Things to keep in mind:
 - Non-Cherry MX switches
   - Common switch manufacturers you’ll find in prebuilts are Gateron, Kailh, Outemu, and maybe TTC in a few cases. Most are decent and punch above their weight comapred to Cherry cost. Sure, they'll have some amount of scratch and spring ping stock
   - Supposedly HyperX is just rebranded Gateron, Keychron branded switches are just rebranded Huano’s (not great), Logitech’s GL’s are Kailh Chocs, Logitech GX are just Kailh.
-  - Romer-G: avoid at all costs
+  - Omron Romer-G: unpopular switch, tactility is unimpressive
+  - More information about the switch manufacturer meta [here](#switches-the-switch-meta)
 - Hotswap support is not found on many prebuilts, but when it’s found, it’s nice to have!
   - Kailh hotswap is reasonably good hotswap that can arrive in a prebuilt, and it supports most-all Cherry MX clone switches.
   - Quality of TTC hotswap is unknown, but presumably good.
   - Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two, but the QC seems to be worse, between leaves having a greater tendency to bend the wrong way, or the portion that is soldered to the board snapping off of the plastic socket part. Moreover, the contact leaves have a slightly greater tendency towards getting bent the wrong way, and this may have to do with their reduced reliability vs Kailh hotswap sockets.
   - CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
   - Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
+    - Compatability for other Outemu switches and KTT (includes Akko CS) is known.
+    - Huano stuff like Feker Pandas have mixed reports on support.
 
 ### Non-standard bottom row layouts
 
@@ -137,13 +143,13 @@ Being able to reprogram your keyboard with your preferred key layout or fun feat
 ### Switch orientation
 
 Look, most of these cheaper kits you’ll find on Amazon, AliExpress, or BangGood are going to have north-facing switches, which will slightly limit the set of keycaps you can use on your keyboard. (For more information, message !northfacing within the help channel in mechkeys)
-Budget keyboard kits that are easily available having south facing switches are more of an exception to the rule than the rule itself
+Budget keyboard kits that are easily available having south facing switches are more of an exception to the rule than the rule itself, but you can still find them with a bit of looking around.
 
 ### Boards We Have Feelings About
 
 #### Any Optical Board
 
-Most of these are not great. Optical boards only work with optical switches. Even if yours are hotswap, you cannot use mechanical switch bottoms, your options for tactile leaves are zero-to-limited, and actuation distance will be weird if you stem swap; you’re shooting yourself in the foot if you want to upgrade your switches. The sensors for optical keys sometimes just don’t work or break, and don’t always take to lube great (don’t lube your stem poles, please). And most importantly, Optical switches won’t make you play games better. A laser does not improve latency due to needing to be interpreted by the MCU. Your performance will not improve.
+Most of these are not great. Optical boards only work with optical switches. Even if yours are hotswap, you cannot use mechanical switch bottoms, your options for tactile leaves are zero-to-limited, and actuation distance will be weird if you stem swap; you’re shooting yourself in the foot if you want to upgrade your switches. The sensors for optical keys sometimes just don’t work or break, and don’t always take to lube great (don’t lube your stem poles, please). And most importantly, optical switches won’t make you play games better. A laser does not improve latency. Your performance as a gamer will not improve.
 
 #### Some Skyloong Optical Kit (SK6*/GK6*, SK87, etc.)
 
@@ -153,7 +159,7 @@ An optical switch keyboard PCB does not take mechanical switches.
 
 #### Some Skyloong Mechanical Kit (GK6*X, GK87, etc)
 
-USB port likes to lift off. Software sucks to use, documented not very well, is not reprogrammable without it actively running, mediocre build quality. Beyond that, if you pick up one of these, you'll live.
+USB port likes to lift off a little too easily. Software sucks to use, not documented very well, is not reprogrammable without it actively running, mediocre build quality. Beyond that, if you pick up one of these, you'll live.
 
 #### TM680 (Wired)
 
@@ -161,7 +167,7 @@ Don’t. I’m telling you now, don’t. I know you love the knob. The QC on the
 
 ##### LK67
 
-The case may be the same, but the PCB may be designed by someone more competent this time. Hard to say.
+The case may be the same, but the PCB may be designed by someone more competent this time. Hard to say. Purchase cautiously.
 
 #### Royal Kludge Boards
 
@@ -252,6 +258,8 @@ Reading reviews from people who have actually purchased a keyset is more advisab
 
 #### Poor Legends Quality
 
+##### Poor Printing
+
 | Genuine GMK Darling                                                                                                                                     | PBT Darling Clone Example 1                         | PBT Darling Clone Example 2                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
 | ![GMK Darling](images/gmkdarling.png)                                                                                                                   | ![PBT Darling clone 1](images/pbtdarlingclone1.png) | ![PBT Darling clone 2](images/pbtdarlingclone2.png)      |
@@ -262,10 +270,14 @@ Reading reviews from people who have actually purchased a keyset is more advisab
 | ![ePBT Dreamscape Render](images/epbtdreamscape.png)                    | ![HK Gaming Dreamscape (clone) render](images/hkgamingdreamscape.png)                                                               |
 | Designed by tsoiab10                                                    | Left side of the gradient does not have white legends like the original set, implying HK Gaming cannot/will not do reverse dye sub. |
 
+##### Poor alignment
+
 | JKDK BoW (black on white)                                                                | XMX Pseudo-Handarbeige                                           |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | ![picture of JKDK Black on White set, with mis-aligned Shift legend](images/jkdkbow.png) | ![picture of Handarbeige-like keyset](images/xm_handarbeige.png) |
 | via JKDK message to cardio (“That shift is flying away”)                                 | Sinking Tab and Pipe legend, short backslash legend vs pipe      |
+
+##### Mold quality
 
 | Winmix/Catcher Olivia clone, doubleshot PBT                                                                                                                                                         | "Shell Studio" "PBT Blush" (Doubleshot PBT Olivia clone)                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -295,12 +307,10 @@ For personal switch recommendations, please refer to [the spreadsheet](https://d
 
 ### Gateron
 
-DOES NOT WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS
-
 Base switches named after colors tend to match spring weight/actuation feeling of equivalent Cherry switches, except that their Clears are light linears instead of Cherry MX Clears, which are heavy tactiles. A lot of options with some winners and some stinkers.
 
 - Their **Pro** series, offered in **Silver** (45g long spring), **Red** (55g spring), and **Yellow** (~63.5g spring), as well as in **KS-9** (PC top, Nylon bottom, SMD compatible) or Full **Milky** housings are known to be decent with their factory lube and stem retool to reduce wobble.
-- Their **Cap** series of switches are known to be decent enough, barring milo’s offhand experience with his v1 browns generating some sort of squeaking noise in some circumstances.
+- Their **Cap** series of switches are known to be decent enough, and supposedly immune to "switch farts" if the pole/post are lubed.
 - Full Milky Housing material switches are known to be a bit scratchier than their other offerings.
 - Their Milk Top Black Bottom captures the slightly lower pitched topping out sound from the Milk Top while retaining a tolerable amount of smoothness from the nylon bottom. If you want a premium version of this, consider the Gateron X.
 
@@ -314,17 +324,15 @@ Gateron makes Zeal switches. The general gist on these is that they are not bad 
 
 ### Durock/Everglide/JWK
 
-DOES NOT WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS
-
-Starting off by [selling fake Tealios with Gateron top housing molds](https://www.theremingoat.com/blog/t1s?rq=t1), JWK produces some of the smoothest linears available on the market, and a respectable range of tactile options. Famous for producing the budget switch commonly referred to as “JWICK”s, and infamous for producing recolors of their base linear or tactile frequently for vendors who understand how much people like to color-coordinate their switches with the rest of their board. Their major flaw is that their tops tend to lend a particular “thin” topping out sound, and some enthusiasts mitigate against this by replacing the tops with those from Cherry MX switches.
+Starting off by [selling fake Tealios with Gateron top housing molds](https://www.theremingoat.com/blog/t1s?rq=t1), JWK produces some of the smoothest linears available on the market, and a respectable range of tactile options. Famous for producing the budget switch commonly referred to as “JWICK”s, and infamous for producing recolors of their base linear or tactile frequently for vendors who understand how much people like to color-coordinate their switches with the rest of their board. Their major flaw is that their tops tend to lend a particular “thin” topping out sound, and some enthusiasts mitigate against this by replacing the tops with nylon tops from Cherry MX switches.
 
 #### Everglide Aqua King/Water King
 
-Tolerance issues and overapplication of thick factory lube prevented earlier revisions from having consistent stem return. After degreasing them and re-applying thinner lube these things turn out alright, but that is much more work than you deserve to put into a jank switch. Just get Tecsee Ice Candies/Snow Globes or get over not having RGB shine completely through your switch.
+Tolerance issues and overapplication of thick factory lube prevented earlier revisions from having consistent stem return. After degreasing them and re-applying thinner lube these things turn out alright, but that is much more work than you deserve to put into a jank switch. Consider Tecsee Ice Candies/Snow Globes or get over not having RGB shine completely through your switch.
 
 ### Outemu
 
-Outemu has a bad rap for prominent leaf ping on occasion, and the fact that their switches appear in the cheapest of boards (Tecware, Redragon, etc.) does little to help their reputation. If you can lube the leaf and spring, you can get some bargain basement cheap switches that are pretty decent.
+Outemu switches have a bad rap for prominent leaf ping on occasion, and the fact that their switches appear in the cheapest of boards (Tecware, Redragon, etc.) does little to help their reputation. If you can lube the leaf and spring, you can get some bargain basement cheap switches that are pretty decent.
 
 #### Gazzew x Outemu “Boba” Switches
 
@@ -336,15 +344,13 @@ Purportedly affiliated with BSUN (YOK Panda manufacturer) in the past, Tecsee ma
 
 #### PME Housings
 
-New plastic used exclusively by Tecsee. Fairly low in pitch. Nothing wrong with it as a material, but it is prone to flaking - no reports have claimed that they interrupt switch functionality, but to prevent you from freaking out, this is something you should know before you purchase something like Purple Pandas, Carrots, Giant v5’s, or Kingfishers.
+New plastic used exclusively by Tecsee. Fairly low in pitch. Nothing wrong with it as a material, but it is prone to flaking - no reports have claimed that it disrupts switch functionality, but to prevent you from freaking out, this is something you should know before you purchase something like Purple Pandas, Carrots, Giant v5’s, or Kingfishers.
 
 #### UHMWPE/PE Mix materials
 
-Diamond tops fly off a little bit too easily. Lychee and Ruby/Sapphire stems (UHMWPE mix) shrink too much, and are subject to significant amounts of stem wobble. The PE mix used in Naevy, Raed, and Snag switches is prone to creating a brittle product that has had occasional reports of it snapping off into keycaps.
+Diamond tops fly off a little bit too easily. Lychee and Ruby/Sapphire stems (UHMWPE mix) shrink too much, and are subject to prominent amounts of stem wobble. The PE mix used in Naevy, Raed, and Snag switches is prone to creating a brittle product that has had occasional reports of it snapping off into keycaps.
 
 ### Cherry
-
-DOES NOT WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS
 
 Cherry is a good case study in how injection plastic molds do wear out over time - we see cycles of Cherry retooling their switch molds, leading them to become significantly smoother than previous batches, then newly produced switches gradually becoming scratchier and scratchier until they’re back to meeting their reputation as a manufacturer of scratchy switches.
 
@@ -358,16 +364,11 @@ Retool that occurred sometime around 2017 for most switches except for Clears. A
 
 ### TTC
 
-NOT KNOWN TO WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS
-
 Popular in China, less popular in the West. Known to be smooth, pretty cheap. Can’t go wrong with these!
 
 ### Kailh
 
-DOES NOT WORK WITH OUTEMU HOTSWAP WITHOUT SANDING PINS  
-MAY HAVE ISSUES WITH MILLMAX SOCKETS  
-
-A big manufacturer that produces all sorts of sensor equipment, not just limited to MX switch clones. Not awful, just not popular in the switch meta for not generating anything of significant quality. Has a different housing design, which is more difficult to open with a small flathead and requires a special switch opener.
+A big manufacturer that produces all sorts of sensor equipment, not just limited to MX switch clones. Not awful, just less popular in the switch meta currently for not generating anything particularly interesting, although they do have some funky options. Generally, their switches are of "winglatch" style, which requires an opener different from your regular 4-pin opener, or a flathead.
 
 #### Full POM Housing (Creams, Blueberries, etc.)
 
@@ -383,9 +384,16 @@ Kailh stems tend to run on the longer side, meaning when they are swapped into o
 
 ### KTT
 
-WORKS WITH OUTEMU HOTSWAP
-
 Manufactures Akko CS line of switches, as well as Akko Jelly (probably)/Akko CS/Akko Jelly. Smooth linears with fairly light (generally 62g and below) springs at cheap prices. Tactiles are decent. A lot of spring variants for their linears. They’re good switches, you’re fine..
+
+## Switch openers
+
+A Cherry-style switch opener does not open wingwatch housings, and a winglatch style opener does not open up Cherry-style switch tops.
+
+| Opener                                                                                                                            | Winglatch top housing                                                     | 4 pin top example                         |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------- |
+| ![A switch opener that supports both styles](images/ai03opener.png)                                                               | ![Kailh Box Jade](images/kailhwinglatch.png)                              | ![Gateron Brown](images/gateronbrown.png) |
+| Winglatch opener on left, 4 pin on right. (via [KBDFans](https://kbdfans.com/products/gb-2-in-1-machined-aluminum-switch-opener)) | Kailh, Outemu, and KTT produce many switches with winglatch top housings. |                                           |
 
 ## Stabilizers
 
@@ -540,7 +548,11 @@ You no longer require PTFE content for applications to the wire to prevent wire 
 
 ## Films
 
-Yeah man, they’re all good. There aren’t really good films or bad films, as they’ll all do the same job of making a top housing fit onto a bottom housing tighter. Just make sure you put them in the correct orientation. Be sure to understand the material that the films you choose are made out of, and how your switches may react to them.
+Yeah man, they’re all good. There aren’t really good films or bad films, as they’ll all do the same job of making a top housing fit onto a bottom housing tighter. Just make sure you put them in the correct orientation.
+
+![guide for alignment for films on a switch](images/filmalignment.png)
+
+Be sure to understand the material that the films you choose are made out of, and how your switches may react to them.
 If you feel your switch develop an unexpected tactile bump, this may be the stem hitting against a part of the film poking into the housing well. Disassemble and replace film if/when this happens.
 
 ### Materials
