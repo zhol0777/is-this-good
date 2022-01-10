@@ -379,17 +379,17 @@ Lubricant recommendations are a soft science that borders on old wives’ tales 
 
 ### A quick reference
 
-|                 | Krytox 105-107 | 3203 | 3204 | 205g0 | XHT BDZ | Dielectric Grease | China Grease | Superlube |
-| --------------- | -------------- | ---- | ---- | ----- | ------- | ----------------- | ------------ | --------- |
-| Spring          | ✓              | ✓    | ✓    | ✓     | No      | No                | !^4^         | Good      |
-| Housing         | ✓^1^           | ✓    | ✓    | ✓     | No      | No                | !^4^         | Maybe     |
-| Stem            | ✓^1^           | ✓    | ✓    | ✓^2^  | No      | No                | !^4^         | Maybe     |
-| Stabilizer Wire | X              | X    | X    | ✓^3^  | Yes     | Yes               | ✓^4^         | Maybe     |
+|                 | Krytox 105-107 | 3203 | 3204 | 205g0         | XHT BDZ | Dielectric Grease | China Grease  | Superlube |
+| --------------- | -------------- | ---- | ---- | ------------- | ------- | ----------------- | ------------- | --------- |
+| Spring          | ✓              | ✓    | ✓    | ✓             | X       | X                 | !<sup>4</sup> | 51004     |
+| Housing         | ✓<sup>1</sup>  | ✓    | ✓    | ✓             | X       | X                 | !<sup>4</sup> | 51004     |
+| Stem            | ✓<sup>1</sup>  | ✓    | ✓    | ✓<sup>2</sup> | X       | X                 | !<sup>4</sup> | 51004     |
+| Stabilizer Wire | X              | X    | X    | ✓<sup>3</sup> | ✓       | ✓                 | ✓<sup>4</sup> | 51030     |
 
-^1^: PTFE oils do not provide the same smoothing as greases do, but are still good for when users want to be more conservative with their lubrication
-^2^: Grease at this viscosity is known to dull the bump on tactile stems. Avoid unless you intend on reducing the bump.
-^3^: It can be argued that 205g0 is too thin for stabilizer wires, and will migrate soon with continuous usage. Still, this is a preference thing.
-^4^: Products marketed as "Krytox" or "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.
+<sup>1</sup>: PTFE oils do not provide the same smoothing as greases do, but are still good for when users want to be more conservative with their lubrication.  
+<sup>2</sup>: Grease at this viscosity is known to dull the bump on tactile stems. Avoid unless you intend on reducing the bump.  
+<sup>3</sup>: It can be argued that 205g0 is too thin for stabilizer wires, and will migrate soon with continuous usage. Still, this is a preference thing.  
+<sup>4</sup>: Products marketed as "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are likely manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.
 
 ### Housing And Stem For Switch And Stabilizer
 
