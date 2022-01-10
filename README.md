@@ -66,6 +66,7 @@ zhol (with assistance from moosh, chickenman, and Daniel)
       - [Box Tactile](#box-tactile)
       - [Cream stem stand-ins](#cream-stem-stand-ins)
     - [KTT](#ktt)
+  - [Switch openers](#switch-openers)
   - [Stabilizers](#stabilizers)
     - [PCB Mount Stabilizers](#pcb-mount-stabilizers)
       - [Recommended](#recommended)
@@ -477,7 +478,7 @@ Lubricant recommendations are a soft science leaning towards parroting old wives
 <sup>1</sup>: PTFE oils do not provide the same smoothing to housings as greases do, but are still good for when users want to be more conservative/less drastic with their lubrication.  
 <sup>2</sup>: Grease at this viscosity is known to dull/smoothen/reduce the intensity of the bump on tactile stems. Avoid unless you intend on reducing the bump.  
 <sup>3</sup>: It can be argued that 205g0 is too thin for stabilizer wires, and will migrate soon with continuous usage. Still, this is a preference thing.  
-<sup>4</sup>: Products marketed as "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are likely manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.
+<sup>4</sup>: Products marketed as "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are likely manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.  
 <sup>5</sup>: 51004 and 51030 are known good oils. For stabilizer wire, some silicone grease PTFE that's NLGI Grade 0 to Grade 2 (such as 92003) should be great.
 
 ### Housing And Stem For Switch And Stabilizer
@@ -495,7 +496,7 @@ We recommend greases/oils that contain Teflon (PTFE/polytetrafluoroethylene) con
     - AliExpress or Amazon mystery grease
       - If you’re buying lube off Taobao or AliExpress, the odds that its genuine Krytox from Miller Stephenson/Chemours/Dupont are infinitesimal. Notice how there’s no mention of Krytox, or if it is, it's pixelated out in the product image for some reason? You’re getting a product that is similar in consistency to what will work good as a switch grease, but lacks the proper chemical binders to prevent the oils from separating from the grease as quickly. There’s a reason we recommend vendors on MechMap: we trust them to sell products with the proper formulation that prevents their components from separating. We are not interested in scooping finders fees when you end up buying some Miller Stephenson product - we do this to ensure you don’t have to deal with a substandard product when you don’t know what substandard means yet.
     - Krytox GPL 205g2
-      - If you’re here, maybe you were stubborn and refused to shop anywhere outside of Amazon if you’re asking about this. Maybe you have a gift card, maybe you’re using your parents credit card and they don’t trust it to be used on some dude who named their shop after a bad pun on some keyboard thing. Grade 0 is thick enough for switches. Grade 1 is too thick most of the time, and Grade 2 is way too thick to be used without being thinned, and if anyone says that you do it because they’ve used it before, they’re just using you as a surface to stroke their own ego. Don’t get this, just get some Grade 0 lube, dude.
+      - If you’re here, maybe you were stubborn and refused to shop anywhere outside of Amazon if you’re asking about this. Maybe you have a gift card, maybe you’re using your parents credit card and they don’t trust it to be used on someone who named their shop after a bad pun on some keyboard thing. Grade 0 is thick enough for switches. Grade 1 is too thick most of the time, and Grade 2 is way too thick to be used without being thinned, and if anyone says that you do it because they’ve used it before, they’re just using you as a surface to stroke their own ego. Don’t get this, just get some Grade 0 lube.
     - Petroleum-based lubricants (WD40, vaseline, etc.)
       - Petroleum based lubricants melt plastics slowly. You would be better served leaving them stock than letting them melt over time.
     - Most spray lube (WD40, Superlube 31110)
