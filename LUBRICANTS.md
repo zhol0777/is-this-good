@@ -29,7 +29,15 @@ Lubricant recommendations are a soft science leaning towards parroting old wives
 
 ### Amounts recommended
 
-TODO: Fill this out
+Folk knowledge suggests that 1-2 drops of GPL 105-107 (or equivalent PTFE lube) per 10 springs will be sufficient for bag lubing.
+
+| Volume | Product mass (approx.) | Switch coverage |
+| ------ | ---------------------- | --------------- |
+| 3 mL   | ~5.7g                  | ~240            |
+| 5 mL   | ~9.5g                  | ~400            |
+| 10 mL  | ~19g                   | ~800            |
+| 20 mL  | ~38g                   | ~1600           |
+| 40 mL  | ~76g                   | ~3200           |
 
 ## Housing And Stem For Switch And Stabilizer
 

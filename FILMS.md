@@ -32,7 +32,7 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
 
 ### Winglatch Housings
 
-| Kailh Box Jade (Winglatch top housing)                                                            | Gateron Brown (non-winglatch top housing)                                                                            |
+| ❌ Winglatch top housing (Kailh Box Jade)                                                          | ✅ 4-pin ("Cherry-style") top housing (Gateron Brown)                                                                 |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | ![Kailh Box Jade](images/kailhwinglatch.png)                                                      | ![Gateron Brown KS-9](images/gateronbrown.png)                                                                       |
 | “Winglatch” housing (via kbdfans). The top housing is secured two large "wings", one on each side | “Cherry style”/”4 pin” top housing. Note the two "pins"/legs of each side the top housing, securing it to the bottom |
