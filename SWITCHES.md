@@ -1,5 +1,7 @@
 # Switches (The Switch Meta)
 
+For personal switch recommendations, please refer to [the spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWkz3vJflKwHt6aYwWWAULPU3NKbqfZj8J9h6IkcapPYVUbtxsaLXF9hnRmf-1aBAijMmBg0Jm6D7A/pubhtml) that milo and I have put together.
+
 - [Switches (The Switch Meta)](#switches-the-switch-meta)
   - [Gateron](#gateron)
     - [Inks](#inks)
@@ -21,8 +23,6 @@
     - [Cream stem stand-ins](#cream-stem-stand-ins)
   - [KTT](#ktt)
   - [SP-Star](#sp-star)
-
-For personal switch recommendations, please refer to [the spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWkz3vJflKwHt6aYwWWAULPU3NKbqfZj8J9h6IkcapPYVUbtxsaLXF9hnRmf-1aBAijMmBg0Jm6D7A/pubhtml) that milo and I have put together.
 
 ## Gateron
 
@@ -107,4 +107,4 @@ Manufactures Akko CS line of switches, as well as Akko Jelly (probably)/Akko CS/
 
 ## SP-Star
 
-TODO: Fill this out
+They're fine. Their nylon is a bit high-pitched/"clacky". I have nothing more to report.

@@ -3,6 +3,7 @@
 - [Keyboard Kits](#keyboard-kits)
   - [Firmware Support](#firmware-support)
   - [Switch orientation](#switch-orientation)
+  - [Hotswap support](#hotswap-support)
   - [Boards We Have Feelings About](#boards-we-have-feelings-about)
     - [Any Optical Board](#any-optical-board)
     - [Some Skyloong Optical Kit (SK6*/GK6*, SK87, etc.)](#some-skyloong-optical-kit-sk6gk6-sk87-etc)
@@ -34,6 +35,16 @@ Being able to reprogram your keyboard with your preferred key layout or fun feat
 
 Look, most of these cheaper kits you’ll find on Amazon, AliExpress, or BangGood are going to have north-facing switches, which will slightly limit the set of keycaps you can use on your keyboard. (For more information, message !northfacing within the help channel in mechkeys)
 Budget keyboard kits that are easily available having south facing switches are more of an exception to the rule than the rule itself, but you can still find them with a bit of looking around.
+
+## Hotswap support
+
+- Kailh hotswap is reasonably good hotswap that can arrive in a prebuilt, and it supports most-all Cherry MX clone switches.
+- Quality of TTC hotswap is unknown, but presumably good.
+- Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two, but the QC seems to be worse, between leaves having a greater tendency to bend the wrong way, or the portion that is soldered to the board snapping off of the plastic socket part. Moreover, the contact leaves have a slightly greater tendency towards getting bent the wrong way, and this may have to do with their reduced reliability vs Kailh hotswap sockets.
+- CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
+- Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
+  - Compatability for other Outemu switches and KTT (includes Akko CS) is known.
+  - Huano stuff like Feker Pandas have mixed reports on support.
 
 ## Boards We Have Feelings About
 

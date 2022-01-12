@@ -41,7 +41,7 @@ Winglatch housings are generally “tight enough” (reduced wobble in W-E direc
 
 ### Misc. Cases
 
-These following switches are known to have fairly tight housings, and will not react well to films of medium or hard material (soft films may compress down enough that they still may be able to close together
+These following switches are known to have fairly tight housings, and will not react well to films of medium or hard material (soft films may compress down enough that they still may be able to close together).
 
 - Outemu x Gazzew “Boba” variants (this includes those with PC/clear tops)
 - Kailh x Novelkeys Cream variants
