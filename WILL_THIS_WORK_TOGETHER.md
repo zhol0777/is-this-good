@@ -59,6 +59,7 @@ impact the top housings of a switch.
 | ePBT PBT             | row 2          |
 | GMK                  | row 3          |
 | JTK                  | row 2          |
+
 <sup>1</sup>: ePBT ABS molds are strange, and are also known to collide with the top housings on
 boards with south facing switches in some situations.
 
