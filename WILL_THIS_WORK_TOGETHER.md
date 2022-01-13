@@ -51,7 +51,7 @@ thick enough to collide with the top housing of a switch on bottom-out.
 | Manufacturer         | Where affected |
 | -------------------- | -------------- |
 | CRP                  | all rows       |
-| ePBT ABS<sup>1</sus> | all rows       |
+| ePBT ABS<sup>1</sup> | all rows       |
 | ePBT PBT             | row 2          |
 | GMK                  | row 3          |
 | JTK                  | row 2          |
