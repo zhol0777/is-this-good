@@ -48,6 +48,10 @@ If you are buying **Cherry profile** keycaps, and your PCB has switches that fac
 a non-zero chance that your keycaps will be impacted. These manufacturers are known to make keycaps
 thick enough to collide with the top housing of a switch on bottom-out.
 
+Moreover, if you buy cheaper PBT caps, there's a decent chance you'll receive caps that are thin
+enough to avoid this interference. Similarly, most other profiles (KAT, MT3, SA, ASA, etc.) will not
+impact the top housings of a switch.
+
 | Manufacturer         | Where affected |
 | -------------------- | -------------- |
 | CRP                  | all rows       |
