@@ -1,6 +1,7 @@
 # Keycaps
 
 - [Keycaps](#keycaps)
+  - [Switch orientation on PCB and keycap interference](#switch-orientation-on-pcb-and-keycap-interference)
   - [On Clones](#on-clones)
   - [On Kitting, or, How To Read A Kitting Diagram](#on-kitting-or-how-to-read-a-kitting-diagram)
     - [Extensions To Look For](#extensions-to-look-for)
@@ -14,6 +15,10 @@
     - [Poor kitting/compatability](#poor-kittingcompatability)
     - [Warped Bars](#warped-bars)
     - [Thickness](#thickness)
+
+## Switch orientation on PCB and keycap interference
+
+Please consult [this section](WILL_THIS_WORK_TOGETHER.md/#north-facing-keycap-interference) when thinking on if your keycaps may have any issue with the switches in your PCB.
 
 ## On Clones
 
