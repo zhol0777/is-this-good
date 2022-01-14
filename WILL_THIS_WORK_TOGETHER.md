@@ -101,11 +101,12 @@ this screenshot here
 | Note that the LED is visibly a bump on the PCB                                                      |
 
 In this unlikely situation (most decent PCBs you find will not be like this), you'll need switches
-that are "SMD compatible".
+that are "SMD compatible". The following are generally known to provide the appropriate space in the
+bottom housing such LEDs.
 
 - Gateron clear-tops (such as KS9)
 - Outemu
-- TTC 
+- TTC
 - Most Kailh stuff
 - Some Tecsee switches
   - Not Neapolitans
@@ -133,7 +134,6 @@ This information should be relatively obvious, but for some, it may not be.
 | -------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
 | ![three pins per switch](images/3pinpcb.png) | ![supports 3 pin and 5 pins switch](images/5pinpcb.png) | ![switch with only stem post well pin, two metal pins](images/3pinswitch.png) | ![5 pin switch](images/5pinswitch.png) |
 | via [DROP](drop.com)                         |                                                         |                                                                               | via [1up Keyboards](1upkeyboards.com)  |
-
 
 |              | 3 pin PCB         | 5 pin PCB |
 | ------------ | ----------------- | --------- |
