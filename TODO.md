@@ -5,6 +5,6 @@
 - Provide more robust image attribution
 - Make ToC not suck
 - Smarter use of line breaks in docs
-- "Do these parts work together?"
-  - Describe SMD housing switches and when they're necessary
 - move stuff from mechmap to here? (vendor list WIP by powwu)
+- entire "how do i work this" set of sections?
+- organize images into folders based on sections?

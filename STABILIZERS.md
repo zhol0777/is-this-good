@@ -14,7 +14,9 @@ Please verify which type of stabilizer you need for your board; very few take PC
 
 **You must mod the stabilizers to make them good.**
 
-As with all cases, it is important that you attempt to wire-balance (YouTube guides will be sufficient on this) and provide lube for your stabilizer wire before you start considering other means to reduce rattle and tick, such as “holee mod”, “epsi mod”, “plumbers mod”, “tailors mod”, the “Keynions/Korean stab mod”, and so on. Issey83 has also provided video tutorials on stabilizer assembly that you should watch and re-watch should you have issue with stabilizer assembly and installation that are provided in the pins in #kb-help.
+As with all cases, it is important that you attempt to wire-balance (YouTube guides will be sufficient on this) and provide lube for your stabilizer wire before you start considering other means to reduce rattle and tick, such as “holee mod”, “epsi mod”, “plumbers mod”, “tailors mod”, the “Keynions/Korean stab mod”, and so on.
+
+Issey83 has provided video tutorials pinned within #kb-help on stabilizer assembly that you should watch and re-watch should you encounter issues. Also helpful are the [MachineAbuse#1442 visual guides to stabilizer assembly](https://imgur.com/gallery/pHK0vhz) you can consult with.
 
 ## PCB Mount Stabilizers
 
