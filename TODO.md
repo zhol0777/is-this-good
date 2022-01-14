@@ -9,3 +9,15 @@
 - move stuff from mechmap to here? (vendor list WIP by powwu)
 - entire "how do i work this" set of sections?
 - organize images into folders based on sections?
+
+<details>
+
+  <summary></summary>
+
+  <h2> Stock Picks </h2>
+  
+  <h3> Cardio says </h3>
+
+  Buy AAPL
+  
+</details>

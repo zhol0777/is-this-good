@@ -12,8 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-exclude:
-  - TODO.md
+# exclude:
+#   - TODO.md
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 plugins:
 - jekyll-remote-theme 
