@@ -6,7 +6,7 @@
 - make image descriptions not suck
 - Make ToC not suck
 - Smarter use of line breaks in docs
-- move stuff from mechmap to here? (vendor list WIP by powwu)
+- move stuff from mechmap to here? (vendor list WIP by powwu & zhol)
 - entire "how do i work this" set of sections?
 - organize images into folders based on sections?
 

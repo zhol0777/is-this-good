@@ -17,7 +17,7 @@ Also, I have not finished writing this. Please help.
 
 Thanks,
 
-zhol (with assistance from moosh, chickenman, and Daniel)
+zhol (with assistance from moosh, chickenman, Daniel, powwu, and pizza)
 
 - [Prebuilt Keyboards](PREBUILT.md)
   - [Non-standard bottom row layouts](PREBUILT.md/#non-standard-bottom-row-layouts)

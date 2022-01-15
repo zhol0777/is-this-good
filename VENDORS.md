@@ -1,21 +1,20 @@
-# Vendor List
+# Vendor List (WIP)
 
-#### Listed items are for in stock purchases, not GBs.
+Vendors are listed for their in stock purchases, not GBs.
 
-- [North America](#north-america)
-- [Asia](#asia)
-- [Oceania](#oceania)
-- [Europe](#europe)
-- [MENA/WANA](#mena-wana)
+- [Vendor List (WIP)](#vendor-list-wip)
+  - [North America](#north-america)
+  - [Europe](#europe)
+  - [Asia](#asia)
+  - [Oceania](#oceania)
+  - [MENA/WANA](#menawana)
 
-&nbsp;
-&nbsp;
-&nbsp;
+If you notice any mistakes, or would like to contribute, feel free to **make** a pull request. Alternatively, DM Powwu#0001 :)
 
-##### If you notice any mistakes, or would like to contribute, feel free to make a pull request. Alternatively DM me Powwu#0001 :)
 ## [North America](#north-america)
+
 | Vendor                                                  | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
-|---------------------------------------------------------|----------|------|-------|--------|---------|-----------|----------------------------|
+| ------------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | -------------------------- |
 | [1upKeyboards](https://1upkeyboards.com)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | New York City              |
 | [3DKeebs](https://3dkeebs.com)                          | [x]      | [x]  | [x]   |        |         |           | Dallas                     |
 | [415keys](https://415keys.com)                          | [x]      | [x]  | [x]   |        |         |           | Richmond                   |
@@ -61,7 +60,7 @@
 | [Mekibo (TX Keyboards)](https://mekibo.com/)            | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
 | [Mimic Cables](https://mimic-cables.com/)               |          |      |       | [x]    |         |           | ?                          |
 | [MinoKeys](https://minokeys.com/)                       | [x]      | [x]  | [x]   | [x]    |         |           | Ontario, Canada            |
-| [MKUltra](https://mkultra.click/)                       | [x]      |      |       | [x]    | [x]     | [x]       | California                 |
+| [MKUltra](https://mkultra.click/)                       | [x]      |      |       | [x]    | [x]     | [x]       | California (Central)       |
 | [Malvix](https://store.malvix.com/)                     | [x]      | [x]  | [x]   |        |         |           | Vancouver, Canada          |
 | [Noodle Cords](https://noodlecords.ca/)                 |          |      |       |        | [x]     |           | Canada                     |
 | [NovelKeys_](https://novelkeys.xyz/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | West Virginia              |
@@ -94,9 +93,19 @@
 | [ZealPC](https://zealpc.net/)                           | [x]      | [x]  | [x]   |        |         | [x]       | Canada                     |
 
 ## Europe
-| [Clark Kable](https://clarkkable.com/) |   |   |   | [x] |   |   | Germany |
-|                                        |   |   |   |     |   |   |         |
+
+| Vendor                                 | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location |
+| -------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | -------- |
+| [Clark Kable](https://clarkkable.com/) |          |      |       | [x]    |         |           | Germany  |
+|                                        |          |      |       |        |         |           |          |
+
+## Asia
 
 ## Oceania
-| [Click Clack Cables](https://clickclackcables.com/) |   |   |   | [x] |   |   | Australia |
-|                                                     |   |   |   |     |   |   |           |
+
+| Vendor                                              | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location  |
+| --------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | --------- |
+| [Click Clack Cables](https://clickclackcables.com/) |          |      |       | [x]    |         |           | Australia |
+|                                                     |          |      |       |        |         |           |           |
+
+## MENA/WANA
