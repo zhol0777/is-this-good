@@ -1,5 +1,7 @@
 # Is this good?
 
+[Consider joining the MechKeys Discord!](https://discord.gg/mechkeys)
+
 ## A starter guide to buying parts for mechanical keyboards that take Cherry MX-style switches
 
  THIS IS A LONG DOCUMENT CURRENTLY, SO PLEASE JUST CTRL/CMD-F YOUR WAY INTO FINDING SOMETHING THAT MAY APPLY TO YOU. THERE IS ALSO A TABLE OF CONTENTS PROVIDED.
