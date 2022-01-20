@@ -52,6 +52,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kimdi Keys](https://kimdi-keys.com/)                   | [x]      | [x]  | [x]   |        |         |           | Upstate New York           |
 | [Kinetic Labs](https://kineticlabs.store/)              | [x]      | [x]  |       |        | [x]     |           | New Jersey                 |
 | [Kono](https://kono.store/)                             | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | intentionally confusing    |
+| [Kraken Keyboards](https://krakenkeyboards.com/)        |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
 | [Little Keyboards](https://littlekeyboards.com/)        | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
 | [MaxKeyboard](https://maxkeyboard.com/)                 |          |      |       |        |         | [x]       | NorCal                     |
 | [Mech27](https://mech27.com/)                           |          | [x]  |       |        |         |           | ?                          |
@@ -95,30 +96,31 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 ## Europe
 
-| Vendor                                       | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
-| -------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
-| [CandyKeys](https://candykeys.com/)          |          |      |       |        |         |           | Germany     |
-| [Clark Cable](https://clarkkable.com/)       |          |      |       |        |         |           | Germany     |
-| [Cool Cables](https://coolcable.co.uk/)      |          |      |       |        |         |           | UK          |
-| [Keeb.Studio](https://keeb.studio/)          |          |      |       |        |         |           | Belgium     |
-| [KeebCats](https://keebcats.co.uk/)          |          |      |       |        |         |           | UK          |
-| [Keebwerk](https://keebwerk.com/)            |          |      |       |        |         |           | Germany     |
-| [KeyCapsss](https://keycapsss.com/)          |          |      |       |        |         |           | Germany     |
-| [KeyChrox](https://www.keycrox.co.uk/)       |          |      |       |        |         |           | UK          |
-| [Keygem](https://keygem.store/)              |          |      |       |        |         |           | Germany     |
-| [Kris Cables](https://kriscables.com/)       |          |      |       |        |         |           | Portugal    |
-| [Loob.no](https://loob.no/)                  |          |      |       |        |         |           | Norway      |
-| [Mechanisk](https://mekanisk.com/)           |          |      |       |        |         |           | Norway      |
-| [MechBoards](https://mechboards.co.uk/)      |          |      |       |        |         |           | UK          |
-| [MechBox](https://mechbox.co.uk/)            |          |      |       |        |         |           | UK          |
-| [MyKeyboard](https://mykeyboard.eu/)         |          |      |       |        |         |           | Belgium     |
-| [OpticBoards](https://www.opticboards.com/)  |          |      |       |        |         |           | UK          |
-| [Pexon](https://pexonpcs.co.uk/)             |          |      |       |        |         |           | UK          |
-| [Prototypist](https://prototypist.net/)      |          |      |       |        |         |           | UK          |
-| [SplitKB](https://splitkb.com/)              |          |      |       |        |         |           | Netherlands |
-| [TheKeyboardCo](https://www.keyboardco.com/) |          |      |       |        |         |           | UK          |
-| [Tokas Cables](https://shop.tokas.co.uk/)    |          |      |       |        |         |           | UK          |
-| [UK Keycaps](http://www.ukkeycaps.co.uk/)    |          |      |       |        |         |           | UK          |
+| Vendor                                             | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
+| -------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
+| [CandyKeys](https://candykeys.com/)                |          |      |       |        |         |           | Germany     |
+| [Clark Cable](https://clarkkable.com/)             |          |      |       |        |         |           | Germany     |
+| [Cool Cables](https://coolcable.co.uk/)            |          |      |       |        |         |           | UK          |
+| [Eloquent Clicks](https://www.eloquentclicks.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Spain       |
+| [Keeb.Studio](https://keeb.studio/)                |          |      |       |        |         |           | Belgium     |
+| [KeebCats](https://keebcats.co.uk/)                |          |      |       |        |         |           | UK          |
+| [Keebwerk](https://keebwerk.com/)                  |          |      |       |        |         |           | Germany     |
+| [KeyCapsss](https://keycapsss.com/)                |          |      |       |        |         |           | Germany     |
+| [KeyChrox](https://www.keycrox.co.uk/)             |          |      |       |        |         |           | UK          |
+| [Keygem](https://keygem.store/)                    |          |      |       |        |         |           | Germany     |
+| [Kris Cables](https://kriscables.com/)             |          |      |       |        |         |           | Portugal    |
+| [Loob.no](https://loob.no/)                        |          |      |       |        |         |           | Norway      |
+| [Mechanisk](https://mekanisk.com/)                 |          |      |       |        |         |           | Norway      |
+| [MechBoards](https://mechboards.co.uk/)            |          |      |       |        |         |           | UK          |
+| [MechBox](https://mechbox.co.uk/)                  |          |      |       |        |         |           | UK          |
+| [MyKeyboard](https://mykeyboard.eu/)               |          |      |       |        |         |           | Belgium     |
+| [OpticBoards](https://www.opticboards.com/)        |          |      |       |        |         |           | UK          |
+| [Pexon](https://pexonpcs.co.uk/)                   |          |      |       |        |         |           | UK          |
+| [Prototypist](https://prototypist.net/)            |          |      |       |        |         |           | UK          |
+| [SplitKB](https://splitkb.com/)                    |          |      |       |        |         |           | Netherlands |
+| [TheKeyboardCo](https://www.keyboardco.com/)       |          |      |       |        |         |           | UK          |
+| [Tokas Cables](https://shop.tokas.co.uk/)          |          |      |       |        |         |           | UK          |
+| [UK Keycaps](http://www.ukkeycaps.co.uk/)          |          |      |       |        |         |           | UK          |
 
 ## Asia
 
@@ -134,7 +136,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kelowna](https://sloer.world.taobao.com/)                    |          |      |       |        |         |           | China (PRC)  |
 | [Keys.my](https://keys.my/)                                   |          |      |       |        |         |           | Malaysia     |
 | [KPRepublic](https://kprepublic.com/)                         |          |      |       |        |         |           | China (PRC)  |
-| [Kraken Keyboards](https://krakenkeyboards.com/)              |          |      |       |        |         |           | ?            |
 | [KwertieKeys](https://www.kwertiekeys.com/)                   |          |      |       |        |         |           | Singapore    |
 | [LetsGetIt](https://letsgetit.io/)                            |          |      |       |        |         |           | South Korea  |
 | [Mecha](https://mecha.store/)                                 |          |      |       |        |         |           | Singapore    |
@@ -148,7 +149,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Rectangles.store](https://rectangles.store/)                 |          |      |       |        |         |           | India        |
 | [StacksKB](https://stackskb.com/)                             |          |      |       |        |         |           | India        |
 | [SwagKeys](https://swagkeys.com/)                             |          |      |       |        |         |           | South Korea  |
-| [Thic Thock](https://thicthock.com/)                          |          |      |       |        |         |           | Singapore    |
+| [Thic Thock](https://thicthock.com/)                          |          |      |       |        |         |           | China (PRC)  |
 | [YMDK](https://ymdkey.com/)                                   |          |      |       |        |         |           | China (PRC)  |
 | [YushaKobo](https://yushakobo.jp/)                            |          |      |       |        |         |           | Japan        |
 
