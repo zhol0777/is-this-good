@@ -52,6 +52,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kimdi Keys](https://kimdi-keys.com/)                   | [x]      | [x]  | [x]   |        |         |           | Upstate New York           |
 | [Kinetic Labs](https://kineticlabs.store/)              | [x]      | [x]  |       |        | [x]     |           | New Jersey                 |
 | [Kono](https://kono.store/)                             | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | intentionally confusing    |
+| [Kraken Keyboards](https://krakenkeyboards.com/)        |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
 | [Little Keyboards](https://littlekeyboards.com/)        | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
 | [MaxKeyboard](https://maxkeyboard.com/)                 |          |      |       |        |         | [x]       | NorCal                     |
 | [Mech27](https://mech27.com/)                           |          | [x]  |       |        |         |           | ?                          |
@@ -134,7 +135,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kelowna](https://sloer.world.taobao.com/)                    |          |      |       |        |         |           | China (PRC)  |
 | [Keys.my](https://keys.my/)                                   |          |      |       |        |         |           | Malaysia     |
 | [KPRepublic](https://kprepublic.com/)                         |          |      |       |        |         |           | China (PRC)  |
-| [Kraken Keyboards](https://krakenkeyboards.com/)              |          |      |       |        |         |           | ?            |
 | [KwertieKeys](https://www.kwertiekeys.com/)                   |          |      |       |        |         |           | Singapore    |
 | [LetsGetIt](https://letsgetit.io/)                            |          |      |       |        |         |           | South Korea  |
 | [Mecha](https://mecha.store/)                                 |          |      |       |        |         |           | Singapore    |
@@ -148,7 +148,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Rectangles.store](https://rectangles.store/)                 |          |      |       |        |         |           | India        |
 | [StacksKB](https://stackskb.com/)                             |          |      |       |        |         |           | India        |
 | [SwagKeys](https://swagkeys.com/)                             |          |      |       |        |         |           | South Korea  |
-| [Thic Thock](https://thicthock.com/)                          |          |      |       |        |         |           | Singapore    |
+| [Thic Thock](https://thicthock.com/)                          |          |      |       |        |         |           | China (PRC)  |
 | [YMDK](https://ymdkey.com/)                                   |          |      |       |        |         |           | China (PRC)  |
 | [YushaKobo](https://yushakobo.jp/)                            |          |      |       |        |         |           | Japan        |
 
