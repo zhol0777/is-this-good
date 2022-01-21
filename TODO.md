@@ -7,6 +7,7 @@
 - Make ToC not suck
 - Smarter use of line breaks in docs
 - move stuff from mechmap to here? (vendor list WIP by powwu & zhol)
+  - deskpad column? (this is gonna suck to add)
 - entire "how do i work this" set of sections?
 - organize images into folders based on sections?
 

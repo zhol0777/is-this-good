@@ -1,7 +1,7 @@
 # Vendor List (WIP)
 
 Vendors are listed for their in stock purchases, not GBs.
-Listings are incomplete for EU, Asia regions.
+Listings are incomplete for Asia.
 
 - [Vendor List (WIP)](#vendor-list-wip)
   - [North America](#north-america)
@@ -98,29 +98,30 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 | Vendor                                             | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
 | -------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
-| [CandyKeys](https://candykeys.com/)                |          |      |       |        |         |           | Germany     |
-| [Clark Cable](https://clarkkable.com/)             |          |      |       |        |         |           | Germany     |
-| [Cool Cables](https://coolcable.co.uk/)            |          |      |       |        |         |           | UK          |
+| [CandyKeys](https://candykeys.com/)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
+| [Clark Cable](https://clarkkable.com/)             |          |      |       | [x]    |         |           | Germany     |
+| [Cool Cables](https://coolcable.co.uk/)            |          |      |       | [x]    |         |           | UK          |
 | [Eloquent Clicks](https://www.eloquentclicks.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Spain       |
-| [Keeb.Studio](https://keeb.studio/)                |          |      |       |        |         |           | Belgium     |
-| [KeebCats](https://keebcats.co.uk/)                |          |      |       |        |         |           | UK          |
-| [Keebwerk](https://keebwerk.com/)                  |          |      |       |        |         |           | Germany     |
-| [KeyCapsss](https://keycapsss.com/)                |          |      |       |        |         |           | Germany     |
-| [KeyChrox](https://www.keycrox.co.uk/)             |          |      |       |        |         |           | UK          |
-| [Keygem](https://keygem.store/)                    |          |      |       |        |         |           | Germany     |
-| [Kris Cables](https://kriscables.com/)             |          |      |       |        |         |           | Portugal    |
-| [Loob.no](https://loob.no/)                        |          |      |       |        |         |           | Norway      |
-| [Mechanisk](https://mekanisk.com/)                 |          |      |       |        |         |           | Norway      |
-| [MechBoards](https://mechboards.co.uk/)            |          |      |       |        |         |           | UK          |
-| [MechBox](https://mechbox.co.uk/)                  |          |      |       |        |         |           | UK          |
-| [MyKeyboard](https://mykeyboard.eu/)               |          |      |       |        |         |           | Belgium     |
-| [OpticBoards](https://www.opticboards.com/)        |          |      |       |        |         |           | UK          |
-| [Pexon](https://pexonpcs.co.uk/)                   |          |      |       |        |         |           | UK          |
-| [Prototypist](https://prototypist.net/)            |          |      |       |        |         |           | UK          |
-| [SplitKB](https://splitkb.com/)                    |          |      |       |        |         |           | Netherlands |
-| [TheKeyboardCo](https://www.keyboardco.com/)       |          |      |       |        |         |           | UK          |
-| [Tokas Cables](https://shop.tokas.co.uk/)          |          |      |       |        |         |           | UK          |
-| [UK Keycaps](http://www.ukkeycaps.co.uk/)          |          |      |       |        |         |           | UK          |
+| [Keeb.Studio](https://keeb.studio/)                |          |      |       | [x]    |         |           | Belgium     |
+| [KeebCats](https://keebcats.co.uk/)                | [x]      | [x]  | [x]   |        |         |           | UK          |
+| [Keebwerk](https://keebwerk.com/)                  | [x]      |      |       |        |         | [x]       | Germany     |
+| [Keyb.no](https://keyb.no/)                        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Norway      |
+| [KeyCapsss](https://keycapsss.com/)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
+| [KeyChrox](https://www.keycrox.co.uk/)             | [x]      | [x]  | [x]   |        |         |           | UK          |
+| [Keygem](https://keygem.store/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
+| [Kris Cables](https://kriscables.com/)             |          |      |       | [x]    |         |           | Portugal    |
+| [Mechanisk](https://mekanisk.com/)                 | [x]      |      | [x]   |        |         | [x]       | Norway      |
+| [MechBoards](https://mechboards.co.uk/)            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
+| [MechBox](https://mechbox.co.uk/)                  | [x]      |      |       | [x]    | [x]     |           | UK          |
+| [MyKeyboard](https://mykeyboard.eu/)               | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Belgium     |
+| [Oblotsky](https://https://oblotzky.industries/)   | [x]      |      |       |        | [x]     |           | Germany     |
+| [OpticBoards](https://www.opticboards.com/)        | [x]      | [x]  | [x]   |        |         |           | UK          |
+| [Pexon](https://pexonpcs.co.uk/)                   |          |      |       | [x]    |         |           | UK          |
+| [Prototypist](https://prototypist.net/)            | [x]      | [x]  | [x]   |        | [x]     |           | UK          |
+| [SplitKB](https://splitkb.com/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Netherlands |
+| [TheKeyboardCo](https://www.keyboardco.com/)       | [x]      |      | [x]   | [x]    |         | [x]       | UK          |
+| [Tokas Cables](https://shop.tokas.co.uk/)          |          |      |       | [x]    |         |           | UK          |
+| [UK Keycaps](http://www.ukkeycaps.co.uk/)          | [x]      |      |       |        | [x]     | [x]       | UK          |
 
 ## Asia
 
