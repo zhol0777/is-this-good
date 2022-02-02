@@ -106,7 +106,7 @@ Reading reviews from people who have actually purchased a keyset is more advisab
 
 #### Poor alignment
 
-| JKDK BoW (black on white)                                                                | XMX Pseudo-Handarbeige                                           |
+| JKDK BoW (black on white)                                                                | SRP Pseudo-Handarbeige                                           |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | ![picture of JKDK Black on White set, with mis-aligned Shift legend](images/jkdkbow.png) | ![picture of Handarbeige-like keyset](images/xm_handarbeige.png) |
 | via JKDK message to cardio (“That shift is flying away”)                                 | Sinking Tab and Pipe legend, short backslash legend vs pipe      |
