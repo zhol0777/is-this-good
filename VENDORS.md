@@ -12,7 +12,7 @@ Listings are incomplete for Asia.
 
 If you notice any mistakes, or would like to contribute, feel free to **make** a pull request. Alternatively, DM Powwu#0001 :)
 
-## [North America](#north-america)
+## North America
 
 | Vendor                                                  | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
 | ------------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | -------------------------- |
