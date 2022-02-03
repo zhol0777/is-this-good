@@ -18,4 +18,9 @@ exclude:
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 plugins:
 - jekyll-remote-theme 
+
 color_scheme: dark-mod
+aux_links:
+  "Send a pull request":
+    - "//github.com/zhol0777/is-this-good"
+
