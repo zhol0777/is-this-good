@@ -1,9 +1,8 @@
-# Vendor List (WIP)
+# Vendor List
 
 Vendors are listed for their in stock purchases, not GBs.
-Listings are incomplete for Asia.
 
-- [Vendor List (WIP)](#vendor-list-wip)
+- [Vendor List](#vendor-list)
   - [North America](#north-america)
   - [Europe](#europe)
   - [Asia](#asia)
