@@ -15,65 +15,66 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 | Vendor                                                  | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
 | ------------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | -------------------------- |
-| [1upKeyboards](https://1upkeyboards.com)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | New York City              |
-| [3DKeebs](https://3dkeebs.com)                          | [x]      | [x]  | [x]   |        |         |           | Dallas                     |
-| [415keys](https://415keys.com)                          | [x]      | [x]  | [x]   |        |         |           | Richmond                   |
-| [AlphaKeys](https://alphakeys.ca/)                      | [x]      | [x]  |       |        |         |           | Toronto, Canada            |
+| [1upKeyboards](https://1upkeyboards.com)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | New York, NY               |
+| [3DKeebs](https://3dkeebs.com)                          | [x]      | [x]  | [x]   |        |         |           | Dallas, TX                 |
+| [415keys](https://415keys.com)                          | [x]      | [x]  | [x]   |        |         |           | Richmond, NC               |
+| [AlphaKeys](https://alphakeys.ca/)                      | [x]      | [x]  |       |        |         |           | Toronto, ON                |
 | [Alphakeys (US)](https://alphakeys.com/)                | [x]      |      |       |        |         |           | ?                          |
-| [Apex Keyboards](https://apexkeyboards.ca/)             | [x]      | [x]  | [x]   |        |         |           | Toronto, Canada            |
+| [Apex Keyboards](https://apexkeyboards.ca/)             | [x]      | [x]  | [x]   |        |         |           | Toronto, ON                |
 | [Asceny](https://asceny.com/)                           |          |      |       | [x]    |         |           | ?                          |
-| [Ashkeebs](https://ashkeebs.com/)                       | [x]      |      |       |        |         |           | Victoria, BC, Canada       |
-| [Badger Cables](https://badgercables.com/)              |          |      |       | [x]    |         |           | Victoria, BC, Canada       |
+| [Ashkeebs](https://ashkeebs.com/)                       | [x]      |      |       |        |         |           | Victoria, BC               |
+| [Badger Cables](https://badgercables.com/)              |          |      |       | [x]    |         |           | Victoria, BC               |
 | [BoardSource](https://boardsource.xyz/)                 |          |      |       |        |         | [x]       | ?                          |
 | [Cable Craze](https://cablecraze.net/)                  |          |      |       | [x]    |         |           | ?                          |
 | [Cannon Keys](https://cannonkeys.com/)                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
 | [ClueBoard](https://clueboard.co/)                      | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
 | [Coaxius](https://coaxius.com/)                         |          |      |       | [x]    |         |           | California                 |
 | [Cookie Cables](https://cookiecables.com/)              |          |      |       | [x]    |         |           | ?                          |
-| [Cruz Ctrl](https://cruzctrl.gg/)                       |          |      |       | [x]    |         |           | Bay Area, California       |
-| [Cup Cables](https://cupcables.com/)                    |          |      |       | [x]    |         |           | Oakland, California        |
-| [DangKeebs](https://dangkeebs.com/)                     | [x]      | [x]  |       |        |         |           | Boston                     |
-| [DeskHero](https://deskhero.ca/)                        | [x]      |      |       |        | [x]     | [x]       | Winnipeg                   |
+| [Cruz Ctrl](https://cruzctrl.gg/)                       |          |      |       | [x]    |         |           | Bay Area, CA               |
+| [Cup Cables](https://cupcables.com/)                    |          |      |       | [x]    |         |           | Oakland, CA                |
+| [DangKeebs](https://dangkeebs.com/)                     | [x]      | [x]  |       |        |         |           | Boston, MA                 |
+| [DeskHero](https://deskhero.ca/)                        | [x]      |      |       |        | [x]     | [x]       | Winnipeg, MB               |
 | [Digital Carpentry](https://digital-carpentry.com/)     |          | [x]  |       |        |         |           | Kentucky                   |
-| [Dinokeys](https://dinokeys.co/)                        | [x]      | [x]  | [x]   |        |         |           | Los Angeles                |
-| [Divinikey](https://divinikey.com/)                     | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles                |
+| [Dinokeys](https://dinokeys.co/)                        | [x]      | [x]  | [x]   |        |         |           | Los Angeles, CA            |
+| [Divinikey](https://divinikey.com/)                     | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
 | [Donut Cables](https://donutcables.com/)                |          |      |       | [x]    |         |           | ?                          |
 | [Dream Cables](https://dream-cables.com/)               |          |      |       | [x]    |         |           | Utah                       |
 | [Elboard](https://elboard.store/)                       | [x]      |      | [x]   |        | [x]     |           | Pennsylvania               |
 | [Endgame Keys](https://endgamekeys.com/)                |          |      |       |        |         |           | Indiana                    |
 | [FlashQuark](https://flashquark.com/)                   | [x]      | [x]  | [x]   |        | [x]     | [x]       | New York                   |
 | [Flex Cables](https://flexcablesstore.com/)             |          |      |       | [x]    |         |           | ?                          |
-| [IcedKeys](https://icedkeys.com/)                       | [x]      |      |       |        |         |           | Austin                     |
-| [Kebo](https://kebo.store/)                             | [x]      | [x]  | [x]   |        |         |           | California                 |
-| [KeebsForAll](https://keebsforall.com/)                 | [x]      | [x]  | [x]   | [x]    | [x]     |           | Los Angeles                |
+| [IcedKeys](https://icedkeys.com/)                       | [x]      |      |       |        |         |           | Austin, TX                 |
+| [Kebo](https://kebo.store/)                             | [x]      | [x]  | [x]   |        |         |           | San Gabriel, CA            |
+| [Keebio](https://keeb.io)                               |          |      | [x]   |        |         | [x]       | Durham, NC                 |
+| [KeebsForAll](https://keebsforall.com/)                 | [x]      | [x]  | [x]   | [x]    | [x]     |           | Los Angeles, CA            |
 | [KeyboardLube](https://keyboardlube.com/)               |          | [x]  |       |        |         |           | Washington                 |
-| [Keyspresso](https://keyspresso.ca/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Toronto, Canada    |
+| [Keyspresso](https://keyspresso.ca/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Toronto Area, ON   |
 | [Kimdi Keys](https://kimdi-keys.com/)                   | [x]      | [x]  | [x]   |        |         |           | Upstate New York           |
 | [Kinetic Labs](https://kineticlabs.store/)              | [x]      | [x]  |       |        | [x]     |           | New Jersey                 |
 | [Kono](https://kono.store/)                             | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | intentionally confusing    |
 | [Kraken Keyboards](https://krakenkeyboards.com/)        |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
 | [Little Keyboards](https://littlekeyboards.com/)        | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
-| [MaxKeyboard](https://maxkeyboard.com/)                 |          |      |       |        |         | [x]       | NorCal                     |
+| [MaxKeyboard](https://maxkeyboard.com/)                 |          |      |       |        |         | [x]       | California (Northern)      |
 | [Mech27](https://mech27.com/)                           |          | [x]  |       |        |         |           | ?                          |
 | [MechanicalKeyboards](https://mechanicalkeyboards.com/) |          |      |       |        | [x]     | [x]       | Tennessee                  |
 | [MechCables](https://mechcables.com/)                   |          |      |       | [x]    |         |           | Virginia                   |
 | [Mechwild](https://mechwild.com/)                       | [x]      |      |       |        |         | [x]       | Ohio                       |
-| [Mekibo (TX Keyboards)](https://mekibo.com/)            | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
+| [Mekibo (TX Keyboards)](https://mekibo.com/)            | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
 | [Mimic Cables](https://mimic-cables.com/)               |          |      |       | [x]    |         |           | ?                          |
-| [MinoKeys](https://minokeys.com/)                       | [x]      | [x]  | [x]   | [x]    |         |           | Ontario, Canada            |
-| [MKUltra](https://mkultra.click/)                       | [x]      |      |       | [x]    | [x]     | [x]       | California (Central)       |
-| [Malvix](https://store.malvix.com/)                     | [x]      | [x]  | [x]   |        |         |           | Vancouver, Canada          |
+| [MinoKeys](https://minokeys.com/)                       | [x]      | [x]  | [x]   | [x]    |         |           | Ontario                    |
+| [MKUltra](https://mkultra.click/)                       | [x]      |      |       | [x]    | [x]     | [x]       | Angels Camp, CA            |
+| [Malvix](https://store.malvix.com/)                     | [x]      | [x]  | [x]   |        |         |           | Vancouver, BC              |
 | [Noodle Cords](https://noodlecords.ca/)                 |          |      |       |        | [x]     |           | Canada                     |
-| [NovelKeys_](https://novelkeys.xyz/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | West Virginia              |
-| [OmegaKeys](https://omegakeys.ca/)                      | [x]      | [x]  | [x]   |        |         |           | British Columbia, Canada   |
-| [OriginativeCo](https://originativeco.com/)             |          |      |       |        | [x]     |           | Irvine                     |
-| [Paramountkeeb](https://paramountkeeb.com/)             | [x]      | [x]  | [x]   |        |         | [x]       | ChickenMan's Basement      |
+| [NovelKeys_](https://novelkeys.xyz/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
+| [OmegaKeys](https://omegakeys.ca/)                      | [x]      | [x]  | [x]   |        |         |           | British Columbia           |
+| [OriginativeCo](https://originativeco.com/)             |          |      |       |        | [x]     |           | Irvine, CA                 |
+| [Paramountkeeb](https://paramountkeeb.com/)             | [x]      | [x]  | [x]   |        |         | [x]       | ChickenMan's Basement, CA  |
 | [Prevail KeyCo](https://prevailkeyco.com/)              | [x]      | [x]  | [x]   |        |         |           | Florida                    |
-| [PrimeKB](https://primekb.com/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Texas                      |
+| [PrimeKB](https://primekb.com/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
 | [RGBKB](https://rgbkb.net/)                             | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Connecticut                |
 | [Rheset](https://rheset.mx/)                            | [x]      | [x]  | [x]   |        | [x]     | [x]       | Mexico                     |
-| [Ringer Keys](https://ringerkeys.com/)                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Boston             |
-| [RNDKBD](https://rndkbd.com/)                           | [x]      | [x]  | [x]   |        |         |           | Calgary, Canada            |
+| [Ringer Keys](https://ringerkeys.com/)                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Boston, MA         |
+| [RNDKBD](https://rndkbd.com/)                           | [x]      | [x]  | [x]   |        |         |           | Calgary, AB                |
 | [Rockets Cables](https://rocketscables.com/)            |          |      |       | [x]    |         |           | ?                          |
 | [Space Cables](https://spaceholdings.net/)              |          |      |       | [x]    |         |           | ?                          |
 | [Spaztik Cables](https://spaztikcables.com/)            |          |      |       | [x]    |         |           | Utah                       |
@@ -83,10 +84,10 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Teal Technik](https://tealtechnik.com/)                | [x]      | [x]  | [x]   |        |         |           | ?                          |
 | [Tez Cables](https://tezcables.com/)                    |          |      |       | [x]    |         |           | ?                          |
 | [TheKey.Company](https://thekey.company/)               | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Michigan                   |
-| [Thockeys](https://thockeys.com/)                       | [x]      |      | [x]   | [x]    | [x]     |           | Massachusetts              |
-| [Thockpop](https://thockpop.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     |           | ?                          |
-| [Typr Tools](https://typr.tools/)                       | [x]      | [x]  | [x]   |        |         |           | NorCal                     |
-| [Upgrade Keyboards](https://upgradekeyboards.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Texas                      |
+| [Thockeys](https://thockeys.com/)                       | [x]      |      | [x]   | [x]    | [x]     |           | Westminster, MA            |
+| [Thockpop](https://thockpop.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     |           | Tallahassee, FL            |
+| [Typr Tools](https://typr.tools/)                       | [x]      | [x]  | [x]   |        |         |           | California (Northern)      |
+| [Upgrade Keyboards](https://upgradekeyboards.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
 | [Vintkeys](https://vintkeys.ca/)                        | [x]      | [x]  |       |        |         | [x]       | Canada                     |
 | [WASD Keyboards](https://wasdkeyboards.com/)            |          |      |       |        | [x]     | [x]       | California                 |
 | [Winnja](https://winnja.com/)                           |          |      |       | [x]    |         |           | Texas                      |
@@ -126,9 +127,9 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 | Vendor                                                        | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location     |
 | ------------------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ------------ |
-| [BeeKeeb](https://shop.beekeeb.com/)                         | [x]      |      |       | [x]    | [x]     | [x]       | China (PRC)  |
+| [BeeKeeb](https://shop.beekeeb.com/)                          | [x]      |      |       | [x]    | [x]     | [x]       | China (PRC)  |
 | [DoyuStudios](https://shopkey.doyustudio.com/)                | [x]      |      | [x]   |        | [x]     |           | Taiwan (ROC) |
-| [ErgoMech](https://ergomech.store/shop)                      |          |      |       |        |         | [x]       | Vietnam      |
+| [ErgoMech](https://ergomech.store/shop)                       |          |      |       |        |         | [x]       | Vietnam      |
 | [GenesisPC](https://www.genesispc.in/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | India        |
 | [idobao](https://www.idobao.net/)                             | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [IlumKB](https://ilumkb.com/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Singapore    |
