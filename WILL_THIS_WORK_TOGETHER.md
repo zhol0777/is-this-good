@@ -94,10 +94,10 @@ inside of the hole, they will solder the LED on top of the LED. Therefore, switc
 bottoms that are flush against the PCB (barring the legs) will collide with the LED, like those in
 this screenshot here
 
-| RK68 example - surface mounted                                                                      |
-| --------------------------------------------------------------------------------------------------- |
-| ![RK68 with surface mounted LED](images/rk68smd.png)                                                |
-| via [Amazon](https://www.amazon.ca/ROYAL-KLUDGE-Switch-Stand-Alone-Multi-Device/dp/B08G4ZB9GL?th=1) |
+| RK68 example - surface mounted                                                                      | Other Example                                          |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| ![RK68 with surface mounted LED](images/rk68smd.png)                                                | ![PCB with surface mount LED](images/smdledonpcb.png)  |
+| via [Amazon](https://www.amazon.ca/ROYAL-KLUDGE-Switch-Stand-Alone-Multi-Device/dp/B08G4ZB9GL?th=1) | via mechkeys Discord user (apologies to original user) |
 | Note that the LED is visibly a bump on the PCB                                                      |
 
 In this unlikely situation (most decent PCBs you find will not be like this), you'll need switches
