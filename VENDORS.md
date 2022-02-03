@@ -125,36 +125,37 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 ## Asia
 
-| Vendor                                                        | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location     |
-| ------------------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ------------ |
-| [BeeKeeb](https://shop.beekeeb.com/)                          | [x]      |      |       | [x]    | [x]     | [x]       | China (PRC)  |
-| [DoyuStudios](https://shopkey.doyustudio.com/)                | [x]      |      | [x]   |        | [x]     |           | Taiwan (ROC) |
-| [ErgoMech](https://ergomech.store/shop)                       |          |      |       |        |         | [x]       | Vietnam      |
-| [GenesisPC](https://www.genesispc.in/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | India        |
-| [idobao](https://www.idobao.net/)                             | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
-| [IlumKB](https://ilumkb.com/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Singapore    |
-| [Infinity Key](https://infinitykey.zone/)                     |          |      |       |        |         |           | Vietnam      |
-| [KBD4U](http://kbd4u.com/)                                    |          |      |       |        |         |           | South Korea  |
-| [KBDfans](https://kbdfans.com/)                               | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
-| [Kelowna](https://sloer.world.taobao.com/)                    | [x]      | [x]  | [x]   | [x]    | [x]     |           | China (PRC)  |
-| [Keys.my](https://keys.my/)                                   | [x]      | [x]  | [x]   |        | [x]     |           | Malaysia     |
-| [KPRepublic](https://kprepublic.com/)                         | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
-| [KwertieKeys](https://www.kwertiekeys.com/)                   | [x]      |      |       | [x]    | [x]     | [x]       | Singapore    |
-| [LetsGetIt](https://letsgetit.io/)                            | [x]      | [x]  | [x]   |        |         |           | South Korea  |
-| [Mecha](https://mecha.store/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Singapore    |
-| [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
-| [MecKey Alpha](https://meckeyalpha.com/)                      | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
-| [Meckeys](https://www.meckeys.com/)                           | [x]      |      | [x]   | [x]    | [x]     | [x]       | India        |
-| [MelGeek](https://www.melgeek.com/)                           | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
-| [Monstargears](https://www.monstargears.com/)                 | [x]      |      | [x]   | [x]    | [x]     | [x]       | South Korea  |
-| [PantheonKeys](https://pantheonkeys.com/)                     | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
-| [Qwertyqop](https://qwertyqop.com/)                           | [x]      |      | [x]   |        | [x]     |           | Singapore    |
-| [Rectangles.store](https://rectangles.store/)                 | [x]      | [x]  | [x]   |        |         | [x]       | India        |
-| [StacksKB](https://stackskb.com/)                             | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | India        |
-| [SwagKeys](https://swagkeys.com/)                             | [x]      | [x]  | [x]   |        | [x]     |           | South Korea  |
-| [Thic Thock](https://thicthock.com/)                          | [x]      |      | [x]   |        |         |           | China (PRC)  |
-| [YMDK](https://ymdkey.com/)                                   | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
-| [YushaKobo](https://yushakobo.jp/)                            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Japan        |
+| Vendor                                                         | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location     |
+| -------------------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ------------ |
+| [BeeKeeb](https://shop.beekeeb.com/)                           | [x]      |      |       | [x]    | [x]     | [x]       | China (PRC)  |
+| [DoyuStudios](https://shopkey.doyustudio.com/)                 | [x]      |      | [x]   |        | [x]     |           | Taiwan (ROC) |
+| [ErgoMech](https://ergomech.store/shop)                        |          |      |       |        |         | [x]       | Vietnam      |
+| [GenesisPC](https://www.genesispc.in/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | India        |
+| [idobao](https://www.idobao.net/)                              | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
+| [IlumKB](https://ilumkb.com/)                                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Singapore    |
+| [Infinity Key](https://infinitykey.zone/)                      |          |      |       |        |         |           | Vietnam      |
+| [KBD4U](http://kbd4u.com/)                                     |          |      |       |        |         |           | South Korea  |
+| [KBDfans](https://kbdfans.com/)                                | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
+| [Kelowna](https://sloer.world.taobao.com/)                     | [x]      | [x]  | [x]   | [x]    | [x]     |           | China (PRC)  |
+| [Keys.my](https://keys.my/)                                    | [x]      | [x]  | [x]   |        | [x]     |           | Malaysia     |
+| [KPRepublic](https://kprepublic.com/)                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
+| [KwertieKeys](https://www.kwertiekeys.com/)                    | [x]      |      |       | [x]    | [x]     | [x]       | Singapore    |
+| [LetsGetIt](https://letsgetit.io/)                             | [x]      | [x]  | [x]   |        |         |           | South Korea  |
+| [Mecha](https://mecha.store/)                                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Singapore    |
+| [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/)  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
+| [MecKey Alpha](https://meckeyalpha.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
+| [Meckeys](https://www.meckeys.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | India        |
+| [MelGeek](https://www.melgeek.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
+| [Monstargears](https://www.monstargears.com/)                  | [x]      |      | [x]   | [x]    | [x]     | [x]       | South Korea  |
+| [PantheonKeys](https://pantheonkeys.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
+| [Qwertyqop](https://qwertyqop.com/)                            | [x]      |      | [x]   |        | [x]     |           | Singapore    |
+| [Rectangles.store](https://rectangles.store/)                  | [x]      | [x]  | [x]   |        |         | [x]       | India        |
+| [StacksKB](https://stackskb.com/)                              | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | India        |
+| [SwagKeys](https://swagkeys.com/)                              | [x]      | [x]  | [x]   |        | [x]     |           | South Korea  |
+| [Thic Thock](https://thicthock.com/)                           | [x]      |      | [x]   |        |         |           | China (PRC)  |
+| [Westech](https://uwestech.com.sg/product/keyboard-lubricant/) |          | [x]  |       |        |         |           | Singapore    |
+| [YMDK](https://ymdkey.com/)                                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
+| [YushaKobo](https://yushakobo.jp/)                             | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Japan        |
 
 ## Oceania
 
