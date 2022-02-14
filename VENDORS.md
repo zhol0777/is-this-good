@@ -45,7 +45,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Flex Cables](https://flexcablesstore.com/)                  |          |      |       | [x]    |         |           | ?                          |
 | [IcedKeys](https://icedkeys.com/)                            | [x]      |      |       |        |         |           | Austin, TX                 |
 | [Kebo](https://kebo.store/)                                  | [x]      | [x]  | [x]   |        |         |           | San Gabriel, CA            |
-| [Keebio](https://keeb.io)                                    |          |      | [x]   |        |         | [x]       | Durham, NC                 |
+| [Keebio](https://keeb.io)<sup>1</sup>                        |          |      | [x]   |        |         | [x]       | Durham, NC                 |
 | [KeebsForAll](https://keebsforall.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     |           | Los Angeles, CA            |
 | [KeyboardLube](https://keyboardlube.com/)                    |          | [x]  |       |        |         |           | Washington                 |
 | [KeyHive](https://keyhive.xyz/shop)<sup>1</sup>              |          |      | [x]   |        |         | [x]       | Utah                       |
@@ -91,6 +91,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Upgrade Keyboards](https://upgradekeyboards.com/)           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
 | [Vintkeys](https://vintkeys.ca/)                             | [x]      | [x]  |       |        |         | [x]       | Canada                     |
 | [WASD Keyboards](https://wasdkeyboards.com/)                 |          |      |       |        | [x]     | [x]       | California                 |
+| [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup>|       |      |       |        |         | [x]       | Austin, TX                 |
 | [Winnja](https://winnja.com/)                                |          |      |       | [x]    |         |           | Texas                      |
 | [Zap Cables](https://zapcables.com/)                         |          |      |       | [x]    |         |           | Wisconsin                  |
 | [ZealPC](https://zealpc.net/)                                | [x]      | [x]  | [x]   |        |         | [x]       | Canada                     |
