@@ -38,13 +38,16 @@ Budget keyboard kits that are easily available having south facing switches are 
 
 ## Hotswap support
 
+issey83 provides a very good video about how hotswap sockets hold up over repeated swaps [here](https://www.youtube.com/watch?v=HFJmuj31Ayg).
+
 - Kailh hotswap is reasonably good hotswap that can arrive in a prebuilt, and it supports most-all Cherry MX clone switches.
-- Quality of TTC hotswap is unknown, but presumably good.
-- Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two, but the QC seems to be worse, between leaves having a greater tendency to bend the wrong way, or the portion that is soldered to the board snapping off of the plastic socket part. Moreover, the contact leaves have a slightly greater tendency towards getting bent the wrong way, and this may have to do with their reduced reliability vs Kailh hotswap sockets.
+- Quality of TTC hotswap is solid and pins remain tight.
+- Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two.
 - CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
-- Outemu hotswap is a rivet that can be installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
+- Outemu rivet hotswap is installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
   - Compatability for other Outemu switches and KTT (includes Akko CS) is known.
   - Huano stuff like Feker Pandas have mixed reports on support.
+  - Outemu has a new hotswap socket comaprable to the Kailh style of offering, but I have yet to see any boards with them soldered on.
 
 ## Boards We Have Feelings About
 
