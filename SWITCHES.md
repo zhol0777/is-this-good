@@ -83,7 +83,7 @@ Retool that occurred sometime around 2017 for most switches except for Clears. A
 
 ## TTC
 
-Popular in China, less popular in the West. Known to be smooth, pretty cheap. Can’t go wrong with these!
+Popular in China, less popular in the West. Known to be smooth, medium priced. Can’t go wrong with these!
 
 ## Kailh
 
