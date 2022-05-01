@@ -63,11 +63,11 @@ Purportedly affiliated with BSUN (YOK Panda manufacturer) in the past, Tecsee ma
 
 ### PME Housings
 
-New plastic used exclusively by Tecsee. Fairly low in pitch. Nothing wrong with it as a material, but it is prone to flaking - no reports have claimed that it disrupts switch functionality, but to prevent you from freaking out, this is something you should know before you purchase something like Purple Pandas, Carrots, Giant v5’s, or Kingfishers.
+New plastic used exclusively by Tecsee. Fairly low in pitch, but also muted with lack of reverb. Nothing wrong with it as a material, but it is prone to flaking - no reports have claimed that it disrupts switch functionality, but to prevent you from freaking out, this is something you should know before you purchase something like Purple Pandas, Carrots, Giant v5’s, or Kingfishers.
 
 ### UHMWPE/PE Mix materials
 
-Diamond tops fly off a little bit too easily. Lychee and Ruby/Sapphire stems (UHMWPE mix) shrink too much, and are subject to prominent amounts of stem wobble. The PE mix used in Naevy, Raed, and Snag switches is prone to creating a brittle product that has had occasional reports of it snapping off into keycaps.
+Diamond tops fly off a little bit too easily. Lychee and Ruby/Sapphire stems (UHMWPE mix) shrink too much, and are subject to prominent amounts of stem wobble. The PE mix used in Naevy, Raed, and Snag switches is prone to creating a brittle product that has had occasional reports of it snapping off into keycaps. The UPE housings might not be as cursed, but are on the loud and high-pitched side.
 
 ## Cherry
 
