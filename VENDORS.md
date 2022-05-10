@@ -169,17 +169,21 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 ## Oceania
 
-| Vendor                                               | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location  |
-| ---------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | --------- |
-| [AllCaps](https://allcaps.store/)                    | [x]      | [x]  | [x]   |        | GB?     |           | Australia |
-| [Click Clack Cables](https://clickclackcables.com/)  |          |      |       | [x]    |         |           | Australia |
-| [CustomKBD](https://customkbd.com/)<sup>1</sup>      | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia |
-| [DailyClack](https://dailyclack.com/)                | [x]      | [x]  | [x]   |        | [x]     |           | Australia |
-| [Keyboard Treehouse](https://keyboardtreehouse.com/) | [x]      |      |       |        |         |           | Australia |
-| [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  | [x]   |        |         |           | Australia |
-| [Mountain Keyboards](https://mountainkeyboards.com/) | [x]      |      | [x]   | [x]    | [x]     |           | Australia |
-| [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia |
-| [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia |
+| Vendor                                               | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
+| ---------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ------------|
+| [AllCaps](https://allcaps.store/)                    | [x]      | [x]  | [x]   |        | GB?     |           | Australia   |
+| [Click Clack Cables](https://clickclackcables.com/)  |          |      |       | [x]    |         |           | Australia   |
+| [CustomKBD](https://customkbd.com/)<sup>1</sup>      | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
+| [DailyClack](https://dailyclack.com/)                | [x]      | [x]  | [x]   |        | [x]     |           | Australia   |
+| [Keyboard Treehouse](https://keyboardtreehouse.com/) | [x]      |      |       |        |         |           | Australia   |
+| [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  | [x]   |        |         |           | Australia   | 
+| [Mountain Keyboards](https://mountainkeyboards.com/) | [x]      |      | [x]   | [x]    | [x]     |           | Australia   |
+| [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia   |
+| [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
+| [Escape Keyboards](https://esckeyboard.com/)         | [x]      | [x]  |       |        | [x]     |           | Australia   |
+| [keebd](keebd.com/)<sup>1</sup>                      | [x]      |      | [x]   |        | [x]     | [x]       | Australia   |
+| [keebord](keebord.nz/)                               | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
+| [Lemonkeys](lemonkeys.co.nz)                         | [x]      | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
