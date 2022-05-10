@@ -18,5 +18,14 @@ $search-background-color: $grey-dk-250;
 $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 3%);
 
+@function get-vw($target) { 
+  $vw-context: (1000*.01) * 1px;
+  @return ($target/$vw-context);
+}
+
 // this is where I come in
-$content-width: 1300px
+// $content-width: 1300px
+$nav-width: 250px;
+$nav-width-md: 250px;
+$window-width: get-vw(72px);
+$content-width: $window-width - $nav-width;
