@@ -96,6 +96,8 @@ You no longer require PTFE content for applications to the wire to prevent wire 
   - Gazzew Blend #7 (recommend for donut dipping springs and and stabilizer wires. Don’t ask if you should get this, it’s not a must-have, just use some other lube)
   - XHT-BDZ
     - A relatively new product, and prices will vary harder.. This is as thick as toothpaste, maybe thicker than Blend #7; the spec sheet says it's about Grade 1.5. Apply this conservatively, as applying a liberal amount may lead your stabilized keys to feel slightly sluggish on press. When used properly, this is pretty good.
+  - GPL 205g2
+    - Yeah, this is proper thick for the wire.
   - Dielectric grease
     - You don’t need a specific brand. You do not need a specific brand. Permatex is pretty popular in North America, but your region may vary. It doesn’t need to be very specific because you just need some goop that’s thick enough to stop the wire from rattling all over the place.
   - Superlube
