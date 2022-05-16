@@ -65,7 +65,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MinoKeys](https://minokeys.com/)                            | [x]      | [x]  | [x]   | [x]    |         |           | Ontario                    |
 | [MKUltra](https://mkultra.click/)                            | [x]      |      |       | [x]    | [x]     | [x]       | Angels Camp, CA            |
 | [Malvix](https://store.malvix.com/)                          | [x]      | [x]  | [x]   |        |         |           | Vancouver, BC              |
-| [Monokei](https://store.monokei.co)                          |          | [x]  |       |        |         |           | Taiwan                     |
 | [Noodle Cords](https://noodlecords.ca/)                      |          |      |       |        | [x]     |           | Canada                     |
 | [NovelKeys_](https://novelkeys.xyz/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
 | [OmegaKeys](https://omegakeys.ca/)                           | [x]      | [x]  | [x]   |        |         |           | British Columbia           |
@@ -153,6 +152,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/)  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
 | [MecKey Alpha](https://meckeyalpha.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
 | [Meckeys](https://www.meckeys.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | India        |
+| [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Taiwan       |
 | [MelGeek](https://www.melgeek.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Monstargears](https://www.monstargears.com/)                  | [x]      |      | [x]   | [x]    | [x]     | [x]       | South Korea  |
 | [PantheonKeys](https://pantheonkeys.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
