@@ -10,6 +10,10 @@
 
 Lubricant recommendations are a soft science leaning towards parroting old wives’ tales than  hard reproducibility. Here, I parrot old wives tales, but try to provide some justification for them.
 
+* To reduce stem-housing friction, you want a good oil or grease with PTFE (commonly known as Teflon), which will do the most to reduce friction between your switch stem and switch housing. 
+  * To make the feel of the lube's improvements last, you want your grease to have some quality chemical binders so the mix of grease and oil does not separate over time.
+* To reduce spring vibration (commonly heard of as 'ping') and dampen the stabilizer wire from ticking against the stabilizer stem, you want a thick grease to stop it either from vibrating (for springs) or from hitting plastic so loudly (for stabilizer wires).
+
 ## A quick reference
 
 ### Compatability
@@ -21,7 +25,7 @@ Lubricant recommendations are a soft science leaning towards parroting old wives
 | Stem            | ✓<sup>1</sup>  | ✓    | ✓    | ✓<sup>2</sup> | X       | X                 | !<sup>4</sup> | 51004                 |
 | Stabilizer Wire | X              | X    | X    | ✓<sup>3</sup> | ✓       | ✓                 | ✓<sup>4</sup> | NLGI G0-G2            |
 
-<sup>1</sup>: PTFE oils do not provide the same smoothing to housings as greases do, but are still good for when users want to be more conservative/less drastic with their lubrication.  
+<sup>1</sup>: PTFE oils do not provide the same dramatic level of smoothing to housings as greases do, but are still good for when users want to be more conservative/less drastic with their lubrication.  
 <sup>2</sup>: Grease at this viscosity is known to dull/smoothen/reduce the intensity of the bump on tactile stems. Avoid unless you intend on reducing the bump.  
 <sup>3</sup>: It can be argued that 205g0 is too thin for stabilizer wires, and will migrate soon with continuous usage. Still, this is a preference thing.  
 <sup>4</sup>: Products marketed as "GPL 105/205g0" without being manufactured by Chemours/Dupont/Miller Stephenson are likely manufactured with less reputable grease formulations. These tend to separate (between grease and oil) faster than genuine Krytox/Tribosys products without good binders.  This is generally what you get if you've refused to buy lube off of anywhere but Amazon, and didn't end up buying 205g2. If you know what you're getting into, and can accept these products for what they are, more power to you.  
@@ -41,6 +45,37 @@ For grease, here are conservative estimates of how far some volume of lube will 
 | 20 mL  | ~38g                   | ~1600           |
 | 40 mL  | ~76g                   | ~3200           |
 
+### Thickness explained
+
+Oils run thinner than grease, that should be intuitive. Krytox 100 series denotes their oils, and their 200 series denotes their greases, with increasing numbering of the oil/grease implies increasing thickness. Therefore,
+
+| Oil     | Relative thickness |
+| ------- | ------------------ |
+| GPL 105 | Thinner            |
+| GPL 106 | Not as thin        |
+| GPL 107 | Thicker            |
+
+Tribosys greases have their Krytox analogue denoted in their own names, where 3**203** implies thickness like that of Krytox 203g0, and so on. Therefore,
+
+| Grease     | Relative thickness |
+| ---------- | ------------------ |
+| 203g0/3203 | Thinner            |
+| 204g0/3204 | Not as thin        |
+| 205g0      | Thicker            |
+
+Thinner greases like 203g0/3203 being thinner may be preferred for some switch lubers, as they don't want the grease to overwhelm the feeling of pushing the switch. Moreover, a thicker grease applied to the stem legs/housing leaf may reduce the intensity of the tactile bump, as the friction between the bump and the leaf is reduced.
+
+Grease thickness is graded on a scale where increasing grade implies thicker grease.
+
+| NLGI Grade | Analogy      |
+| ---------- | ------------ |
+| 00         | Yogurt       |
+| 0          | Mustard      |
+| 1          | Tomato paste |
+| 2          | Margarine    |
+
+Therefore, 205g0 will be much thinner than 205g2, and so on. You can extrapolate.
+
 ## Housing And Stem For Switch And Stabilizer
 
 We recommend greases/oils that contain Teflon (PTFE/polytetrafluoroethylene) content for high-quality lubrication that is not not prone to separating quickly when left at rest.
@@ -57,7 +92,7 @@ We recommend greases/oils that contain Teflon (PTFE/polytetrafluoroethylene) con
       - If you’re buying lube off Taobao or AliExpress, the odds that its genuine Krytox from Miller Stephenson/Chemours/Dupont are infinitesimal. Notice how there’s no mention of Krytox, or if it is, it's pixelated out in the product image for some reason? You’re getting a product that is similar in consistency to what will work good as a switch grease, but lacks the proper chemical binders to prevent the oils from separating from the grease as quickly. There’s a reason we recommend vendors on MechMap: we trust them to sell products with the proper formulation that prevents their components from separating. We are not interested in scooping finders fees when you end up buying some Miller Stephenson product - we do this to ensure you don’t have to deal with a substandard product when you don’t know what substandard means yet.
     - Krytox GPL 205g2
       - If you’re here, maybe you were stubborn and refused to shop anywhere outside of Amazon if you’re asking about this. Maybe you have a gift card, maybe you’re using your parents credit card and they don’t trust it to be used on someone who named their shop after a bad pun on some keyboard thing. Grade 0 is thick enough for switches. Grade 1 is too thick most of the time, and Grade 2 is way too thick to be used without being thinned, and if anyone says that you do it because they’ve used it before, they’re just using you as a surface to stroke their own ego. Don’t get this, just get some Grade 0 lube.
-    - Petroleum-based lubricants (WD40, vaseline, etc.)
+    - Petroleum-based lubricants (WD40, Vaseline, etc.)
       - Petroleum based lubricants melt plastics slowly. You would be better served leaving them stock than letting them melt over time.
     - Most spray lube (WD40, Superlube 31110)
       - Just run !spraylubing in MechKeys.
