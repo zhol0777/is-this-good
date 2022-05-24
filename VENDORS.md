@@ -13,17 +13,15 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 ## North America
 
+### USA
+
 | Vendor                                                       | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
 | ------------------------------------------------------------ | -------- | ---- | ----- | ------ | ------- | --------- | -------------------------- |
 | [1upKeyboards](https://1upkeyboards.com)                     | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | New York, NY               |
 | [3DKeebs](https://3dkeebs.com)                               | [x]      | [x]  | [x]   |        |         |           | Dallas, TX                 |
 | [415keys](https://415keys.com)                               | [x]      | [x]  | [x]   |        |         |           | Richmond, NC               |
-| [AlphaKeys](https://alphakeys.ca/)                           | [x]      | [x]  |       |        |         |           | Toronto, ON                |
 | [Alphakeys (US)](https://alphakeys.com/)                     | [x]      |      |       |        |         |           | ?                          |
-| [Apex Keyboards](https://apexkeyboards.ca/)                  | [x]      | [x]  | [x]   |        |         |           | Toronto, ON                |
 | [Asceny](https://asceny.com/)                                |          |      |       | [x]    |         |           | ?                          |
-| [Ashkeebs](https://ashkeebs.com/)                            | [x]      |      |       |        |         |           | Victoria, BC               |
-| [Badger Cables](https://badgercables.com/)                   |          |      |       | [x]    |         |           | Victoria, BC               |
 | [BoardSource](https://boardsource.xyz/)<sup>1</sup>          |          |      |       |        |         | [x]       | ?                          |
 | [Cable Craze](https://cablecraze.net/)                       |          |      |       | [x]    |         |           | ?                          |
 | [Cannon Keys](https://cannonkeys.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
@@ -33,7 +31,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Cruz Ctrl](https://cruzctrl.gg/)                            |          |      |       | [x]    |         |           | Bay Area, CA               |
 | [Cup Cables](https://cupcables.com/)                         |          |      |       | [x]    |         |           | Oakland, CA                |
 | [DangKeebs](https://dangkeebs.com/)                          | [x]      | [x]  |       |        |         |           | Boston, MA                 |
-| [DeskHero](https://deskhero.ca/)                             | [x]      |      |       |        | [x]     | [x]       | Winnipeg, MB               |
 | [Digital Carpentry](https://digital-carpentry.com/)          |          | [x]  |       |        |         |           | Kentucky                   |
 | [Dinokeys](https://dinokeys.co/)                             | [x]      | [x]  | [x]   |        |         |           | Los Angeles, CA            |
 | [Divinikey](https://divinikey.com/)                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
@@ -49,7 +46,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [KeebsForAll](https://keebsforall.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     |           | Los Angeles, CA            |
 | [KeyboardLube](https://keyboardlube.com/)                    |          | [x]  |       |        |         |           | Washington                 |
 | [KeyHive](https://keyhive.xyz/shop)<sup>1</sup>              |          |      | [x]   |        |         | [x]       | Utah                       |
-| [Keyspresso](https://keyspresso.ca/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Toronto Area, ON   |
 | [Kimdi Keys](https://kimdi-keys.com/)                        | [x]      | [x]  | [x]   |        |         |           | Upstate New York           |
 | [Kinetic Labs](https://kineticlabs.store/)                   | [x]      | [x]  |       |        | [x]     |           | New Jersey                 |
 | [Kono](https://kono.store/)                                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | intentionally confusing    |
@@ -62,10 +58,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Mechwild](https://mechwild.com/)<sup>1</sup>                | [x]      |      |       |        |         | [x]       | Ohio                       |
 | [Mekibo (TX Keyboards)](https://mekibo.com/)                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
 | [Mimic Cables](https://mimic-cables.com/)                    |          |      |       | [x]    |         |           | ?                          |
-| [MinoKeys](https://minokeys.com/)                            | [x]      | [x]  | [x]   | [x]    |         |           | Ontario                    |
 | [MKUltra](https://mkultra.click/)                            | [x]      |      |       | [x]    | [x]     | [x]       | Angels Camp, CA            |
-| [Malvix](https://store.malvix.com/)                          | [x]      | [x]  | [x]   |        |         |           | Vancouver, BC              |
-| [Noodle Cords](https://noodlecords.ca/)                      |          |      |       |        | [x]     |           | Canada                     |
 | [NovelKeys_](https://novelkeys.xyz/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
 | [OmegaKeys](https://omegakeys.ca/)                           | [x]      | [x]  | [x]   |        |         |           | British Columbia           |
 | [OriginativeCo](https://originativeco.com/)                  |          |      |       |        | [x]     |           | Irvine, CA                 |
@@ -75,7 +68,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [RGBKB](https://rgbkb.net/)                                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Connecticut                |
 | [Rheset](https://rheset.mx/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Mexico                     |
 | [Ringer Keys](https://ringerkeys.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Boston, MA         |
-| [RNDKBD](https://rndkbd.com/)                                | [x]      | [x]  | [x]   |        |         |           | Calgary, AB                |
 | [Rockets Cables](https://rocketscables.com/)                 |          |      |       | [x]    |         |           | ?                          |
 | [Space Cables](https://spaceholdings.net/)                   |          |      |       | [x]    |         |           | ?                          |
 | [Spaztik Cables](https://spaztikcables.com/)                 |          |      |       | [x]    |         |           | Utah                       |
@@ -89,12 +81,32 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Thockpop](https://thockpop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     |           | Tallahassee, FL            |
 | [Typr Tools](https://typr.tools/)                            | [x]      | [x]  | [x]   |        |         |           | California (Northern)      |
 | [Upgrade Keyboards](https://upgradekeyboards.com/)           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
-| [Vintkeys](https://vintkeys.ca/)                             | [x]      | [x]  |       |        |         | [x]       | Canada                     |
 | [WASD Keyboards](https://wasdkeyboards.com/)                 |          |      |       |        | [x]     | [x]       | California                 |
 | [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup>|       |      |       |        |         | [x]       | Austin, TX                 |
 | [Winnja](https://winnja.com/)                                |          |      |       | [x]    |         |           | Texas                      |
 | [Zap Cables](https://zapcables.com/)                         |          |      |       | [x]    |         |           | Wisconsin                  |
-| [ZealPC](https://zealpc.net/)                                | [x]      | [x]  | [x]   |        |         | [x]       | Canada                     |
+
+<sup>1</sup>: Through-hole keyboard specialty
+
+### Canada
+
+| Vendor                                                       | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
+| ------------------------------------------------------------ | -------- | ---- | ----- | ------ | ------- | --------- | -------------------------- |
+| [AlphaKeys](https://alphakeys.ca/)                           | [x]      | [x]  |       |        |         |           | Toronto, ON                |
+| [Apex Keyboards](https://apexkeyboards.ca/)                  | [x]      | [x]  | [x]   |        |         |           | Toronto, ON                |
+| [Ashkeebs](https://ashkeebs.com/)                            | [x]      |      |       |        |         |           | Victoria, BC               |
+| [Badger Cables](https://badgercables.com/)                   |          |      |       | [x]    |         |           | Victoria, BC               |
+| [DeskHero](https://deskhero.ca/)                             | [x]      |      |       |        | [x]     | [x]       | Winnipeg, MB               |
+| [MechLand](https://mech.land)                                | [x]      | [x]  | [x]   |        |         |           | Scarborough, ON            |
+| [MinoKeys](https://minokeys.com/)                            | [x]      | [x]  | [x]   | [x]    |         |           | Ontario                    |
+| [Malvix](https://store.malvix.com/)                          | [x]      | [x]  | [x]   |        |         |           | Vancouver, BC              |
+| [Noodle Cords](https://noodlecords.ca/)                      |          |      |       |        | [x]     |           | Canada                     |
+| [OmegaKeys](https://omegakeys.ca/)                           | [x]      | [x]  | [x]   |        |         |           | Port Moody, BC             |
+| [OneOfZero](https://oneofzero.net)                           | [x]      |      |       |        | [x]     | [x]       | Canada                     |
+| [RNDKBD](https://rndkbd.com/)                                | [x]      | [x]  | [x]   |        |         |           | Calgary, AB                |
+| [tokeebs](https://tokeebs.ca)                                | [x]      | [x]  | [x]   |        |         |           | Toronto, ON                |
+| [Vintkeys](https://vintkeys.ca/)                             | [x]      | [x]  |       |        |         | [x]       | Canada                     |
+| [ZealPC](https://zealpc.net/)                                | [x]      | [x]  | [x]   |        |         | [x]       | Richmond, BC               |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
