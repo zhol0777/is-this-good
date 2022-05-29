@@ -14,6 +14,8 @@
       - [Mold quality](#mold-quality)
     - [Poor kitting/compatability](#poor-kittingcompatability)
     - [Warped Bars](#warped-bars)
+    - [Stem Twist](#stem-twist)
+    - [Reverse Dye-Sub Shrink](#reverse-dye-sub-shrink)
     - [Thickness](#thickness)
 
 ## Switch orientation on PCB and keycap interference
@@ -111,6 +113,11 @@ Reading reviews from people who have actually purchased a keyset is more advisab
 | ![picture of JKDK Black on White set, with mis-aligned Shift legend](images/jkdkbow.png) | ![picture of Handarbeige-like keyset](images/xm_handarbeige.png) |
 | via JKDK message to cardio (“That shift is flying away”)                                 | Sinking Tab and Pipe legend, short backslash legend vs pipe      |
 
+| KAT Arctic                                                                                    | qPBT Terminal |
+| --------------------------------------------------------------------------------------------- | - |
+| ![keycaps with non-uniform legending printing](images/kat_arctic_alignment.jpeg)              | ![legend misalignment](images/qpbt_terminal.jpeg) |
+| [via catbus from geekhack](https://geekhack.org/index.php?topic=106046.msg3066824#msg3066824) | [via fnv_fan from reddit](https://redd.it/uto7tq)
+
 #### Mold quality
 
 | Winmix/Catcher Olivia clone, doubleshot PBT                                                                                                                                                         | "Shell Studio" "PBT Blush" (Doubleshot PBT Olivia clone)                                                                                                                                                       |
@@ -129,7 +136,30 @@ Please refer to [the kitting section](#on-kitting-or-how-to-read-a-kitting-diagr
 
 ### Warped Bars
 
-Early ePBT sets and Geekark R1 were known to have bars for stabilized keys that were significantly warped, and required intervention to un-warp them. These things have been solved, but some cheaper PBT sets with bars that don’t have rigidity ribs may warp as the injected plastic cools, and might require a dip in very hot water to soften it up enough for you to un-warp them. NOTE: DO NOT ATTEMPT THIS WITH ABS, YOU WILL MELT YOUR KEYCAPS.
+Early ePBT sets and some Geekark sets are known to have bars for stabilized keys that were significantly warped, and required intervention to un-warp them. These things have been solved, but some cheaper PBT sets with bars that don’t have rigidity ribs may warp as the injected plastic cools, and might require a dip in very hot water to soften it up enough for you to un-warp them. NOTE: DO NOT ATTEMPT THIS WITH ABS, YOU WILL MELT YOUR KEYCAPS.
+
+| Winmix SA 9009 Spacebar                                |
+| ------------------------------------------------------ |
+| ![Scuffed warped spacebar](images/winmix_sa_bar.jpeg)  |
+| [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9) |
+
+### Stem Twist
+
+Plastic tends to warp to some degree on cooling, and with PBT from a cheap manufacturer that isn't subject to rigorous quality control, the issue is fairly present; there are two areas where this issue inherent to the material becomes apparent:
+
+1. Stabilized bars have their ends bow away from where they should rest, so they form a mild U-shape.
+2. The cap and the stem begin to twist just a little.
+
+Stem twist is hidden when caps are in their tray/bag, but obvious once mounted.
+
+| Winmix SA 9009, Alt Key                                     | Winmix SA 9009, Alpha Keys                                      |
+| ----------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Alt key with twisted stem](images/winmix_sa_twist_1.jpeg) | ![alpha keys with twisted stems](images/winmix_sa_twist_2.jpeg) |
+| [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)      | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)           |
+
+### Reverse Dye-Sub Shrink
+
+Where dye-sublimation is the process of printing a design onto a keycap by applying pigment to a specific area, reverse dye-sublimation is the process of printing a design onto a keycap by applying pigment **everywhere but** a specific area. A big issue with this is that heat gets applied to **every face of the cap** is that the cap shrinks somewhat, and the gap between keys becomes more obvious than normal.
 
 ### Thickness
 

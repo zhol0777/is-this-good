@@ -22,9 +22,11 @@ A switch at rest will have the spring compressed more-or-less down to the same l
 * Complex/Progressive: Springs that do not have a linear force curve; they start lighter at the top, and grow heavier on the press faster
 * Two/three stage: Very very long springs, generally around 22mm in length. In my experience, these just feel like more slow springs, and don't vary much in feeling across the press.
 
-### Snake oil
+### Progressive Spring Snake oil
 
 [You should be very skeptical of "progressive" springs](https://geekhack.org/index.php?topic=112430.0) is a great post provided by Pylon on why springs marketed as "progressive" might be overselling their purported effects. In short, they are more linear in force curve than they may be marketed as.
+
+Switches in 2022 that feature conical springs (such as Kailh Cream Arcs, Kailh Christmas Tree, or JWK Quartz v2) may feature genuinely progressive spring curves, it is those with springs that have varying coil tightness across the length of the spring (i.e. Sprit) without conicality at one end (as in one end of the spring has a smaller diameter than the other) that provides a reduced progressive curve.
 
 ## How do they sound?
 
@@ -32,5 +34,5 @@ Longer the spring, louder the top-out (stem hitting the top housing on the press
 
 ## What should I avoid?
 
-* Some community members do not recommend buying Spring springs, not because they are bad, but because they have a history of scamming customers (not fulfiling orders) in the past.
+* Some community members do not recommend buying Sprit springs, not because they are bad, but because they have a history of scamming customers (not fulfiling orders) in the past.
 * Rumors get thrown around from time to time about the gold off gold-plated springs flaking off after some number of years. YMMV.
