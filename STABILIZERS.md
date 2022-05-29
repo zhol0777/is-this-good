@@ -8,7 +8,7 @@ This guide is limited to providing guidance for Cherry-style stabilizers. Guidan
     - [Not Recommended](#not-recommended)
     - [Be aware of issues](#be-aware-of-issues)
   - [Plate Mount](#plate-mount)
-  - [Which ones do I buy?](#lengths)
+  - [Which sizes do I buy?](#lengths)
     - [6.25u](#625u)
     - [7u/Tsangan](#7u-tsangan-or-wkl)
     - [Other](#other)
