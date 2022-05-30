@@ -4,6 +4,8 @@ Vendors are listed for their in stock purchases, not GBs.
 
 - [Vendor List](#vendor-list)
   - [North America](#north-america)
+    - [USA](#usa)
+    - [Canada](#canada)
   - [Europe](#europe)
   - [Asia](#asia)
   - [Oceania](#oceania)
@@ -131,7 +133,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechBoards](https://mechboards.co.uk/)            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
 | [MechBox](https://mechbox.co.uk/)                  | [x]      |      |       | [x]    | [x]     |           | UK          |
 | [MyKeyboard](https://mykeyboard.eu/)               | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Belgium     |
-| [Oblotsky](https://https://oblotzky.industries/)   | [x]      |      |       |        | [x]     |           | Germany     |
+| [Oblotsky](https://oblotzky.industries/)   | [x]      |      |       |        | [x]     |           | Germany     |
 | [OpticBoards](https://www.opticboards.com/)        | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [Pexon](https://pexonpcs.co.uk/)                   |          |      |       | [x]    |         |           | UK          |
 | [Prototypist](https://prototypist.net/)            | [x]      | [x]  | [x]   |        | [x]     |           | UK          |

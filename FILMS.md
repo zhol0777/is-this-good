@@ -26,7 +26,9 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
 - Hard
   - Polycarbonate
     - These films are made of hard polycarbonate. They will not compress.
-    - 0.125mm - 0.15mm thick. Buy 0.125mm thick if your housings feel like they don’t suffer from too much wobble, or 0.15mm thick if you’re sure that there’s a bit of housing wobble.
+    - 0.125mm - 0.15mm thick. Buy 0.125mm thick if your housings feel like they don’t suffer from too much wobble, or 0.15mm thick if you’re sure that there’s a bit of housing wobble. Kebo makes films up to 0.2mm thick if your housing wobble is excessive.
+  - PLA
+    - Jinra makes 0.22mm films.
   
 ## Switches that Films Don’t Work Good in
 

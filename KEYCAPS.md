@@ -138,7 +138,7 @@ Please refer to [the kitting section](#on-kitting-or-how-to-read-a-kitting-diagr
 
 Early ePBT sets and some Geekark sets are known to have bars for stabilized keys that were significantly warped, and required intervention to un-warp them. These things have been solved, but some cheaper PBT sets with bars that don’t have rigidity ribs may warp as the injected plastic cools, and might require a dip in very hot water to soften it up enough for you to un-warp them. NOTE: DO NOT ATTEMPT THIS WITH ABS, YOU WILL MELT YOUR KEYCAPS.
 
-| Winmix SA 9009 Spacebar                                |
+| Winmix SA Retro Spacebar                               |
 | ------------------------------------------------------ |
 | ![Scuffed warped spacebar](images/winmix_sa_bar.jpeg)  |
 | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9) |
@@ -152,10 +152,10 @@ Plastic tends to warp to some degree on cooling, and with PBT from a cheap manuf
 
 Stem twist is hidden when caps are in their tray/bag, but obvious once mounted.
 
-| Winmix SA 9009, Alt Key                                     | Winmix SA 9009, Alpha Keys                                      |
+| Winmix SA Retro, Alt Key                                    | Winmix SA Retro, Alpha Keys                                     |
 | ----------------------------------------------------------- | --------------------------------------------------------------- |
 | ![Alt key with twisted stem](images/winmix_sa_twist_1.jpeg) | ![alpha keys with twisted stems](images/winmix_sa_twist_2.jpeg) |
-| [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)      | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)           |
+| [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)      | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)          |
 
 ### Reverse Dye-Sub Shrink
 
