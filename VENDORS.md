@@ -197,7 +197,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Escape Keyboards](https://esckeyboard.com/)         | [x]      | [x]  |       |        | [x]     |           | Australia   |
 | [keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   |        | [x]     | [x]       | Australia   |
 | [keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
-| [Lemonkeys](https://lemonkeys.co.nz)                 | [x]      | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
