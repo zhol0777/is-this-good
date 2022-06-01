@@ -10,6 +10,7 @@
     - [3-pin vs 5-pin switches and PCBs](#3-pin-vs-5-pin-switches-and-pcbs)
   - [Stabilizers](#stabilizers)
   - [PCB with case](#pcb-with-case)
+  - [Hotswap](#hotswap)
 
 ## Keycaps
 
@@ -181,3 +182,23 @@ where there is some interoperability.
   H88C, Infinity87.5, Jels88.
   - Some PCB and case compatability is documented
   [here](https://docs.google.com/spreadsheets/d/1fZ8FtTGDl222hXnomQJgKmwRnWvg2VuoJ-GeAafVTLc/edit#gid=0)
+
+## Hotswap
+
+Beyond the earlier mentions of how 5 pin switches will not fit in a 3 pin pcb, hotswap sockets are
+generally not limited in what switches they would accept, with the exception of Outemu hotswap rivets.
+(Note: these look like regular solder joints, and are obviously distinct from the surface mount Outemu
+hotswap socket that resembles Kailh/Gateron/TTC/CIY sockets).
+
+Outemu hotswap is limited to Outemu switches (this includes Gazzew Boba switches), as the pins for the
+switches are sufficiently thin enough to enter the socket **without sanding**. Other switches that
+**may** fit in include
+
+* KTT
+  * Akko CS switches are included in this classification
+  * May require elbow grease to fit
+* Tecsee [?]
+  * This is based off of some report that Glorious Holy Pandas fit into a Rakk Ilis without issue.
+    Since the manufacturer is generally implied to be Tecsee, other Tecsee switches may fit.
+* Huano
+  * Kind of hear-say from Reddit.
