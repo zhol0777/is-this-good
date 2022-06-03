@@ -123,6 +123,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [CandyKeys](https://candykeys.com/)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
 | [Clark Cable](https://clarkkable.com/)             |          |      |       | [x]    |         |           | Germany     |
 | [Eloquent Clicks](https://www.eloquentclicks.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Spain       |
+| [KBnordic](https://kbnordic.eu)                    | [x]      | [x]  | [x]   |        | [x]     | PCB/Plate | Sweden      |
 | [Keeb.Studio](https://keeb.studio/)                |          |      |       | [x]    |         |           | Belgium     |
 | [Keebwerk](https://keebwerk.com/)                  | [x]      |      |       |        |         | [x]       | Germany     |
 | [Keyb.no](https://keyb.no/)                        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Norway      |
@@ -174,7 +175,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/)  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
 | [MecKey Alpha](https://meckeyalpha.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
 | [Meckeys](https://www.meckeys.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | India        |
-| [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Taiwan       |
+| [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Singapore    |
 | [MelGeek](https://www.melgeek.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Monstargears](https://www.monstargears.com/)                  | [x]      |      | [x]   | [x]    | [x]     | [x]       | South Korea  |
 | [PantheonKeys](https://pantheonkeys.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
