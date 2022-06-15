@@ -11,9 +11,11 @@ Answer: *Good is a question for moral philosophers to answer, and that’s not w
 
 This guide is here to help you figure out if the thing you're considering buying will meet or not meet your needs and expectations. You don't have to read all of it, but I ask that you provide some care into giving the relevant parts a solid read-over, lest you risk turning someone helping you in #kb-help or #kb-buying advice from passive to aggressive. There may be advice here and there about what parts may work together, but for the most part, you may need to use your brain still.
 
-This is not a complete guide to be solely relied on, but a supplement to a set of information I am confident that you can find on your own with reasonable use of your favorite web search engine, YouTube (with information from there taken with grains of salt), the pins in the MechKeys Discord Server, and so on. Also please be considerate to the guide’s revision date, as certain aspects to the keyboard meta may be out of date by the time you read this.
+This is not a complete guide to be solely relied on, but a supplement to a set of information I am confident that you can find on your own with reasonable use of your favorite web search engine, YouTube (with information from there taken with grains of salt), the pins in the MechKeys Discord Server, and so on. It's not comprehensive across all aspects of the hobby, but is hopefully enough for most new people to get started with. Also please be considerate to the guide’s revision date, as certain aspects to the keyboard meta may be out of date by the time you read this.
 
 This is mostly folk knowledge and should thus be taken with a grain of salt. This is based on first-hand reports from myself, my co-writers, second-hand reports from friends and people I trust, and is thus subject to being viewed through the lenses of their unspoken and possibly conflicting preferences. Please be mindful of this while reading.
+
+I try to provide attributation for most of the images provided in here - for those missing specific attribution and credit, please file an issue if you know where an image originated from.
 
 Also, I have not finished writing this. Please help.
 

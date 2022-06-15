@@ -161,6 +161,10 @@ Stem twist is hidden when caps are in their tray/bag, but obvious once mounted.
 
 Where dye-sublimation is the process of printing a design onto a keycap by applying pigment to a specific area, reverse dye-sublimation is the process of printing a design onto a keycap by applying pigment **everywhere but** a specific area. A big issue with this is that heat gets applied to **every face of the cap** is that the cap shrinks somewhat, and the gap between keys becomes more obvious than normal.
 
+| ![effects of flawed reverse dyesub process](images/kat_rev_dyesub_issues.png) |
+| ----------------------------------------------------------------------------- |
+| Effects of flawed reverse dye-sublimation on KAT keycaps. Original author (presumably from GeekHack?) unknown, my apologies. |
+
 ### Thickness
 
 TODO: Fill this out
