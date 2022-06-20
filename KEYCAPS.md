@@ -16,6 +16,7 @@
     - [Warped Bars](#warped-bars)
     - [Stem Twist](#stem-twist)
     - [Reverse Dye-Sub Shrink](#reverse-dye-sub-shrink)
+    - [Geekark](#geekark-stems)
     - [Thickness](#thickness)
 
 ## Switch orientation on PCB and keycap interference
@@ -164,6 +165,10 @@ Where dye-sublimation is the process of printing a design onto a keycap by apply
 | ![effects of flawed reverse dyesub process](images/kat_rev_dyesub_issues.png) |
 | ----------------------------------------------------------------------------- |
 | Effects of flawed reverse dye-sublimation on KAT keycaps. Original author (presumably from GeekHack?) unknown, my apologies. |
+
+### Geekark Stems
+
+![screenshot of discord message describing that Geekark keycap stems may shatter if placed too roughly on some KTT/Outemu switches](images/ga_triangle_stem.png)
 
 ### Thickness
 
