@@ -81,7 +81,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Tez Cables](https://tezcables.com/)                         |          |      |       | [x]    |         |           | ?                          |
 | [TheKey.Company](https://thekey.company/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Michigan                   |
 | [Thockeys](https://thockeys.com/)                            | [x]      |      | [x]   | [x]    | [x]     |           | Westminster, MA            |
-| [Thockpop](https://thockpop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     |           | Tallahassee, FL            |
+| [Thockpop](https://thockpop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     |           | Houston, TX                |
 | [Typr Tools](https://typr.tools/)                            | [x]      | [x]  | [x]   |        |         |           | California (Northern)      |
 | [Upgrade Keyboards](https://upgradekeyboards.com/)           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
 | [WASD Keyboards](https://wasdkeyboards.com/)                 |          |      |       |        | [x]     | [x]       | California                 |
