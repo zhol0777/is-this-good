@@ -4,7 +4,11 @@ Vendors are listed for their in stock purchases, not GBs.
 
 - [Vendor List](#vendor-list)
   - [North America](#north-america)
+    - [USA](#usa)
+    - [Canada](#canada)
   - [Europe](#europe)
+    - [Continental Europe](#continental-europe)
+    - [UK](#brexit-exclusion-zone)
   - [Asia](#asia)
   - [Oceania](#oceania)
   - [MENA/WANA](#menawana)
@@ -26,13 +30,13 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Cable Craze](https://cablecraze.net/)                       |          |      |       | [x]    |         |           | ?                          |
 | [Cannon Keys](https://cannonkeys.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
 | [ClueBoard](https://clueboard.co/)                           | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
+| [Checkerboards](https://www.checkerboards.xyz)<sup>1</sup>   | [x]      |      | [x]   |        |         | [x]       | Waco, TX
 | [Coaxius](https://coaxius.com/)                              |          |      |       | [x]    |         |           | California                 |
 | [Cookie Cables](https://cookiecables.com/)                   |          |      |       | [x]    |         |           | ?                          |
 | [Cruz Ctrl](https://cruzctrl.gg/)                            |          |      |       | [x]    |         |           | Bay Area, CA               |
 | [Cup Cables](https://cupcables.com/)                         |          |      |       | [x]    |         |           | Oakland, CA                |
 | [DangKeebs](https://dangkeebs.com/)                          | [x]      | [x]  |       |        |         |           | Boston, MA                 |
 | [Digital Carpentry](https://digital-carpentry.com/)          |          | [x]  |       |        |         |           | Kentucky                   |
-| [Dinokeys](https://dinokeys.co/)                             | [x]      | [x]  | [x]   |        |         |           | Los Angeles, CA            |
 | [Divinikey](https://divinikey.com/)                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
 | [Donut Cables](https://donutcables.com/)                     |          |      |       | [x]    |         |           | ?                          |
 | [Dream Cables](https://dream-cables.com/)                    |          |      |       | [x]    |         |           | Utah                       |
@@ -52,7 +56,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kraken Keyboards](https://krakenkeyboards.com/)             |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
 | [Little Keyboards](https://littlekeyboards.com/)<sup>1</sup> | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
 | [MaxKeyboard](https://maxkeyboard.com/)                      |          |      |       |        |         | [x]       | California (Northern)      |
-| [Mech27](https://mech27.com/)                                |          | [x]  |       |        |         |           | ?                          |
 | [MechanicalKeyboards](https://mechanicalkeyboards.com/)      |          |      |       |        | [x]     | [x]       | Tennessee                  |
 | [MechCables](https://mechcables.com/)                        |          |      |       | [x]    |         |           | Virginia                   |
 | [Mechwild](https://mechwild.com/)<sup>1</sup>                | [x]      |      |       |        |         | [x]       | Ohio                       |
@@ -78,7 +81,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Tez Cables](https://tezcables.com/)                         |          |      |       | [x]    |         |           | ?                          |
 | [TheKey.Company](https://thekey.company/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Michigan                   |
 | [Thockeys](https://thockeys.com/)                            | [x]      |      | [x]   | [x]    | [x]     |           | Westminster, MA            |
-| [Thockpop](https://thockpop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     |           | Tallahassee, FL            |
+| [Thockpop](https://thockpop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     |           | Houston, TX                |
 | [Typr Tools](https://typr.tools/)                            | [x]      | [x]  | [x]   |        |         |           | California (Northern)      |
 | [Upgrade Keyboards](https://upgradekeyboards.com/)           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
 | [WASD Keyboards](https://wasdkeyboards.com/)                 |          |      |       |        | [x]     | [x]       | California                 |
@@ -112,35 +115,43 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 ## Europe
 
+### Continental Europe
+
 | Vendor                                             | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
 | -------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
 | [42Keebs](https://42keebs.eu)<sup>1</sup>          | [x]      | [x]  | [x]   |        |         | [x]       | Czechia     |
 | [CandyKeys](https://candykeys.com/)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
 | [Clark Cable](https://clarkkable.com/)             |          |      |       | [x]    |         |           | Germany     |
-| [Cool Cables](https://coolcable.co.uk/)            |          |      |       | [x]    |         |           | UK          |
 | [Eloquent Clicks](https://www.eloquentclicks.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Spain       |
+| [KBnordic](https://kbnordic.eu)                    | [x]      | [x]  | [x]   |        | [x]     | PCB/Plate | Sweden      |
 | [Keeb.Studio](https://keeb.studio/)                |          |      |       | [x]    |         |           | Belgium     |
-| [KeebCats](https://keebcats.co.uk/)                | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [Keebwerk](https://keebwerk.com/)                  | [x]      |      |       |        |         | [x]       | Germany     |
 | [Keyb.no](https://keyb.no/)                        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Norway      |
 | [KeyCapsss](https://keycapsss.com/)                | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
-| [KeyChrox](https://www.keycrox.co.uk/)             | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [Keygem](https://keygem.store/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
 | [Kris Cables](https://kriscables.com/)             |          |      |       | [x]    |         |           | Portugal    |
 | [Mechanisk](https://mekanisk.com/)                 | [x]      |      | [x]   |        |         | [x]       | Norway      |
+| [MyKeyboard](https://mykeyboard.eu/)               | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Belgium     |
+| [Oblotsky](https://oblotzky.industries/)           | [x]      |      |       |        | [x]     |           | Germany     |
+| [SplitKB](https://splitkb.com/)<sup>1</sup>        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Netherlands |
+
+<sup>1</sup>: Through-hole keyboard specialty
+
+### Brexit Exclusion Zone
+
+| Vendor                                             | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
+| -------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
+| [Cool Cables](https://coolcable.co.uk/)            |          |      |       | [x]    |         |           | UK          |
+| [KeebCats](https://keebcats.co.uk/)                | [x]      | [x]  | [x]   |        |         |           | UK          |
+| [KeyChrox](https://www.keycrox.co.uk/)             | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [MechBoards](https://mechboards.co.uk/)            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
 | [MechBox](https://mechbox.co.uk/)                  | [x]      |      |       | [x]    | [x]     |           | UK          |
-| [MyKeyboard](https://mykeyboard.eu/)               | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Belgium     |
-| [Oblotsky](https://https://oblotzky.industries/)   | [x]      |      |       |        | [x]     |           | Germany     |
 | [OpticBoards](https://www.opticboards.com/)        | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [Pexon](https://pexonpcs.co.uk/)                   |          |      |       | [x]    |         |           | UK          |
 | [Prototypist](https://prototypist.net/)            | [x]      | [x]  | [x]   |        | [x]     |           | UK          |
-| [SplitKB](https://splitkb.com/)<sup>1</sup>        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Netherlands |
 | [TheKeyboardCo](https://www.keyboardco.com/)       | [x]      |      | [x]   | [x]    |         | [x]       | UK          |
 | [Tokas Cables](https://shop.tokas.co.uk/)          |          |      |       | [x]    |         |           | UK          |
 | [UK Keycaps](http://www.ukkeycaps.co.uk/)          | [x]      |      |       |        | [x]     | [x]       | UK          |
-
-<sup>1</sup>: Through-hole keyboard specialty
 
 ## Asia
 
@@ -164,7 +175,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/)  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
 | [MecKey Alpha](https://meckeyalpha.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
 | [Meckeys](https://www.meckeys.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | India        |
-| [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Taiwan       |
+| [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Singapore    |
 | [MelGeek](https://www.melgeek.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Monstargears](https://www.monstargears.com/)                  | [x]      |      | [x]   | [x]    | [x]     | [x]       | South Korea  |
 | [PantheonKeys](https://pantheonkeys.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
@@ -187,17 +198,18 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Click Clack Cables](https://clickclackcables.com/)  |          |      |       | [x]    |         |           | Australia   |
 | [CustomKBD](https://customkbd.com/)<sup>1</sup>      | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [DailyClack](https://dailyclack.com/)                | [x]      | [x]  | [x]   |        | [x]     |           | Australia   |
+| [keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   |        | [x]     | [x]       | Australia   |
+| [keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
 | [Keyboard Treehouse](https://keyboardtreehouse.com/) | [x]      |      |       |        |         |           | Australia   |
+| [Keyboard Treehouse (AUS)](https://treehousehobbies.com)<sup>2</sup> | | |     |        |         | [x]       | Australia   |
 | [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  | [x]   |        |         |           | Australia   | 
 | [Mountain Keyboards](https://mountainkeyboards.com/) | [x]      |      | [x]   | [x]    | [x]     |           | Australia   |
 | [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia   |
 | [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [Escape Keyboards](https://esckeyboard.com/)         | [x]      | [x]  |       |        | [x]     |           | Australia   |
-| [keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   |        | [x]     | [x]       | Australia   |
-| [keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
-| [Lemonkeys](https://lemonkeys.co.nz)                 | [x]      | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 
 <sup>1</sup>: Through-hole keyboard specialty
+<sup>2</sup>: Australia-only storefront
 
 ## MENA/WANA
 

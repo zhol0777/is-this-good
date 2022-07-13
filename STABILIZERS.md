@@ -1,10 +1,16 @@
 # Stabilizers
 
+This guide is limited to providing guidance for Cherry-style stabilizers. Guidance on Costar, Alps, and Topre stabilizers is not provided.
+
 - [Stabilizers](#stabilizers)
   - [PCB Mount Stabilizers](#pcb-mount-stabilizers)
     - [Recommended](#recommended)
     - [Not Recommended](#not-recommended)     - [Be aware of issues](#be-aware-of-issues)
   - [Plate Mount](#plate-mount)
+  - [Which sizes do I buy?](#lengths)
+    - [6.25u](#625u)
+    - [7u/Tsangan](#7u-tsangan-or-wkl)
+    - [Other](#other)
 
 Please verify which type of stabilizer you need for your board; very few take PCB mount and Plate mount stabilizers simultaneously, so you can just assume that only one works and you either need to buy one or the other. The housings have very visible differences so you can’t really get them mixed up -
 
@@ -75,3 +81,43 @@ Folk knowledge suggests that plate mount stabilizers aren’t “as good” as P
     - Decent for plate mounts in my experience with the all-black ones.
   - Gateron Plate Mount
     - Not god-awful for my experience. The claim of “factory lube” is somewhat wishful thinking, just re-do this on your own.
+
+## Lengths
+
+There are some oddball corner cases to this that I'm too lazy and uninformed to figure out and document.
+
+| Key width        | Stabilizer Width |
+| ---------------- | ---------------- |
+| 2u, 2.25u, 2.75u | 2u               |
+| 3u               | 3u               |
+| 6u               | 6u               |
+| 6.25u            | 6.25u            |
+| 7u               | 7u               |
+
+3u and 6u are already exotic enough. On boards with non-exotic layouts without split backspace (60%, 65%, 75%, TKL, 1800/96%, full-size) enter keys, backspace, ANSI left shift and non-split right shift will use a 2u stabilizer.
+
+For most beginner boards with their first kit, figuring out if your spacebar takes a 6.25u or 7u stabilizer wire generally boils down to to checking the sizing of the 3 keys left of the spacebar. For **most** cases (I say **most** due to some edge case exceptions, which, if you're reading this guide, will be above the pay grade of whatever kit you get), rule of thumb is as follows:
+
+### 6.25u
+
+If the three keys left of the spacebar are equal in size and only slightly wider than an alphanum key, then you want a 6.25u spacebar stabilizer.
+**For most beginner kits, especially those that take hotswap, this is generally the default.**
+
+| Example 1                            | Example 2                              |
+| ------------------------------------ | -------------------------------------- |
+| ![dz60rgb diagram](images/625_1.png) | ![tofu60 screenshot](images/625_2.png) |
+| via mechanicalkeyboards.com          | via kbdfans.com                        |
+
+Leopold FC660M has 1.25u/1u/1.25u arrangement, but the spacebar is also 6.25u. 6.25u also goes with "china blocker"/"china WKL"/"little tooth" boards (if you own one of these, you will assuredly know that it is that).
+
+### 7u (Tsangan or WKL)
+
+If the three keys left of the spacebar have two keys that are much wider than the other (in a 1.5u, 1u, 1.5u arrangement), then you want a 7u stabilizer. If there is a blocker that is the width of a 1u key, then you also probably want a 7u stabilizer.
+
+| [Tsangan Layout, via sn00zzze](https://imgur.com/gallery/u4AlCis) | WKL NCR80 [via u/15buckslilman](https://redd.it/stafu8) |
+| ----------------------------------------------------------------- | ------------------------------------------------------- |
+| ![tsangan 60% layout](images/tsangan.png)                         | ![keyboard with WKL TKL layout](images/ncr80.png)       |
+
+### Other
+
+Generally, the presence of 1.5u modifier keys on the bottom row implies a non-6.25u spacebar, which for most kits will result in a 7u. Some weird arrangements like Realforce 87u style (1.5u/1u/1.5u/spacebar/1.5u/1u/1u/1.5u) imply a 6u spacebar, Filco Minila takes a 3u spacebar, and so on. If you can do math, then take the width of the row above the spacebar row (usually 15u for 60%'s and TKL's) and subtract the width of all the other modifier keys to get the spacebar width. If you've bought a kit, consult the KLE (presumably some link or screenshot from keyboard-layout-editor), or the product description page.
