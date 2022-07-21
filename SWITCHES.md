@@ -23,6 +23,8 @@ For personal switch recommendations, please refer to [the spreadsheet](https://d
     - [Cream stem stand-ins](#cream-stem-stand-ins)
   - [KTT](#ktt)
   - [SP-Star](#sp-star)
+  - [Invyr](#invyr)
+    - [Drop x Invyr Holy Panda](#Drop-x-Invyr-Holy-Panda)
 
 ## Gateron
 
@@ -107,4 +109,13 @@ Manufactures Akko CS line of switches, as well as Akko Jelly (probably)/Akko CS/
 
 ## SP-Star
 
-They're fine. Their nylon is a bit high-pitched/"clacky". I have nothing more to report.
+They're fine, pretty smooth. Their nylon is a bit high-pitched/"clacky". I have nothing more to report.
+
+## Invyr
+
+Known mostly for the making of the original panda and now infamously the Drop Holy Panda. 
+
+### Drop x Invyr Holy Panda
+
+Made somewhat famous by a certain internet video, some praise it as a "thock" and tactile king. Made up of the housing of a panda and an Halo stem, the combination of leaves and stems creates a large rounded tactile bump. Drop notoriously has lied about its past in terms of materials, factory lubrication, and the original destroyed molds of the Invyr panda being somehow mysteriously found in the back. At this moment, these are severely overpriced for other competing switches on the market that fill its certain role. Too many clones and mold variations have passed for us to really say if this is a true holy panda anymore, if you really want one, some recommend buying YOK pandas to assemble yourself. Boba U4Ts and JWK/Durock T1s are a great alternative. Also beware of such clones that promise to be a Holy Panda such as Fekers or Holy Toms.
+

@@ -18,6 +18,8 @@
     - [Reverse Dye-Sub Shrink](#reverse-dye-sub-shrink)
     - [Geekark](#geekark-stems)
     - [Thickness](#thickness)
+  - [Why Expensive]
+    -
 
 ## Switch orientation on PCB and keycap interference
 
@@ -173,3 +175,34 @@ Where dye-sublimation is the process of printing a design onto a keycap by apply
 ### Thickness
 
 TODO: Fill this out
+
+## Why expensive caps are expensive
+
+Generally, expensive caps are a result of higher quality caps, manufacturing in areas with higher costs of living, and smaller batches. These expensive caps usually start going about once you start heading into the >$100 ranges for a set. 
+
+Mostly for the enthusiast, wait times too long or too expensive? Don't buy it then or find alternatives in-stock. Major vendors like Novelkeys, Cannonkeys, and Drop have many high quality GMK, SA, and other sets in stock all the time, mostly from GB extras.
+
+### GMK 
+
+Manufactured in Germany, the costs are significantly higher in the region. Sets are highly customizable in terms of kitting and molds which is somewhat rare given the ABS double-shot method that is used to produce the caps. 
+
+Recent complaints of the company include long manufacturing times, color mismatch, their eco friendly trays, and certain QC issues with warped keys. 
+
+|  |  |
+| --------- | ----------- |
+| The long queue times are unnacceptable!! | With covid and the massive increase of the hobby it is hard for them to keep up with demand. They also have expirienced a resin shortage even after expanding production equipment, similar problems with queues can also be seen across other manufacturers such as JTK, SP, and Keyreative. While long, it is something that many established manufacturers are expiriencing and vendors do not seem to be advising against the trend of countiounsly pushing more sets into the queues. Vendors like Drop have gone to doing more regular in stock sets which do not push a long wait time from purchase if one wishes to purchase right now. |
+| Colormatching Issues | GMK is able to make and match colors very close to specified color codes(RAL, Pantone, and GMK stock), although there have been instances of GMK being given less than ideal resources to match colors such as GMK Dracula's hex codes. It is up to the designer and vendors to properly communicate these colors through renders or other means which is usually the source of the issue. Instances similar to Nautilus Nightmare's mismatched renders, GMK's default renders of Plum and Necro (Note: GMK is not a render company), or even GMK Bread's rogue color change mid GB. |
+| GMK's New Trays | GMK chose to go more eco-friendly by swapping from plastic trays to ones made out of biodegradable potato starch. These bio-degradable are known to disentigrate over time and are not the best means of long term storage, but it would be hard for GMK to back on this decisions as they have already made the choice to be eco-friendly. |
+| Quality Control | Warped bars are problematic, sad to see, but invetivable with the ammount of plastic they pump out. Instances are not the most common, but can be fixed on the occassion with certain methods. Concerns are valid and purchase elsewhere if you want to avoid it. |
+
+### Signature Plastics (SP)
+
+Made in America, also has flexible kitting and wide customizations. They even offer one-off sets for a somewhat hefty price. That being said, it is more on the expensive side. Their queue times have also seen pretty large growths as a result of more people trying to buy into their DCS/SA lines to avoid GMK. Still good quality caps with their DSS, DCS, SA, and DSA lines. Chinese clones of SA have been on point for the most part, decent choices offered by Maxkey and Domikey if you want something cheaper.
+
+### JTK and DMK
+
+Made in China, somewhat alternatives to GMK although they both have much less inflexible kitting and higher moqs. Legends not as great or sharp, but not too noticeable if you don't look at your caps too hard. DMK so far has had excellent times from being brand new and not working with too many people, also excellent value for their all in one kits. JTK has extremely high moqs and somewhat tight kitting restrictions, JTK queues have also been extremely long for running so few sets.
+
+### Artisans
+
+Lmao, don't get artisan clones that's bad

@@ -5,8 +5,7 @@ This guide is limited to providing guidance for Cherry-style stabilizers. Guidan
 - [Stabilizers](#stabilizers)
   - [PCB Mount Stabilizers](#pcb-mount-stabilizers)
     - [Recommended](#recommended)
-    - [Not Recommended](#not-recommended)
-    - [Be aware of issues](#be-aware-of-issues)
+    - [Not Recommended](#not-recommended)     - [Be aware of issues](#be-aware-of-issues)
   - [Plate Mount](#plate-mount)
   - [Which sizes do I buy?](#lengths)
     - [6.25u](#625u)
@@ -37,18 +36,18 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 ### Recommended
 
 - Durock V2
-  - The community standard for a solid stabilizer. Their main improvement over the V1 is the reversal of the wire holders that makes stab wire popout a thing of the past and close to impossible, I'm sure someone will still find a way.  They still require a bit of balancing and lube and are a bit expensive for the money.
+  - The community standard for a solid stabilizer. Their main improvement over the V1 is the reversal of the wire holders that makes stab wire popout a thing of the past and close to impossible, I'm sure someone will still find a way.  They still require a bit of balancing and lube and are a bit expensive for the money. Everglide V2s are basically the same thing, just different colors.
 - Zeal Stabilizers
   - By god they’re expensive, but Snckler talks a big game about these, and how the tolerances are better than Durock stabs. You can probably get away with just lubing them.
 - C3/Equalz Stabilizers
-  - Wires require ape strength to balance, but otherwise I have no complaints. Their standout feature is the tight wire hold that reduces the chance of stab wire popout while in your board. The foam strips included in the V3 package do provide some community options to reduce rattle. Keep in mind that bandaid or foam stickers like those included with C3 stabs are most effective on thinner PCBs and not 100% necessary on thicker PCBs.
+  - Wires require ape strength to balance, but otherwise I have no complaints. Their standout feature is the tight wire hold that reduces the chance of stab wire popout while in your board. The foam strips included in the V3 package do provide some community options to reduce rattle. Keep in mind that bandaid or foam stickers like those included with C3 stabs are most effective on thinner PCBs and not 100% necessary on thicker PCBs. Very good stabs.
 - Cherry Clip ins
-  - Have not borked by retool (yet). As solid as any other stabilizer when wire balanced and lubed with a thick enough grease. If they’re not being flipped, they’re cheap as all hell. Stocked by keebio, 3DKeebs, and Mouser if you’re based in the US. Don't forget to clip the extra legs on the stem bottom to make it flat.
+  - Have not borked by retool (yet). As solid as any other stabilizer when wire balanced and lubed with a thick enough grease. If they’re not being flipped, they’re cheap as all hell. Stocked by keebio, 3DKeebs, and Mouser if you’re based in the US. Don't forget to clip the extra legs on the stem bottom to make it flat. Chicken's favorite. 
 - TX Stabilizers
   - This is the big idea improvement in stabilizers the hobby has been waiting years for - line the inside of the stabilizer stem with a TPU insert to dampen wire ticking. Real good stock. 2u’s practically don’t require lube. Also hard as hell to find, and infrequently and inconsistently stocked between vendors. Sold by TX on TaoBao, Ashkeebs in CA has been known to sell them, as well as Mekibo and ThocKeys in the US. Check their social media/mailing list to see if any of these places will stock them soon before begging for a date when they’ll restock.
   - Note: if you're having issues with the wire binding against the housing/feeling too tight on reassembly, try and install the the other end of the wire in the housing where you feel tightness.
 - Owlabs Stabilizers
-  - Rain says these are good enough. Wires marketed as "liquid metal", whatever that means.
+  - Rain says these are good enough. Wires marketed as "liquid metal", whatever that means. The wires will not bend easily, some times bleh.
 - Wuque Stabilizers
 
 ### Not Recommended
