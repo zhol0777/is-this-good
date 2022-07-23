@@ -63,16 +63,14 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Mimic Cables](https://mimic-cables.com/)                    |          |      |       | [x]    |         |           | ?                          |
 | [MKUltra](https://mkultra.click/)                            | [x]      |      |       | [x]    | [x]     | [x]       | Angels Camp, CA            |
 | [NovelKeys_](https://novelkeys.xyz/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
-| [OmegaKeys](https://omegakeys.ca/)                           | [x]      | [x]  | [x]   |        |         |           | British Columbia           |
 | [OriginativeCo](https://originativeco.com/)                  |          |      |       |        | [x]     |           | Irvine, CA                 |
 | [Paramountkeeb](https://paramountkeeb.com/)                  | [x]      | [x]  | [x]   |        |         | [x]       | ChickenMan's Basement, CA  |
 | [Prevail KeyCo](https://prevailkeyco.com/)                   | [x]      | [x]  | [x]   |        |         |           | Florida                    |
 | [PrimeKB](https://primekb.com/)                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
 | [RGBKB](https://rgbkb.net/)                                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Connecticut                |
-| [Rheset](https://rheset.mx/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Mexico                     |
 | [Ringer Keys](https://ringerkeys.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | Greater Boston, MA         |
 | [Rockets Cables](https://rocketscables.com/)                 |          |      |       | [x]    |         |           | ?                          |
-| [Space Cables](https://spaceholdings.net/)                   |          |      |       | [x]    |         |           | ?                          |
+| [Space Cables](https://spaceholdings.net/)                   |          |      |       | [x]    |         |           | Austin, TX                 |
 | [Spaztik Cables](https://spaztikcables.com/)                 |          |      |       | [x]    |         |           | Utah                       |
 | [Switch Couture](https://switchcouture.com/)                 |          |      |       |        |         | [x]       | Florida                    |
 | [Switchmod](https://switchmod.net/)                          |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
@@ -113,6 +111,13 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 <sup>1</sup>: Through-hole keyboard specialty
 
+### Mexico
+
+| Vendor                                                       | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
+| ------------------------------------------------------------ | -------- | ---- | ----- | ------ | ------- | --------- | -------------------------- |
+| [Rheset](https://rheset.mx/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Mexico                     |
+
+
 ## Europe
 
 ### Continental Europe
@@ -143,7 +148,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | -------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
 | [Cool Cables](https://coolcable.co.uk/)            |          |      |       | [x]    |         |           | UK          |
 | [KeebCats](https://keebcats.co.uk/)                | [x]      | [x]  | [x]   |        |         |           | UK          |
-| [KeyChrox](https://www.keycrox.co.uk/)             | [x]      | [x]  | [x]   |        |         |           | UK          |
+| [Keycrox](https://www.keycrox.co.uk/)              | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [MechBoards](https://mechboards.co.uk/)            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
 | [MechBox](https://mechbox.co.uk/)                  | [x]      |      |       | [x]    | [x]     |           | UK          |
 | [OpticBoards](https://www.opticboards.com/)        | [x]      | [x]  | [x]   |        |         |           | UK          |
