@@ -64,6 +64,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [NovelKeys_](https://novelkeys.xyz/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
 | [OriginativeCo](https://originativeco.com/)                  | [x]      |      | [x]   |        | [x]     | [x]       | Irvine, CA                 |
 | [Paramountkeeb](https://paramountkeeb.com/)                  | [x]      | [x]  | [x]   |        |         | [x]       | ChickenMan's Basement, CA  |
+| [Pkkeyboards](https://pkkeyboards.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Southern California        |
 | [Prevail KeyCo](https://prevailkeyco.com/)                   | [x]      | [x]  | [x]   |        |         |           | Florida                    |
 | [PrimeKB](https://primekb.com/)                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
 | [RGBKB](https://rgbkb.net/)                                  | [x]      |      |       |        | [x]     | [x]       | Connecticut                |
