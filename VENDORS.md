@@ -81,7 +81,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Thockpop](https://thockpop.com/)                            | [x]      | [x]  | [x]   |        | [x]     |           | Houston, TX                |
 | [Typr Tools](https://typr.tools/)                            | [x]      | [x]  | [x]   |        |         |           | California (Northern)      |
 | [Upgrade Keyboards](https://upgradekeyboards.com/)           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
-| [WASD Keyboards](https://wasdkeyboards.com/)                 | [x]      |      |       |        | [x]     | [x]       | California                 |
+| [WASD Keyboards](https://wasdkeyboards.com/)                 | [x]      |      |       | [x]    | [x]     | [x]       | California                 |
 | [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup>|       |      |       |        |         | [x]       | Austin, TX                 |
 | [Winnja](https://winnja.com/)                                |          |      | [x]   | [x]    |         |           | Texas                      |
 | [Zap Cables](https://zapcables.com/)                         |          |      |       | [x]    |         |           | Wisconsin                  |
