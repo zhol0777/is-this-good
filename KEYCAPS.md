@@ -3,6 +3,7 @@
 - [Keycaps](#keycaps)
   - [Switch orientation on PCB and keycap interference](#switch-orientation-on-pcb-and-keycap-interference)
   - [On Clones](#on-clones)
+    - [Artisans](#artisans)
   - [On Kitting, or, How To Read A Kitting Diagram](#on-kitting-or-how-to-read-a-kitting-diagram)
     - [Extensions To Look For](#extensions-to-look-for)
     - [Example: A Well Kitted Keyset](#example-a-well-kitted-keyset)
@@ -16,9 +17,20 @@
     - [Warped Bars](#warped-bars)
     - [Stem Twist](#stem-twist)
     - [Reverse Dye-Sub Shrink](#reverse-dye-sub-shrink)
-    - [Geekark](#geekark-stems)
+    - [Geekark Stems](#geekark-stems)
     - [Thickness](#thickness)
-  - [Why Expensive]
+  - [Why expensive?](#why-expensive)
+  - [Who's Who](#whos-who)
+    - [GMK](#gmk)
+    - [Signature Plastics (SP)](#signature-plastics-sp)
+    - [JTK (JT Keycaps)](#jtk-jt-keycaps)
+    - [DMK](#dmk)
+    - [EnjoyPBT (ePBT)](#enjoypbt-epbt)
+    - [Milkyway/MW](#milkywaymw)
+    - [Keyreative](#keyreative)
+    - [Infinikey (IFK)](#infinikey-ifk)
+    - [Hammerworks/CRP](#hammerworkscrp)
+    - [NicePBT/CannonCaps](#nicepbtcannoncaps)
     -
 
 ## Switch orientation on PCB and keycap interference
@@ -38,6 +50,10 @@ The morals of intellectual property theft (Can you steal color combinations? How
 - Error prone to dye-sub misprint and otherwise poor quality control
   - Getting a replacement key (if its even offered) for a misprint may take 1-2 months
 - Sub-standard thinness
+
+### Artisans
+
+Lmao, don't get artisan clones that's bad
 
 ## On Kitting, or, How To Read A Kitting Diagram
 
@@ -176,33 +192,68 @@ Where dye-sublimation is the process of printing a design onto a keycap by apply
 
 TODO: Fill this out
 
-## Why expensive caps are expensive
+## Why expensive?
 
-Generally, expensive caps are a result of higher quality caps, manufacturing in areas with higher costs of living, and smaller batches. These expensive caps usually start going about once you start heading into the >$100 ranges for a set. 
+> "Everything's too expensive! You people are stupid for buying this crap! I can't believe you're telling me to spend \$140 USD on keycaps! I don't have \$160! Shame on you for thinking I can spend \$175 on plastic! I'm going to go buy clones ten times over before you think I'd spend \$200 on a base kit! I'm leaving this (server/website/courthouse/baby shower)!
+
+Yes, you're correct, some of these sets do cost a fair amount of money. While some companies commit unsavory business practices like misrepresenting their product to make you think you're getting a good deal (often mislabeling some ABS resin mix as PBT) or using actual child labor to provide you with that cheap Matcha XDA keyset with hiragana sublegends that you bought last week, other manufacturers production costs are more expensive for some justifiable reasons.
+
+Generally, expensive caps are a result of higher quality caps made of better quality resin, not smelling like a sewer when you unbox them, attention to detail for colors and legend alignment, manufacturing in areas with higher costs of living, and smaller batches shrinking the economy of scale. These expensive caps usually start going about once you start heading into the >$100 USD ranges for a set. 
 
 Mostly for the enthusiast, wait times too long or too expensive? Don't buy it then or find alternatives in-stock. Major vendors like Novelkeys, Cannonkeys, and Drop have many high quality GMK, SA, and other sets in stock all the time, mostly from GB extras.
 
+## Who's Who
+
 ### GMK 
 
-Manufactured in Germany, the costs are significantly higher in the region. Sets are highly customizable in terms of kitting and molds which is somewhat rare given the ABS double-shot method that is used to produce the caps. 
+They're manufactured in Germany, and therefore pay German costs-of-living and German wages. If anything, it's impressive that the Germans can produce a keyset for not much more than similar Chinese-manufactured made-to-order keysets, especially with retaining workers consistently versus the Chinese manufacturers' tendency to hire workers on the spot as demand necessitates. Manufactured in Germany, the costs are significantly higher in the region. Sets are highly customizable in terms of kitting and molds which is somewhat rare given the ABS double-shot method that is used to produce the caps. 
 
 Recent complaints of the company include long manufacturing times, color mismatch, their eco friendly trays, and certain QC issues with warped keys. 
 
-|  |  |
+| Complaint | Response |
 | --------- | ----------- |
-| The long queue times are unnacceptable!! | With covid and the massive increase of the hobby it is hard for them to keep up with demand. They also have expirienced a resin shortage even after expanding production equipment, similar problems with queues can also be seen across other manufacturers such as JTK, SP, and Keyreative. While long, it is something that many established manufacturers are expiriencing and vendors do not seem to be advising against the trend of countiounsly pushing more sets into the queues. Vendors like Drop have gone to doing more regular in stock sets which do not push a long wait time from purchase if one wishes to purchase right now. |
-| Colormatching Issues | GMK is able to make and match colors very close to specified color codes(RAL, Pantone, and GMK stock), although there have been instances of GMK being given less than ideal resources to match colors such as GMK Dracula's hex codes. It is up to the designer and vendors to properly communicate these colors through renders or other means which is usually the source of the issue. Instances similar to Nautilus Nightmare's mismatched renders, GMK's default renders of Plum and Necro (Note: GMK is not a render company), or even GMK Bread's rogue color change mid GB. |
-| GMK's New Trays | GMK chose to go more eco-friendly by swapping from plastic trays to ones made out of biodegradable potato starch. These bio-degradable are known to disentigrate over time and are not the best means of long term storage, but it would be hard for GMK to back on this decisions as they have already made the choice to be eco-friendly. |
+| The long queue times are unnacceptable! Gimme now! | With COVID, the massive increase of the hobby, locking down to protect workers from COVID infection, and the inherent difficulty in sourcing resin reliably outside of China, GMK had some time where production was outpaced by orders placed/demand. While this isn't the place for a document to debate with you on if GMK has acted "unethically" in accepting more sets in a month than they can produce (fwiw, it's literally business, grow up), significant delays in set production are non-unique to GMK, if you pay attention to issues with GB fulfillment from other made-to-order manufacturers like Milkyway, Keyreative, Signature Plastics, and JTK. If you simply cannot wait for a set to fulfill, Drop consistently stocks GMK sets, and other vendors like Novelkeys or Oblotsky Industries do well to stock plenty of extras after a GB has fulfilled. You may have to pay the Patience Tax to pay for an extras set or preorder. |
+| Colormatching Issues | GMK is able to make and match colors very close to specified color codes (supporting RAL and Pantone on top of their stock colors), although it may take time and multiple sampling runs to satisfy a designer. It is up to the designer and vendors to properly communicate these colors to customers through accurate and professional renders, or photographing color chips in real-world lighting. Instances similar to Nautilus Nightmares' mismatched renders, GMK's default renders of Plum and Necro (note: GMK is not a render company), or even GMK Bread's rogue unannounced color change mid GB, but this is the work of designers signing off on samples. |
+| These trays stink! | German regulations pushed the swap from plastic trays to ones made out of biodegradable potato starch. These bio-degradable are known to disintegrate over time and are not the best means of long term storage, but it would be hard for GMK to back on this decisions as they have already made the choice to be eco-friendly. Recent retooling of these trays prevents caps from getting jumbled around in transit. |
 | Quality Control | Warped bars are problematic, sad to see, but invetivable with the ammount of plastic they pump out. Instances are not the most common, but can be fixed on the occassion with certain methods. Concerns are valid and purchase elsewhere if you want to avoid it. |
+| ABS shines too fast! | Yeah. ABS wears out. Buy a set you're sure you'll like for a while and want to keep and not one that you'll plan on selling after using the caps for two weeks, and it'll be less of an issue. Shine shows that you cared about these caps, and you enjoyed using them. |
+| There's UV print on keys with more than two colors? I hear UV print wears out fast! What a load of crap! | [Only if the manufacturer sucks! Notice how the shine hasn't wiped off the legends off these?](https://www.reddit.com/r/MechanicalKeyboards/comments/b3cm79/hbcp_griseann/) |
+| You're caping for GMK! You're a shill! |  |
 
 ### Signature Plastics (SP)
 
-Made in America, also has flexible kitting and wide customizations. They even offer one-off sets for a somewhat hefty price. That being said, it is more on the expensive side. Their queue times have also seen pretty large growths as a result of more people trying to buy into their DCS/SA lines to avoid GMK. Still good quality caps with their DSS, DCS, SA, and DSA lines. Chinese clones of SA have been on point for the most part, decent choices offered by Maxkey and Domikey if you want something cheaper.
+Manufactured in America, SP provides flexible kitting and wide customizations, and are known for excellent communication with their customers (vendors or designers). They even offer one-off sets for a somewhat hefty price. DCS (a profile similar to Cherry) lead times have suffered significant growth due to a brief stint of popularity after designers migrated their sets to DCS to avoid the unpopularity of GMK lead times among potential customers, and SA lead times remain rough (due to significantly more resin used for that profile over the other profiles they offer). DSS and DSA lead times remain good. While their made-to-order sets tend to be doubleshot ABS, they do offer some limited dye-sublimated PBT options. Their SA is nearly glossy-smooth, while their ABS DSS and DSA sets are aggressively textured. DSS, DSA, and DCS are all on the thinner side.
 
-### JTK and DMK
+### JTK (JT Keycaps)
 
-Made in China, somewhat alternatives to GMK although they both have much less inflexible kitting and higher moqs. Legends not as great or sharp, but not too noticeable if you don't look at your caps too hard. DMK so far has had excellent times from being brand new and not working with too many people, also excellent value for their all in one kits. JTK has extremely high moqs and somewhat tight kitting restrictions, JTK queues have also been extremely long for running so few sets.
+Cherry profile keycaps in doubleshot and tripleshot hiragana, cyrillic, and US-International (Griseann/Royal Alpha) ABS. Thickness is comparable to GMK. They are somewhat infamous for significant delays and slow communication with designers and vendors, even prior to covid. Their molds quality is moderately good, although more seasoned customers may have quibbles with the consistency of the thickness of the lines in some letters in their molds. Texture is a little more slick than DMK.
 
-### Artisans
+### DMK
 
-Lmao, don't get artisan clones that's bad
+Doubleshot and tripleshot hiragana and cyrillic (with upcoming Hangul) tripleshot molds. Thickness comparable to GMK. Lead times appear to be very good, although it appears their load is managed by running few made-to-order keysets. The alphas are high-quality, their space bars are very straight, but the quality of the molds on the icon+text modifier keys should be noted, as it appears the letters bleed out a little bit. The caps themselves are textured moderately, which I find pleasant.
+
+### EnjoyPBT (ePBT)
+
+Moderately thick PBT of average smoothness with solid dye-sublimation with recent capabilities for reverse dye-sub on every key. ePBT is currently suffering from significant production delays.
+Avoid their doubleshot ABS sets, as the molds on those are of lower quality, inconsistent thickness on the alpha legends, and known to sometimes collide with switch housings even when switches are south-facing.
+
+### Milkyway/MW
+
+A new manufacturer that advertises large kitting flexibility and lower pricing, as well what appears to be a novel approach to reverse dye-sublimation. PBT smoothness is about on par with other manufacturers.
+Color-matching (case: MW Demon Girl) and alignment (cases: MW Cat PBT, Bolsa Supply WoB Hiragana) appears to be problematic at times. They're starting to get impacted by production delays.
+
+### Keyreative
+
+Known for producing KAT (sculpted) and KAM (uniform profile) keycaps. A manufacturer that offers very attractive MOQ targeting based on total units sold instead of individual kits. They are suffering a significant backlog exacerbated by converting some sets that were advertised by designers as reverse dye-sublimation to doubleshot manufacturing and constant lockdowns. QC appears to be inconsistent too, as past sets have had somewhat fuzzy dye-sub, sub-standard alignment, significant amounts of keycap shrink with their reverse dye-sub process, reverse-dyesub peel. Their dyesub PBT is velvety smooth, can't speak to their doubleshot yet.
+
+### Infinikey (IFK)
+
+A front-end for a manufacturer that offers all-over dye-sublimation Cherry profile and DSA keycaps. Their quality is simply *alright* (alignment is a bit off at times, and their font options aren't for everyone). They are moving from running group-buy sets to in-stock sales.
+
+### Hammerworks/CRP
+
+Smoother than average, moderately thick. Comes in two colors: beige, and white. They don't run group-buys that often, so be prepared to pay the aftermarket tax if you want any.
+
+### NicePBT/CannonCaps
+
+NicePBT makes up the very thick blanks, while CannonCaps makes up the moderately thick blanks. CannonCaps have very very smooth texture, while NicePBT is a bit more textured. Their kitting tends to be one large base kit that provides solid 40's and split bars support. Limited reverse dye-sublimation. A decent buy for those not trying to buy keycaps directly from China. Legend quality is improving.
