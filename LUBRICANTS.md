@@ -4,6 +4,7 @@
   - [A quick reference](#a-quick-reference)
     - [Compatability](#compatability)
     - [Amounts recommended](#amounts-recommended)
+    - [Thickness explained](#thickness-explained)
   - [Housing And Stem For Switch And Stabilizer](#housing-and-stem-for-switch-and-stabilizer)
   - [Switch Spring](#switch-spring)
   - [Stabilizer Wire Lubricant](#stabilizer-wire-lubricant)

@@ -9,7 +9,7 @@ Vendors are listed for their in stock purchases, not GBs.
     - [Mexico](#mexico)
   - [Europe](#europe)
     - [Continental Europe](#continental-europe)
-    - [UK](#brexit-exclusion-zone)
+    - [Brexit Exclusion Zone](#brexit-exclusion-zone)
   - [Asia](#asia)
   - [Oceania](#oceania)
   - [MENA/WANA](#menawana)
@@ -63,8 +63,9 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MKUltra](https://mkultra.click/)                            | [x]      |      |       | [x]    | [x]     | [x]       | Angels Camp, CA            |
 | [NovelKeys_](https://novelkeys.xyz/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
 | [OriginativeCo](https://originativeco.com/)                  | [x]      |      | [x]   |        | [x]     | [x]       | Irvine, CA                 |
-| [Paramountkeeb](https://paramountkeeb.com/)                  | [x]      | [x]  | [x]   |        |         | [x]       | ChickenMan's Basement, CA  |
+| [Paramountkeeb](https://paramountkeeb.com/)                  | [x]      | [x]  | [x]   |        |         | [x]       | Paramount, CA              |
 | [Pkkeyboards](https://pkkeyboards.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Southern California        |
+| [Povertykeys](https://povertykeys.com/collections/all)       | [x]      | [x]  | [x]   |        | [x]     |           | Southern California        |
 | [Prevail KeyCo](https://prevailkeyco.com/)                   | [x]      | [x]  | [x]   |        |         |           | Florida                    |
 | [PrimeKB](https://primekb.com/)                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
 | [RGBKB](https://rgbkb.net/)                                  | [x]      |      |       |        | [x]     | [x]       | Connecticut                |
@@ -133,6 +134,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Keyb.no](https://keyb.no/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | Norway      |
 | [KeyCapsss](https://keycapsss.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Germany     |
 | [Keygem](https://keygem.store/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
+| [KHOR](https://khor.store)                         |          |      | [x]   | [x]    |         |           | Italy       |
 | [Kriscables](https://kriscables.com/)<sup>1</sup>  | [x]      |      |       | [x]    | [x]     | [x]       | Portugal    |
 | [Mechanisk](https://mekanisk.com/)                 | [x]      |      | [x]   |        |         | [x]       | Norway      |
 | [MyKeyboard](https://mykeyboard.eu/)               | [x]      | [x]  | [x]   |        | [x]     | [x]       | Belgium     |
@@ -150,6 +152,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Keycrox](https://www.keycrox.co.uk/)              | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
 | [Mechboards](https://mechboards.co.uk/)<sup>1</sup>| [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
 | [MechBox](https://mechbox.co.uk/)                  | [x]      |      |       |        | [x]     |           | UK          |
+| [Mechmods](https://www.mechmods.co.uk)             | [x]      | [x]  | [x]   |        | [x]     | [x]       | UK          |
 | [OpticBoards](https://www.opticboards.com/)        | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [Pexon](https://pexonpcs.co.uk/)                   |          |      |       | [x]    |         |           | UK          |
 | [Prototypist](https://prototypist.net/)            | [x]      | [x]  | [x]   |        | [x]     | [x]       | UK          |
@@ -171,6 +174,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [KBDfans](https://kbdfans.com/)                                | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Kelowna](https://sloer.world.taobao.com/)                     | [x]      | [x]  | [x]   | [x]    | [x]     |           | China (PRC)  |
 | [Keys.my](https://keys.my/)                                    | [x]      | [x]  | [x]   |        |         |           | Malaysia     |
+| [Kibou](https://kibou.store)                                   | [x]      |      | [x]   |        | [x]     |           | China (PRC)  |
 | [KPRepublic](https://kprepublic.com/)                          | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [KwertieKeys](https://www.kwertiekeys.com/)                    | [x]      |      |       | [x]    | [x]     |           | Singapore    |
 | [LetsGetIt](https://letsgetit.io/)                             |          | [x]  | [x]   |        |         |           | South Korea  |
@@ -178,11 +182,13 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/)  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
 | [MecKey Alpha](https://meckeyalpha.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
 | [Meckeys](https://www.meckeys.com/)                            | [x]      |      |       | [x]    | [x]     | [x]       | India        |
+| [MOKB](https://mokbstore.com/)                                 | [x]      |      |       |        |         |           | Vietnam      |   
 | [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Singapore    |
 | [MelGeek](https://www.melgeek.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Monstargears](https://www.monstargears.com/)                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | South Korea  |
 | [PantheonKeys](https://pantheonkeys.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     |           | Singapore    |
 | [Qwertyqop](https://qwertyqop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
+| [Rebult Keyboards](https://www.rebultkeyboards.com)            | [x]      |      | [x]   |        |         |           | Malaysia     |
 | [Rectangles.store](https://rectangles.store/)                  | [x]      | [x]  | [x]   |        |         | [x]       | India        |
 | [StacksKB](https://stackskb.com/)                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | India        |
 | [SwagKeys](https://swagkeys.com/)                              | [x]      | [x]  | [x]   |        | [x]     |           | South Korea  |
@@ -218,4 +224,5 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 | Vendor                                   | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location |
 | ---------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | -------- |
+| [Sandkeys](https://sandkeys.me)          | [x]      |      |       |        |         |           | UAE      |
 | [RationalKeys](https://rationalkeys.com) | [x]      |      | [x]   |        | [x]     | [x]       | Turkey   |

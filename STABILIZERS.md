@@ -5,11 +5,12 @@ This guide is limited to providing guidance for Cherry-style stabilizers. Guidan
 - [Stabilizers](#stabilizers)
   - [PCB Mount Stabilizers](#pcb-mount-stabilizers)
     - [Recommended](#recommended)
-    - [Not Recommended](#not-recommended)     - [Be aware of issues](#be-aware-of-issues)
+    - [Not Recommended](#not-recommended)
+    - [Be aware of issues](#be-aware-of-issues)
   - [Plate Mount](#plate-mount)
-  - [Which sizes do I buy?](#lengths)
+  - [Lengths](#lengths)
     - [6.25u](#625u)
-    - [7u/Tsangan](#7u-tsangan-or-wkl)
+    - [7u (Tsangan or WKL)](#7u-tsangan-or-wkl)
     - [Other](#other)
 
 Please verify which type of stabilizer you need for your board; very few take PCB mount and Plate mount stabilizers simultaneously, so you can just assume that only one works and you either need to buy one or the other. The housings have very visible differences so you can’t really get them mixed up -
@@ -42,10 +43,12 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 - C3/Equalz Stabilizers
   - Wires require ape strength to balance, but otherwise I have no complaints. Their standout feature is the tight wire hold that reduces the chance of stab wire popout while in your board. The foam strips included in the V3 package do provide some community options to reduce rattle. Keep in mind that bandaid or foam stickers like those included with C3 stabs are most effective on thinner PCBs and not 100% necessary on thicker PCBs. Very good stabs.
 - Cherry Clip ins
-  - Have not borked by retool (yet). As solid as any other stabilizer when wire balanced and lubed with a thick enough grease. If they’re not being flipped, they’re cheap as all hell. Stocked by keebio, 3DKeebs, and Mouser if you’re based in the US. Don't forget to clip the extra legs on the stem bottom to make it flat. Chicken's favorite. 
+  - Have not borked by retool (yet). As solid as any other stabilizer when wire balanced and lubed with a thick enough grease. If they’re not being flipped, they’re cheap as all hell. The 2U's are usually marked as G99-0742 if you're ordering from a wholesaler like Mouser. Don't forget to clip the extra legs on the stem bottom to make it flat. Chicken's favorite. 
 - TX Stabilizers
   - This is the big idea improvement in stabilizers the hobby has been waiting years for - line the inside of the stabilizer stem with a TPU insert to dampen wire ticking. Real good stock. 2u’s practically don’t require lube. Also hard as hell to find, and infrequently and inconsistently stocked between vendors. Sold by TX on TaoBao, Ashkeebs in CA has been known to sell them, as well as Mekibo and ThocKeys in the US. Check their social media/mailing list to see if any of these places will stock them soon before begging for a date when they’ll restock.
   - Note: if you're having issues with the wire binding against the housing/feeling too tight on reassembly, try and install the the other end of the wire in the housing where you feel tightness.
+- Gateron Stabilizers
+  - Ink stabs are mega expensive, but the other ones seem to be good enough. The Black/Silver model seems to be designed to be used specifically with switches that feature early bottom out (generally pole bottom out/speed switches)
 - Owlabs Stabilizers
   - Rain says these are good enough. Wires marketed as "liquid metal", whatever that means. The wires will not bend easily, some times bleh.
 - Wuque Stabilizers
