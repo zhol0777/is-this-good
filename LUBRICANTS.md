@@ -1,5 +1,9 @@
 # Lubricants
 
+This document is intended to cover lubing of boards with MX style switches and does not cover techniques for Alps or Topre builds. Per pizza and cardio respectively, I offer two minor tidbits of advice:
+* nyogel 760g should be pretty fire for alps
+* use only 3204 lightly on topre stabilizer wire and nowhere else
+
 - [Lubricants](#lubricants)
   - [A quick reference](#a-quick-reference)
     - [Compatability](#compatability)
@@ -8,6 +12,7 @@
   - [Housing And Stem For Switch And Stabilizer](#housing-and-stem-for-switch-and-stabilizer)
   - [Switch Spring](#switch-spring)
   - [Stabilizer Wire Lubricant](#stabilizer-wire-lubricant)
+  - [More exotic lubricants](#more-exotic-lubricants)
 
 Lubricant recommendations are a soft science leaning towards parroting old wives’ tales than  hard reproducibility. Here, I parrot old wives tales, but try to provide some justification for them.
 
@@ -144,3 +149,20 @@ You no longer require PTFE content for applications to the wire to prevent wire 
   - PTFE oils like GPL 105-107
     - I shouldn’t have to put this here, but if a history of help channel activity has taught me anything, some people need to be reminded that making a stabilizer wire oily will not stop it from slapping against the interior of a stabilizer stem.
   - Petroleum based lubricants
+
+## More exotic lubricants
+
+This document provides basic coverage for those new to the hobby; seasoned members of the hobby may prefer things like
+* Christo-Lube (MCG 111, 112, 129)
+  * [donpark's review of Christo-Lubes](https://www.keebtalk.com/t/cristo-lubes-mini-review/5530)
+* Exotic mixes like GHv4 and specific Grease/Oil ratio mixes
+  * if you choose to use these just because you think you'll be cool and not because they have a specific property you're looking for, lol
+    * lmao
+* Dry lube
+  * editor's note: PTFE powder, if inhaled, may give you cancer
+  * PTFE powder is also quite flammable
+    * this is made more flammable if, say, someone is suggesting that you apply it wet with a solvent like alcohol
+  * "the ones some vendors sell for alps are the same ones [chemical engineers] classify as level 5 occupational exposure hazards"
+  * if someone in a twitch stream chat is suggesting that more people should dry lube, the streamer is telling them to shut the fuck up for a very good reason
+
+If you needed to read this document, these lubes are above your pay grade. Good luck and godspeed.

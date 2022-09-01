@@ -21,7 +21,7 @@ Also, I have not finished writing this. Please help.
 
 Thanks,
 
-zhol (with assistance from moosh, chickenman, Daniel, powwu, pizza, and shamb)
+zhol (with assistance from moosh, chickenman, Daniel, powwu, pizza, chill and shamb)
 
 - [Prebuilt Keyboards](PREBUILT.md)
 - [Keyboard Kits](KITS.md/#keyboard-kits)

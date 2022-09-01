@@ -21,11 +21,14 @@ There are many guides to assemble stabilizers. Please consult either these guide
 
 ### Holee mod
 
-Don't do it. You better not do it.
+* lol
+  * lmao
 
 ### Balancing Stabilizer Wires
 
-TODO: this part
+This is a tuning technique that perfects stabilizers for people who can intuit it, and endlessly aggravates newbies.
+
+https://www.google.com/search?client=safari&rls=en&q=how+to+balance+stabilizer+wire&ie=UTF-8&oe=UTF-8
 
 ## Switches
 
@@ -33,7 +36,7 @@ TODO: this part
 
 Switch lubing is a very holistic activity. There is no specific good way to lube switches, as everyone competent in switch lubing develops a method that works good for them. It is in your best interests to see how many different people lube, read their explanations and justifications, and combine what makes sense to you.
 
-editor's note: Personally, I load a brush with just a touch of grease and then wiping off as much excess on my lube jar lid as I can, brushing each rail on the bottom housing 3 times each, alternating as I go, wiping whatever's left on the leaf (for linears). I heavily paint the end of the spring that touches the bottom housing, insert the spring into the bottom housing, and then lube the stem by loading the brush with a little grease, wiping off as much excess as I can onto the lid again, depositing as much grease as I can on the rails of the stem, applying that over the rails, then the sides of the stem, then maybe the stem legs for linears. Maybe I do too little. Maybe I should be hitting the top housing. Whatever.
+editor's note: Personally, I load a brush with just a touch of grease and then wiping off as much excess on my lube jar lid as I can, brushing each rail on the bottom housing 3 times each, alternating as I go, wiping whatever's left on the leaf (for linears). I heavily paint the end of the spring that touches the bottom housing, insert the spring into the bottom housing, and then lube the stem by loading the brush with a little grease, wiping off as much excess as I can onto the lid again, depositing as much grease as I can on the rails of the stem, applying that over the rails, then the sides of the stem, then maybe the stem legs for linears. Maybe I do too little. Maybe I should be hitting the top housing. Maybe I should be spending a bunch of money on an ultrasonic and industrial degreaser to remove factory lube instead of just mixing it in with the Krytox/Tribosys. Whatever.
 
 ![issey83's guide to switch lube locations](https://cdn.discordapp.com/attachments/190327462087884811/979355668823814164/switch_lubing.png)
 

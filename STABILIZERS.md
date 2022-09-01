@@ -8,6 +8,7 @@ This guide is limited to providing guidance for Cherry-style stabilizers. Guidan
     - [Not Recommended](#not-recommended)
     - [Be aware of issues](#be-aware-of-issues)
   - [Plate Mount](#plate-mount)
+  - [PCB thickness](#pcb-thickness)
   - [Lengths](#lengths)
     - [6.25u](#625u)
     - [7u (Tsangan, WKL)](#7u-tsangan-wkl)
@@ -84,6 +85,14 @@ Folk knowledge suggests that plate mount stabilizers aren’t “as good” as P
     - Decent for plate mounts in my experience with the all-black ones.
   - Gateron Plate Mount
     - Not god-awful for my experience. The claim of “factory lube” is somewhat wishful thinking, just re-do this on your own.
+
+## PCB thickness
+
+For PCB mount stabilizers, you may come across a mention that some stabilizers are for 1.6mm PCB's, while others are designed for 1.2mm PCB's. Most PCB's are manufactured to 1.6mm, and any board that has a 1.2mm PCB will prominently have it noted. Please consult your keyboard's marketing literature to see if a 1.2mm thick PCB is mentioned anywhere, but a solid rule of thumb is
+
+**if your PCB/keyboard doesn't specify that it is 1.2mm, it's probably 1.6mm thick**
+
+Stabilizers designed to work on 1.6mm thick PCBs can be retrofitted with shims that can provide a bit of extra thickness so that they will fit properly. Per xyzz, this may not be always necessary, but YMMV.
 
 ## Lengths
 
