@@ -26,12 +26,12 @@ Things to keep in mind:
 
 Some bottom row layouts on *some* prebuilts will have strange width spacebars that are less easy to find replacements for than your traditional 6.25u or 7u spacebar.
 
-![Corsair K70 with 6.5u width spacebar](images/corsairk70.png)
+![Corsair K70 with 6.5u width spacebar](images/prebuilt/corsairk70.png)
 
 Pictured above: Corsair K70, via [Best Buy](https://www.bestbuy.com/site/corsair-k70-rgb-mk-2-low-profile-rapidfire-full-size-wired-mechanical-cherry-mx-low-profile-speed-switch-gaming-keyboard-black/6298657.p?).
 Note the 6.5u spacebar.
 
-![Razer Blackwidow Chroma v1 with 6.0u width spacebar](images/razer6u.png)
+![Razer Blackwidow Chroma v1 with 6.0u width spacebar](images/prebuilt/razer6u.png)
 
 Pictured above: Razer Blackwidow Chroma v1, via [Razer](https://www2.razer.com/br-pt/gaming-keyboards-keypads/razer-blackwidow-chroma-v1).
 Note the 6u spacebar.

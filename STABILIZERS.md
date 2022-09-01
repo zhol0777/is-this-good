@@ -10,12 +10,12 @@ This guide is limited to providing guidance for Cherry-style stabilizers. Guidan
   - [Plate Mount](#plate-mount)
   - [Lengths](#lengths)
     - [6.25u](#625u)
-    - [7u (Tsangan or WKL)](#7u-tsangan-or-wkl)
+    - [7u (Tsangan, WKL)](#7u-tsangan-wkl)
     - [Other](#other)
 
 Please verify which type of stabilizer you need for your board; very few take PCB mount and Plate mount stabilizers simultaneously, so you can just assume that only one works and you either need to buy one or the other. The housings have very visible differences so you can’t really get them mixed up -
 
-![plate mounted and pcb mounted stabilizers comparison](images/stabilizercomparison.png)
+![plate mounted and pcb mounted stabilizers comparison](images/stabilizers/stabilizercomparison.png)
 (image borrowed from [monstargears](https://www.monstargears.com/98/?idx=172))
 
 **You must mod the stabilizers to make them good.**
@@ -26,11 +26,11 @@ Issey83 has provided video tutorials pinned within #kb-help on stabilizer assemb
 
 ## PCB Mount Stabilizers
 
-![60% pcb that accepts pcb mounted stabilizers](images/bm60ec_pcb.png)
+![60% pcb that accepts pcb mounted stabilizers](images/stabilizers/bm60ec_pcb.png)
 
 Pictured: a KPRepublic BM60EC PCB - note how there are two holes on each side of the socket for a stabilized key - this is where the housing for a PCB mount stabilizer fits in
 
-![60% keyboard plate that does not accept plate mounted stabilizers](images/pcbmountstabsplate.png)
+![60% keyboard plate that does not accept plate mounted stabilizers](images/stabilizers/pcbmountstabsplate.png)
 
 Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lack of specific and clear cutouts for stabilizers around stabilized keys like the shift, enter backspace, or space?
 
@@ -73,7 +73,7 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 
 If your plate takes plate mount stabilizers, it will be very obvious from the appearance of the plate that there are cutouts that match the shape of a plate mount stabilizer housing:
 
-![60% keyboard plate with cutouts for plate mounted stabilizers](images/platemountedplate.png)
+![60% keyboard plate with cutouts for plate mounted stabilizers](images/stabilizers/platemountedplate.png)
 
 Pictured: A plate with specific cutouts for plate-mount stabilizers to fit into the plate. Also note that the hole to fit the wire through that extends from one stabilizer housing cutout to the other.
 
@@ -87,15 +87,25 @@ Folk knowledge suggests that plate mount stabilizers aren’t “as good” as P
 
 ## Lengths
 
+There are other articles that can explain what a "u" is supposed to be much better and in much more detail, so let me be brief:
+
+* A "u" is short for a "unit", which expresses the length of some key. A 1u is the width of an alphanumeric key.
+  * That is to say that your alphabet keys and your number keys are only 1u wide, which is to say they are the width of a single key. Your modifier keys will generally be larger than this.
+* Width can be expressed in increments of 0.25u, but no key is smaller than 1u.
+  * For example, the blocker on a 65% keyboard with an arrow key blocker (KBD67 Lite, etc.) is 0.5u wide. The blockers on an Omnitype Bauer are 0.75u wide.
+* A 1.5u key is the width of one and a half 1u keys. A 2u key is the width of 2 1u keys. And so on.
+
 There are some oddball corner cases to this that I'm too lazy and uninformed to figure out and document.
 
 | Key width        | Stabilizer Width |
 | ---------------- | ---------------- |
 | 2u, 2.25u, 2.75u | 2u               |
-| 3u               | 3u               |
+| 3u               | 3u*              |
 | 6u               | 6u               |
 | 6.25u            | 6.25u            |
 | 7u               | 7u               |
+
+\* Recent GMK 3u bars support both 3u stabilizer width and 2u stabilizer width
 
 3u and 6u are already exotic enough. On boards with non-exotic layouts without split backspace (60%, 65%, 75%, TKL, 1800/96%, full-size) enter keys, backspace, ANSI left shift and non-split right shift will use a 2u stabilizer.
 
@@ -108,18 +118,18 @@ If the three keys left of the spacebar are equal in size and only slightly wider
 
 | Example 1                            | Example 2                              |
 | ------------------------------------ | -------------------------------------- |
-| ![dz60rgb diagram](images/625_1.png) | ![tofu60 screenshot](images/625_2.png) |
+| ![dz60rgb diagram](images/stabilizers/625_1.png) | ![tofu60 screenshot](images/stabilizers/625_2.png) |
 | via mechanicalkeyboards.com          | via kbdfans.com                        |
 
 Leopold FC660M has 1.25u/1u/1.25u arrangement, but the spacebar is also 6.25u. 6.25u also goes with "china blocker"/"china WKL"/"little tooth" boards (if you own one of these, you will assuredly know that it is that).
 
-### 7u (Tsangan or WKL)
+### 7u (Tsangan, WKL)
 
 If the three keys left of the spacebar have two keys that are much wider than the other (in a 1.5u, 1u, 1.5u arrangement), then you want a 7u stabilizer. If there is a blocker that is the width of a 1u key, then you also probably want a 7u stabilizer.
 
 | [Tsangan Layout, via sn00zzze](https://imgur.com/gallery/u4AlCis) | WKL NCR80 [via u/15buckslilman](https://redd.it/stafu8) |
 | ----------------------------------------------------------------- | ------------------------------------------------------- |
-| ![tsangan 60% layout](images/tsangan.png)                         | ![keyboard with WKL TKL layout](images/ncr80.png)       |
+| ![tsangan 60% layout](images/stabilizers/tsangan.png)                         | ![keyboard with WKL TKL layout](images/stabilizers/ncr80.png)       |
 
 ### Other
 

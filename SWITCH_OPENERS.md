@@ -4,7 +4,7 @@ A Cherry-style switch opener does not open winglatch housings, and a winglatch s
 
 | Opener                                                                                                                            | Winglatch top housing                                                     | 4 pin top example                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------- |
-| ![A switch opener that supports both styles](images/ai03opener.png)                                                               | ![Kailh Box Jade](images/kailhwinglatch.png)                              | ![Gateron Brown](images/gateronbrown.png) |
+| ![A switch opener that supports both styles](images/switch_openers/ai03opener.png)                                                               | ![Kailh Box Jade](images/switch_openers/kailhwinglatch.png)                              | ![Gateron Brown](images/switch_openers/gateronbrown.png) |
 | Winglatch opener on left, 4 pin on right. (via [KBDFans](https://kbdfans.com/products/gb-2-in-1-machined-aluminum-switch-opener)) | Kailh, Outemu, and KTT produce many switches with winglatch top housings. |                                           |
 
 ## Desperate man's switch openers
@@ -15,4 +15,4 @@ A Cherry-style switch opener does not open winglatch housings, and a winglatch s
   * Flathead screwdriver
 * Winglatch top
   * Flat edge
-  * ![isseyblade](images/isseyblade.png)
+  * ![isseyblade](images/switch_openers/isseyblade.png)

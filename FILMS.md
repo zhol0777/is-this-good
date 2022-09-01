@@ -8,7 +8,7 @@
 
 Yeah man, they’re all good. There aren’t really good films or bad films, as they’ll all do the same job of making a top housing fit onto a bottom housing tighter. Just make sure you put them in the correct orientation.
 
-![guide for alignment for films on a switch](images/filmalignment.png)
+![guide for alignment for films on a switch](images/films/filmalignment.png)
 
 Be sure to understand the material that the films you choose are made out of, and how your switches may react to them.
 If you feel your switch develop an unexpected tactile bump, this may be the stem hitting against a part of the film poking into the housing well. Disassemble and replace film if/when this happens.
@@ -36,7 +36,7 @@ If you feel your switch develop an unexpected tactile bump, this may be the stem
 
 | ❌ Winglatch top housing (Kailh Box Jade)                                                          | ✅ 4-pin ("Cherry-style") top housing (Gateron Brown)                                                                 |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![Kailh Box Jade](images/kailhwinglatch.png)                                                      | ![Gateron Brown KS-9](images/gateronbrown.png)                                                                       |
+| ![Kailh Box Jade](images/films/kailhwinglatch.png)                                                      | ![Gateron Brown KS-9](images/films/gateronbrown.png)                                                                       |
 | “Winglatch” housing (via kbdfans). The top housing is secured two large "wings", one on each side | “Cherry style”/”4 pin” top housing. Note the two "pins"/legs of each side the top housing, securing it to the bottom |
 
 Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.

@@ -14,7 +14,7 @@ where `F` is the spring force, `k` is the spring constant (the slope of a force 
 
 A switch at rest will have the spring compressed more-or-less down to the same length; therefore, a longer spring will be compressed more at rest within a switch to reach that distance, and thus feel heavier at the top. Likewise, a shorter spring will feel much lighter at the top than other springs with a comparable bottom-out weight, as it did not need to be compressed that far.
 
-![spring chart](images/springcurve.png)
+![spring chart](images/springs/springcurve.png)
 
 ## What are slow/complex/progressive springs?
 

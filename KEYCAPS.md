@@ -57,7 +57,7 @@ Lmao, don't get artisan clones that's bad
 
 ## On Kitting, or, How To Read A Kitting Diagram
 
-![Vaguely Japanese themed keyset with minimal kitting to support ANSI 108 key](images/pbtcoral.png)
+![Vaguely Japanese themed keyset with minimal kitting to support ANSI 108 key](images/keycaps/pbtcoral.png)
 
 Pictured: 108 key keyset, via [Amazon](https://www.amazon.ca/Japanese-Keycaps-Percent-Mechanical-Keyboard/dp/B0936TN1JJ)
 
@@ -75,17 +75,17 @@ Note: the piece on "different/additional shifts" denotes
 - 2.25u shift support for Leopold FC660-type layouts
 - 1.75u shift support for most 65%, 75%, 96%/1800, and split right shift layouts
 
-![Guide that shows which keys required to support certain types of boards](images/extensionkitting.png)
+![Guide that shows which keys required to support certain types of boards](images/keycaps/extensionkitting.png)
 
 Now with this information known to you, you can probably start reading kitting renders for support like I have in this diagram below -
 
-![JKDK Red on White keyset, with annotations drawn to show which parts of the render will support which sets](images/jkdkrow.png)
+![JKDK Red on White keyset, with annotations drawn to show which parts of the render will support which sets](images/keycaps/jkdkrow.png)
 
 Pictured: JKDK RoW (Red-on-white), annotations by me
 
 ### Example: A Well Kitted Keyset
 
-![Cherry Taro, by pwade3, render, with annotations drawn to show which parts of the render will support which sets](images/pbttarokitting.png)
+![Cherry Taro, by pwade3, render, with annotations drawn to show which parts of the render will support which sets](images/keycaps/pbttarokitting.png)
 
 Pictured: “Cherry Taro”, designed by pwade (via [Novelkeys](https://novelkeys.com/products/cherry-taro)), annotations by me
 
@@ -117,36 +117,36 @@ Reading reviews from people who have actually purchased a keyset is more advisab
 
 | Genuine GMK Darling                                                                                                                                     | PBT Darling Clone Example 1                         | PBT Darling Clone Example 2                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
-| ![GMK Darling](images/gmkdarling.png)                                                                                                                   | ![PBT Darling clone 1](images/pbtdarlingclone1.png) | ![PBT Darling clone 2](images/pbtdarlingclone2.png)      |
+| ![GMK Darling](images/keycaps/gmkdarling.png)                                                                                                                   | ![PBT Darling clone 1](images/keycaps/pbtdarlingclone1.png) | ![PBT Darling clone 2](images/keycaps/pbtdarlingclone2.png)      |
 | via [MyKeyboard.eu](https://www.facebook.com/mykeyboard.eu/posts/gmk-darling-by-xerpocalypse-is-here-and-it-starts-shipping-out-today/2796713847241440) | Poor color matching and different legends font.     | Poor color matching, different font, missing sublegends. |
 
 | [ePBT Dreamscape Render](https://geekhack.org/index.php?topic=113377.0) | HK Gaming Dreamscape                                                                                                                |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| ![ePBT Dreamscape Render](images/epbtdreamscape.png)                    | ![HK Gaming Dreamscape (clone) render](images/hkgamingdreamscape.png)                                                               |
+| ![ePBT Dreamscape Render](images/keycaps/epbtdreamscape.png)                    | ![HK Gaming Dreamscape (clone) render](images/keycaps/hkgamingdreamscape.png)                                                               |
 | Designed by tsoiab10                                                    | Left side of the gradient does not have white legends like the original set, implying HK Gaming cannot/will not do reverse dye sub. |
 
 #### Poor alignment
 
 | JKDK BoW (black on white)                                                                | SRP Pseudo-Handarbeige                                           |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![picture of JKDK Black on White set, with mis-aligned Shift legend](images/jkdkbow.png) | ![picture of Handarbeige-like keyset](images/xm_handarbeige.png) |
+| ![picture of JKDK Black on White set, with mis-aligned Shift legend](images/keycaps/jkdkbow.png) | ![picture of Handarbeige-like keyset](images/keycaps/xm_handarbeige.png) |
 | via JKDK message to cardio (“That shift is flying away”)                                 | Sinking Tab and Pipe legend, short backslash legend vs pipe      |
 
 | KAT Arctic                                                                                    | qPBT Terminal |
 | --------------------------------------------------------------------------------------------- | - |
-| ![keycaps with non-uniform legending printing](images/kat_arctic_alignment.jpeg)              | ![legend misalignment](images/qpbt_terminal.jpeg) |
+| ![keycaps with non-uniform legending printing](images/keycaps/kat_arctic_alignment.jpeg)              | ![legend misalignment](images/keycaps/qpbt_terminal.jpeg) |
 | [via catbus from geekhack](https://geekhack.org/index.php?topic=106046.msg3066824#msg3066824) | [via fnv_fan from reddit](https://redd.it/uto7tq)
 
 #### Mold quality
 
 | Winmix/Catcher Olivia clone, doubleshot PBT                                                                                                                                                         | "Shell Studio" "PBT Blush" (Doubleshot PBT Olivia clone)                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![picture of GMK Olivia clone from Winmix](images/winmixolivia.png)                                                                                                                                 | ![picture of GMK Olivia clone from Shell Studio](images/pbt_blush.png)                                                                                                                                         |
+| ![picture of GMK Olivia clone from Winmix](images/keycaps/winmixolivia.png)                                                                                                                                 | ![picture of GMK Olivia clone from Shell Studio](images/keycaps/pbt_blush.png)                                                                                                                                         |
 | via AliExpress reviews. Lack of icon legends on the modifier keys are a dead giveaway to this being a clone. I'm personally not a fan of the font used. Also, what’s the deal with “CapsLock”, man? | From [imgur album](https://imgur.com/a/CufPcmV) provided by /u/RatratanX from Reddit. Via their description, “You'll get what you paid for. Uneven thickness of legends. Still lucky no problems on mounting.” |
 
 | Winmix OSA Doubleshot PBT                                                              | Aifei clone of GMK Jamon                                                        | Domikey Dolch (Cherry profile)                                                                                                   |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ![picture of Winmix OSA keyset](images/osa.png)                                        | ![picture of GMK Jamon clone by Aifei](images/aifeijamon.png)                   | ![picture of Domikey Dolch keyset](images/domikeydolch.png)                                                                      |
+| ![picture of Winmix OSA keyset](images/keycaps/osa.png)                                        | ![picture of GMK Jamon clone by Aifei](images/keycaps/aifeijamon.png)                   | ![picture of Domikey Dolch keyset](images/keycaps/domikeydolch.png)                                                                      |
 | via /u/denker88 on reddit. Legends are fine with the exception of one prominent issue. | via AliExpress review. Note the inconsistent letter sizes on the modifier keys. | Decent legend quality, but someone with a very fussy eye might make a stink about the spacing between the “F” and “T” in “Shift” |
 
 ### Poor kitting/compatability
@@ -159,7 +159,7 @@ Early ePBT sets and some Geekark sets are known to have bars for stabilized keys
 
 | Winmix SA Retro Spacebar                               |
 | ------------------------------------------------------ |
-| ![Scuffed warped spacebar](images/winmix_sa_bar.jpeg)  |
+| ![Scuffed warped spacebar](images/keycaps/winmix_sa_bar.jpeg)  |
 | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9) |
 
 ### Stem Twist
@@ -173,20 +173,20 @@ Stem twist is hidden when caps are in their tray/bag, but obvious once mounted.
 
 | Winmix SA Retro, Alt Key                                    | Winmix SA Retro, Alpha Keys                                     |
 | ----------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Alt key with twisted stem](images/winmix_sa_twist_1.jpeg) | ![alpha keys with twisted stems](images/winmix_sa_twist_2.jpeg) |
+| ![Alt key with twisted stem](images/keycaps/winmix_sa_twist_1.jpeg) | ![alpha keys with twisted stems](images/keycaps/winmix_sa_twist_2.jpeg) |
 | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)      | [via salt rock lamp#0679](https://imgur.com/a/qjPj6E9)          |
 
 ### Reverse Dye-Sub Shrink
 
 Where dye-sublimation is the process of printing a design onto a keycap by applying pigment to a specific area, reverse dye-sublimation is the process of printing a design onto a keycap by applying pigment **everywhere but** a specific area. A big issue with this is that heat gets applied to **every face of the cap** is that the cap shrinks somewhat, and the gap between keys becomes more obvious than normal.
 
-| ![effects of flawed reverse dyesub process](images/kat_rev_dyesub_issues.png) |
+| ![effects of flawed reverse dyesub process](images/keycaps/kat_rev_dyesub_issues.png) |
 | ----------------------------------------------------------------------------- |
 | Effects of flawed reverse dye-sublimation on KAT keycaps. Original author (presumably from GeekHack?) unknown, my apologies. |
 
 ### Geekark Stems
 
-![screenshot of discord message describing that Geekark keycap stems may shatter if placed too roughly on some KTT/Outemu switches](images/ga_triangle_stem.png)
+![screenshot of discord message describing that Geekark keycap stems may shatter if placed too roughly on some KTT/Outemu switches](images/keycaps/ga_triangle_stem.png)
 
 ### Thickness
 
@@ -218,7 +218,7 @@ Recent complaints of the company include long manufacturing times, color mismatc
 | Quality Control | Warped bars are problematic, sad to see, but invetivable with the ammount of plastic they pump out. Instances are not the most common, but can be fixed on the occassion with certain methods. Concerns are valid and purchase elsewhere if you want to avoid it. |
 | ABS shines too fast! | Yeah. ABS wears out. Buy a set you're sure you'll like for a while and want to keep and not one that you'll plan on selling after using the caps for two weeks, and it'll be less of an issue. Shine shows that you cared about these caps, and you enjoyed using them. |
 | There's UV print on keys with more than two colors? I hear UV print wears out fast! What a load of crap! | [Only if the manufacturer sucks! Notice how the shine hasn't wiped off the legends off these?](https://www.reddit.com/r/MechanicalKeyboards/comments/b3cm79/hbcp_griseann/) |
-| You're caping for GMK! You're a shill! |  |
+| You're caping for GMK! You're a shill! | mad because bad |
 
 ### Signature Plastics (SP)
 

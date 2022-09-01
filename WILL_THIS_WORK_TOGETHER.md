@@ -25,7 +25,7 @@ Many cheaper budget boards/prebuilts will have "north facing" switches. To make 
 imagine the platform of a switch on the PCB like a compass, where the arrow of the compass faces
 towards the LED, or where the LED would be facing.
 
-![switch orientation diagram](images/facingorientation.png)
+![switch orientation diagram](images/will_this_work/facingorientation.png)
 
 By Cherry spec, PCBs should should have switches face "south". However, manufacturers will deviate
 from this specification and make them face the opposite direction so that light from an LED
@@ -40,7 +40,7 @@ a similar angle at that point, on a north facing board, there is more room neede
 housing for the bend of the leaf, and that extra occupied space may collide with the keycap when
 being pressed down.
 
-![milo diagram, its great](images/milodiagram.png)
+![milo diagram, its great](images/will_this_work/milodiagram.png)
 Pictured: Diagram provided by milo depicting where a keycap may impact with the top housing
 Top: South facing switch bottoming out successfully
 Bottom: North facing switch colliding with top housing.
@@ -97,7 +97,7 @@ this screenshot here
 
 | RK68 example - surface mounted                                                                      | Other Example                                          |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| ![RK68 with surface mounted LED](images/rk68smd.png)                                                | ![PCB with surface mount LED](images/smdledonpcb.png)  |
+| ![RK68 with surface mounted LED](images/will_this_work/rk68smd.png)                                                | ![PCB with surface mount LED](images/will_this_work/smdledonpcb.png)  |
 | via [Amazon](https://www.amazon.ca/ROYAL-KLUDGE-Switch-Stand-Alone-Multi-Device/dp/B08G4ZB9GL?th=1) | via mechkeys Discord user (apologies to original user) |
 | Note that the LED is visibly a bump on the PCB                                                      |
 
@@ -116,15 +116,14 @@ Switches that are not SMD compatible can be identified by not having the large r
 for the LED, but instead having 2-4 thin holes instead for the legs of a throughhole LED.
 Switches that would not be SMD compatible may be included (but not limited to)
 
-- JWK 4-pin top switches
-  - As of Early 2022, this is all JWK switches, barring WS Onions
+- JWK/JWICK 4-pin top switches
 - Cherry nylon-tops
 - SP-Star
 - Most Gateron stuff
 
 | SMD compatible switch                                           | Non-SMD compatible switch                      |
 | --------------------------------------------------------------- | ---------------------------------------------- |
-| ![Gateron KS9](images/3pinswitch.png)                           | ![Gateron Black bottom](images/5pinswitch.png) |
+| ![Gateron KS9](images/will_this_work/3pinswitch.png)                           | ![Gateron Black bottom](images/will_this_work/5pinswitch.png) |
 | Note the rectangular cutout where a WS2812 diode could fit into | Note a bottom housing that is mostly flush     |
 
 ### 3-pin vs 5-pin switches and PCBs
@@ -133,7 +132,7 @@ This information should be relatively obvious, but for some, it may not be.
 
 | 3 pin PCB                                    | 5 pin PCB                                               | 3 pin switch                                                                  | 5 pin switch                           |
 | -------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-| ![three pins per switch](images/3pinpcb.png) | ![supports 3 pin and 5 pins switch](images/5pinpcb.png) | ![switch with only stem post well pin, two metal pins](images/3pinswitch.png) | ![5 pin switch](images/5pinswitch.png) |
+| ![three pins per switch](images/will_this_work/3pinpcb.png) | ![supports 3 pin and 5 pins switch](images/will_this_work/5pinpcb.png) | ![switch with only stem post well pin, two metal pins](images/will_this_work/3pinswitch.png) | ![5 pin switch](images/will_this_work/5pinswitch.png) |
 | via [DROP](drop.com)                         |                                                         |                                                                               | via [1up Keyboards](1upkeyboards.com)  |
 
 |              | 3 pin PCB         | 5 pin PCB |
