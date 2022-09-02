@@ -1,5 +1,17 @@
 # How do I work this?
 
+[How do I work this?](#how-do-i-work-this)
+  - [Stabilizers](#stabilizers)
+    - [Clipping Stabilizers](#clipping-stabilizers)
+    - [Assembling Stabilizers](#assembling-stabilizers)
+    - [Lubing Stabilizers](#lubing-stabilizers)
+    - [Holee mod](#holee-mod)
+    - [Balancing Stabilizer Wires](#balancing-stabilizer-wires)
+  - [Switches](#switches)
+    - [Lubing Switches](#lubing-switches)
+    - [Dealing with leaf ping](#dealing-with-leaf-ping)
+    - [Opening switches on the cheap](#opening-switches-on-the-cheap))
+
 ## Stabilizers
 
 ### Clipping Stabilizers
@@ -12,11 +24,13 @@ On unclipped stabilizers (such as those that arrive in a prebuilt, or from Cherr
 
 There are many guides to assemble stabilizers. Please consult either these guides here, or start using your favorite search engine.
 [MachineAbuse's stabilizer assembly handbook](https://imgur.com/gallery/pHK0vhz)
+
 [issey83's video guide to stabilizer assembly and common mistakes](https://www.youtube.com/watch?v=6Yz-UzTY8_I)
 
 ### Lubing Stabilizers
 
 [Taeha explains stabilizer lubing](https://www.youtube.com/watch?v=usNx1_d0HbQ)
+
 [Syringe injection of lube into stabilizer via Alexotos](https://www.youtube.com/watch?v=nuntwYJpSUY)
 
 ### Holee mod
@@ -41,8 +55,11 @@ editor's note: Personally, I load a brush with just a touch of grease and then w
 ![issey83's guide to switch lube locations](https://cdn.discordapp.com/attachments/190327462087884811/979355668823814164/switch_lubing.png)
 
 [Awalkerstop shows off where switch friction occurs](https://imgur.com/gallery/hijSYcp)
+
 [u/GreyLooper's EXCELLENT guide to lubing switches](https://docs.google.com/document/d/1MXrx8ddxSNVBCHFjNrUMt-8BxNHIVanFtn5v7nriAzg/edit)
+
 [Kokaloo explains his method, pt. 1](https://discord.com/channels/190327149696253952/190327462087884811/898107799135997952)
+
 [Kokaloo explains his method, pt. 2](https://discord.com/channels/190327149696253952/190327462087884811/898114513059057664)
 
 ### Dealing with leaf ping
