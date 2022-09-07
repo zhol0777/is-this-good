@@ -147,6 +147,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 | Vendor                                             | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
 | -------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ----------- |
+| [Computer Orbit](https://computerorbit.com/)       | [x]      |      | [x]   | [x]    | [x]     | [x]       | UK          |
 | [Cool Cables](https://coolcable.co.uk/)            |          |      |       | [x]    |         |           | UK          |
 | [KeebCats](https://keebcats.co.uk/)                | [x]      | [x]  | [x]   |        |         |           | UK          |
 | [Keycrox](https://www.keycrox.co.uk/)              | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | UK          |
