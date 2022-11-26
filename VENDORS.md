@@ -49,6 +49,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [KeebsForAll](https://keebsforall.com/)                      | [x]      | [x]  | [x]   |        | [x]     |           | Los Angeles, CA            |
 | [KeyboardLube](https://keyboardlube.com/)                    |          | [x]  |       |        |         |           | Washington                 |
 | [KeyHive](https://keyhive.xyz/shop)<sup>1</sup>              |          |      | [x]   |        |         | [x]       | Utah                       |
+| [Keyspensory](https://keyspensory.store/)                    | [x]      |      | [x]   |        |         |           | Santa Ana, CA              |
 | [Kimdi Keys](https://kimdi-keys.com/)                        | [x]      | [x]  | [x]   |        |         |           | Upstate New York           |
 | [Kinetic Labs](https://kineticlabs.store/)                   | [x]      | [x]  | [x]   |        | [x]     |           | New Jersey                 |
 | [Kono](https://kono.store/)                                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | intentionally confusing    |
@@ -97,6 +98,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Apex Keyboards](https://apexkeyboards.ca/)                  | [x]      | [x]  | [x]   |        |         |           | Toronto, ON                |
 | [Ashkeebs](https://ashkeebs.com/)                            | [x]      | [x]  | [x]   |        |         |           | Victoria, BC               |
 | [DeskHero](https://deskhero.ca/)                             | [x]      |      |       |        | [x]     | [x]       | Winnipeg, MB               |
+| [Keyspresso](https://keyspresso.ca)                          | [x]      | [x]  | [x]   |        |         | PCBs      | Toronto, ON                | 
 | [MechLand](https://mech.land)                                | [x]      | [x]  | [x]   |        |         |           | Scarborough, ON            |
 | [MinoKeys](https://minokeys.com/)                            | [x]      | [x]  | [x]   | [x]    |         | [x]       | Ontario                    |
 | [Malvix](https://store.malvix.com/)                          | [x]      | [x]  | [x]   |        |         | [x]       | Vancouver, BC              |
@@ -210,6 +212,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [DailyClack](https://dailyclack.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   | [x]    | [x]     | [x]       | Australia   |
 | [keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
+| [keebz n cables](https://www.keebzncables.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
 | [Keyboard Treehouse](https://keyboardtreehouse.com/) |          |      |       |        | [x]     | [x]       | Australia   |
 | [Keyboard Treehouse (AUS)](https://treehousehobbies.com)<sup>2</sup> | | |     |        | [x]     | [x]       | Australia   |
 | [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  |       |        |         | [x]       | Australia   | 

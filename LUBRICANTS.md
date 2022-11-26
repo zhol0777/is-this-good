@@ -4,6 +4,8 @@ This document is intended to cover lubing of boards with MX style switches and d
 * nyogel 760g should be pretty fire for alps
 * use only 3204 lightly on topre stabilizer wire and nowhere else
 
+For lubing technique, please consult the material referenced [here](HOW_DO.md#lubing-switches) and [here](HOW_DO.md#lubing-stabilizers).
+
 - [Lubricants](#lubricants)
   - [A quick reference](#a-quick-reference)
     - [Compatability](#compatability)
@@ -155,6 +157,9 @@ You no longer require PTFE content for applications to the wire to prevent wire 
 This document provides basic coverage for those new to the hobby; seasoned members of the hobby may prefer things like
 * Christo-Lube (MCG 111, 112, 129)
   * [donpark's review of Christo-Lubes](https://www.keebtalk.com/t/cristo-lubes-mini-review/5530)
+  * chicken's review of Christo-Lube: boomer lube
+  * pizza's review of Christo-Lube: boomer lube not as good as real krytox for both separation and consistency and movement
+  * man its cheap though
 * Exotic mixes like GHv4 and specific Grease/Oil ratio mixes
   * if you choose to use these just because you think you'll be cool and not because they have a specific property you're looking for, lol
     * lmao

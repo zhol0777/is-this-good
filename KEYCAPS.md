@@ -26,12 +26,14 @@
     - [JTK (JT Keycaps)](#jtk-jt-keycaps)
     - [DMK](#dmk)
     - [EnjoyPBT (ePBT)](#enjoypbt-epbt)
+    - [NicePBT/CannonCaps (CannonKeys Dye-sub)](#nicepbtcannoncaps-cannonkeys-dye-sub)
+    - [Shenpo/Godwife/Goddess Dye Sublimation](#shenpogodwifegoddess-dye-sublimation)
+    - [XMI/21KB](#xmi21kb)
+    - [PBTFans](#pbtfans)
     - [Milkyway/MW](#milkywaymw)
     - [Keyreative](#keyreative)
     - [Infinikey (IFK)](#infinikey-ifk)
     - [Hammerworks/CRP](#hammerworkscrp)
-    - [NicePBT/CannonCaps](#nicepbtcannoncaps)
-    -
 
 ## Switch orientation on PCB and keycap interference
 
@@ -237,6 +239,22 @@ Doubleshot and tripleshot hiragana and cyrillic (with upcoming Hangul) triplesho
 Moderately thick PBT of average smoothness with solid dye-sublimation with recent capabilities for reverse dye-sub on every key. ePBT is currently suffering from significant production delays.
 Avoid their doubleshot ABS sets, as the molds on those are of lower quality, inconsistent thickness on the alpha legends, and known to sometimes collide with switch housings even when switches are south-facing.
 
+### NicePBT/CannonCaps (CannonKeys Dye-sub)
+
+NicePBT makes up the **very** thick (1.7mm) blanks, while CannonCaps makes up the medium thick blanks (1.4mm). CannonCaps have very very smooth texture, while NicePBT is a bit more textured. Their kitting tends to be one large base kit that provides solid 40's and split bars support. Limited reverse dye-sublimation. A decent buy for those not trying to buy keycaps directly from China. Legend quality is improving. NicePBT is very smooth texture, CannonCaps (dyesub) is EXTREMELY smooth texture, perhaps on-par with (if not smoother than) CRP.
+
+### Shenpo/Godwife/Goddess Dye Sublimation
+
+Thick blanks presumably sourced from the same blanks manufacturer as NicePBT and XMI/21KB (albeit with small differences). Known for doing a few keysets similar to OG Dyesubs or CRP (such as Green Hebrew, SAV, OG Triumph Adler, Xerox 6001, 6002), and a few clone sets, and a few sets designed on their own. Decent print quality at a very competitive price (~$35 USD). If you're not buying directly from Taobao, Keebox on AliExpress is generally the way to go. Very smooth texture.
+
+### XMI/21KB
+
+Xiami/XMI/Shrimp Research is literally a dude with a dye sublimation machine who has pretty good accuracy/alignment printing on beige keycaps. Thick (1.6-1.7mm) blanks presumably sourced from the same blanks manufacturer as NicePBT and Shenpo (albeit with small differences). So thick they sound a bit dead to some. Absolute smorgasboard of different sublegend options. 21KB is the Western proxy. Very smooth texture. 
+
+### PBTFans
+
+KBDFans's in-house manufacturing setup. Genuine doubleshot and tripleshot PBT, although they do sell ABS-based sets, such as for the sets that have translucent keys. Decent approach to sales where most sets designed by outside designers are run in-stock, so there are a lot of sets for sale in-stock via KBDFans and regional proxies that want to stock PBTFans sets. They feel nice enough, slightly thicker than GMK. Only quibble is that you might not like the font used for the molds.
+
 ### Milkyway/MW
 
 A new manufacturer that advertises large kitting flexibility and lower pricing, as well what appears to be a novel approach to reverse dye-sublimation. PBT smoothness is about on par with other manufacturers.
@@ -253,7 +271,3 @@ A front-end for a manufacturer that offers all-over dye-sublimation Cherry profi
 ### Hammerworks/CRP
 
 Smoother than average, moderately thick. Comes in two colors: beige, and white. They don't run group-buys that often, so be prepared to pay the aftermarket tax if you want any.
-
-### NicePBT/CannonCaps
-
-NicePBT makes up the very thick blanks, while CannonCaps makes up the moderately thick blanks. CannonCaps have very very smooth texture, while NicePBT is a bit more textured. Their kitting tends to be one large base kit that provides solid 40's and split bars support. Limited reverse dye-sublimation. A decent buy for those not trying to buy keycaps directly from China. Legend quality is improving.

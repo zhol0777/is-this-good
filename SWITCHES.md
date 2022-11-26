@@ -6,7 +6,7 @@ For personal switch recommendations, please refer to [the spreadsheet](https://d
   - [Gateron](#gateron)
     - [Inks](#inks)
     - [Zeal](#zeal)
-  - [Durock/Everglide/JWK](#durockeverglidejwk)
+  - [JWK/Durock](#jwkdurock)
     - [Everglide Aqua King/Water King](#everglide-aqua-kingwater-king)
   - [Outemu](#outemu)
     - [Gazzew x Outemu “Boba” Switches](#gazzew-x-outemu-boba-switches)
@@ -20,11 +20,12 @@ For personal switch recommendations, please refer to [the spreadsheet](https://d
   - [Kailh](#kailh)
     - [Full POM Housing (Creams, Blueberries, etc.)](#full-pom-housing-creams-blueberries-etc)
     - [Box Tactile](#box-tactile)
-    - [Cream stem stand-ins](#cream-stem-stand-ins)
   - [KTT](#ktt)
   - [SP-Star](#sp-star)
   - [Invyr](#invyr)
-    - [Drop x Invyr Holy Panda](#Drop-x-Invyr-Holy-Panda)
+    - [Drop x Invyr Holy Panda](#drop-x-invyr-holy-panda)
+  - [Haimu](#haimu)
+  - [Other players](#other-players)
 
 ## Gateron
 
@@ -43,9 +44,11 @@ Popular among YouTubers for providing a low pitch sound, infamous among enthusia
 
 Gateron makes Zeal switches. The general gist on these is that they are not bad at what they are marketed for, but much cheaper alternatives that provide an experience of comparable quality exist. That said, I cannot discredit people whose preference is for Zeal switches, since they’ve heard the same schpiel about how they were wasting their money and blah blah blah blah; these people knew exactly what they were getting into when they dropped $1.10/switch (probably more for the silents, clickies, or UHMWPE mix things) on them.
 
-## Durock/Everglide/JWK
+## JWK/Durock
 
 Starting off by [selling fake Tealios with Gateron top housing molds](https://www.theremingoat.com/blog/t1s?rq=t1), JWK produces some of the smoothest linears available on the market, and a respectable range of tactile options. Famous for producing the budget switch commonly referred to as “JWICK”s, and infamous for producing recolors of their base linear or tactile frequently for vendors who understand how much people like to color-coordinate their switches with the rest of their board. Their major flaw is that their tops tend to lend a particular “thin” topping out sound, and some enthusiasts mitigate against this by replacing the tops with nylon tops from Cherry MX switches.
+
+* 
 
 ### Everglide Aqua King/Water King
 
@@ -93,15 +96,11 @@ A big manufacturer that produces all sorts of sensor equipment, not just limited
 
 ### Full POM Housing (Creams, Blueberries, etc.)
 
-Infamous for being scratchy as all hell. Claims about POM being a self-lubricating plastic are marketing miscommunications of the material’s science. Someone’s going to tell you that you can “break these in” and they’re “good after they’re broken in”, but it’s not worth it. These have been used to make frankenswitches made popular by YouTube videos, but you can use other Kailh linear stems as stand-ins for these. Otherwise, it's probably better to avoid them in lieu of some other POM housing switch, such as a Durock POM, or Infinitykey Cow.
+Infamous for being scratchy as all hell. Claims about POM being a self-lubricating plastic are marketing miscommunications of the material’s science. Someone’s going to tell you that you can “break these in” and they’re “good after they’re broken in”, but it’s generally not worth it. These have been used to make frankenswitches made popular by YouTube videos, but you can use other Kailh linear stems as stand-ins for these. Otherwise, it's probably better to avoid them in lieu of some other POM housing switch, such as a Durock POM, or Infinitykey Cow. Reports of improvements for Kailh Box Cream Pros are coming in from China, but I'm hesitant on them still.
 
 ### Box Tactile
 
 A flaw in the design of how Kailh Box switches generate a tactile event means that after the lube has worn off between the stem leg and leaf, a small click sound can be heard from these switches when pressed, per [this Geekhack thread](https://geekhack.org/index.php?topic=96672.0).
-
-### Cream stem stand-ins
-
-Kailh stems tend to run on the longer side, meaning when they are swapped into other housings, they tend to bottom out on the pole and not the slider - this is a feature non-unique to Novelkeys Cream stems. Linear stems like those from Kailh Blacks, Kailh Pro Burgundies, and/or Kailh Reds should effectively be identical, barring the Cream stems having been exposed to a retool that the other linear switchs have not been (cannot confirm, ymmv).
 
 ## KTT
 
@@ -119,3 +118,10 @@ Known mostly for the making of the original panda and now infamously the Drop Ho
 
 Made somewhat famous by a certain internet video, some praise it as a "thock" and tactile king. Made up of the housing of a panda and an Halo stem, the combination of leaves and stems creates a large rounded tactile bump. Drop notoriously has lied about its past in terms of materials, factory lubrication, and the original destroyed molds of the Invyr panda being somehow mysteriously found in the back. At this moment, these are severely overpriced for other competing switches on the market that fill its certain role. Too many clones and mold variations have passed for us to really say if this is a true holy panda anymore, if you really want one, some recommend buying YOK pandas to assemble yourself. Boba U4Ts and JWK/Durock T1s are a great alternative. Also beware of such clones that promise to be a Holy Panda such as Fekers or Holy Toms.
 
+## Haimu
+
+Formerly transliterated as "Homoo", new player to the West, already making some switches for some OEM. Decent factory lube with occasional spring ping or spring crunch. Otherwise, they're pretty nice stock! They have an interesting sound dampening technique where instead of using some silicone or foam gasket to dampen the impact of switch hitting plastic, part of the stem on the top and bottom has some bendy piece of plastic that bends when it absorbs the impact of colliding with the top or bottom housing. For the most part, based on pricing with Geon, CannonKeys, and whoever sells Haimu Sea Salt Lemons on AliExpress, you should not pay much more than 30 cents USD per switch.
+
+## Other players
+
+The switch market is constantly expanding, and I don't know less about the less prominent manufacturers than I'd be comfortable with writing about. Leobog and Haimu have recently come to my attention, Aflion's growing popular as a manufacturer among vendors who love to do the whole "switch-named-after-food-from-low-MOQ-manufacturer" thing, LCET

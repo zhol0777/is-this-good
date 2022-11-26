@@ -1,5 +1,7 @@
 # Prebuilt Keyboards
 
+Please cross-reference the information here with the information on the [Keyboard Kits page](KITS.md).
+
 - [Prebuilt Keyboards](#prebuilt-keyboards)
   - [Non-standard bottom row layouts](#non-standard-bottom-row-layouts)
 
