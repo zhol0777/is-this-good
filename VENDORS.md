@@ -206,18 +206,24 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 | Vendor                                               | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location    |
 | ---------------------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | ------------|
-| [AllCaps](https://allcaps.store/)                    | [x]      | [x]  | [x]   |        | GB      |           | Australia   |
+| [AllCaps](https://allcaps.store/)                    | [x]      | [x]  | [x]   |        |         |           | Australia   |
 | [Click Clack Cables](https://clickclackcables.com/)  |          |      |       | [x]    |         |           | Australia   |
+| [CLS Tech](https://clstech.com.au/)                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
+| [Cluster Cables](https://clustercables.com/)         |          |      |       | [x]    |         |           | Australia   |
 | [CustomKBD](https://customkbd.com/)<sup>1</sup>      | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [DailyClack](https://dailyclack.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
-| [keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   | [x]    | [x]     | [x]       | Australia   |
-| [keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
-| [keebz n cables](https://www.keebzncables.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
+| [Hibi MX](https://hibi.mx/)                          |          |      |       |        |         | [x]       | Australia   |
+| [Keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   | [x]    | [x]     | [x]       | Australia   |
+| [Keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
+| [Keebz n cables](https://www.keebzncables.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
 | [Keyboard Treehouse](https://keyboardtreehouse.com/) |          |      |       |        | [x]     | [x]       | Australia   |
 | [Keyboard Treehouse (AUS)](https://treehousehobbies.com)<sup>2</sup> | | |     |        | [x]     | [x]       | Australia   |
+| [Kiwi Clack](https://www.kiwiclack.com/)             |  [x]     | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 | [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  |       |        |         | [x]       | Australia   | 
-| [Mountain Keyboards](https://mountainkeyboards.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
+| [MTNKBD](https://mtnkbd.com/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
+| [Naughty Boards](https://naughtyboards.com)          | [x]|     |      | [x]   | [x]    | [x]     |           |  Australia  |
 | [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia   |
+| [Prestige Keys](https://prestigekeys.com.au/)        | [x]      | [x]  | [x]   |        |         |           | Australia   |
 | [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [Escape Keyboards](https://esckeyboard.com/)         | [x]      | [x]  |       |        | [x]     |           | Australia   |
 
