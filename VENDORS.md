@@ -12,7 +12,8 @@ Vendors are listed for their in stock purchases, not GBs.
     - [Brexit Exclusion Zone](#brexit-exclusion-zone)
   - [Asia](#asia)
   - [Oceania](#oceania)
-  - [MENA/WANA](#menawana)
+  - [Middle East/West Asia](#middle-eastwest-asia)
+  - [Africa](#africa)
 
 If you notice any mistakes, or would like to contribute, feel free to **make** a pull request. Alternatively, DM Powwu#0001 :)
 
@@ -230,9 +231,15 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 <sup>1</sup>: Through-hole keyboard specialty
 <sup>2</sup>: Australia-only storefront
 
-## MENA/WANA
+## Middle East/West Asia
 
 | Vendor                                   | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location |
 | ---------------------------------------- | -------- | ---- | ----- | ------ | ------- | --------- | -------- |
 | [Sandkeys](https://sandkeys.me)          | [x]      |      |       |        |         |           | UAE      |
 | [RationalKeys](https://rationalkeys.com) | [x]      |      | [x]   |        | [x]     | [x]       | Turkey   |
+
+## Africa
+
+| Vendor                                                 | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location     |
+| ------------------------------------------------------ | -------- | ---- | ----- | ------ | ------- | --------- | ------------ |
+| [Control Shift Escape](https://www.ctrlshiftesc.co.za) | [x]      | [x]  | [x]   |        | [x]     | [x]       | South Africa |
