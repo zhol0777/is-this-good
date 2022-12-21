@@ -31,7 +31,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [BoardSource](https://boardsource.xyz/)<sup>1</sup>          | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
 | [Cable Craze](https://cablecraze.net/)                       |          |      |       | [x]    |         |           | ?                          |
 | [Cannon Keys](https://cannonkeys.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
-| [Checkerboards](https://www.checkerboards.xyz)<sup>1</sup>   | [x]      |      | [x]   |        |         | [x]       | Waco, TX
+| [Checkerboards](https://www.checkerboards.xyz)<sup>1</sup>   | [x]      |      | [x]   |        |         | [x]       | Waco, TX                   |
 | [Coaxius](https://coaxius.com/)                              |          |      |       | [x]    |         |           | California                 |
 | [Cookie Cables](https://cookiecables.com/)                   |          |      |       | [x]    |         |           | ?                          |
 | [Cruz Ctrl](https://cruzctrl.gg/)                            |          |      |       | [x]    |         |           | Bay Area, CA               |
@@ -134,7 +134,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Keeb.Studio](https://keeb.studio/)                |          |      |       | [x]    |         |           | Belgium     |
 | [Keebstuff](https://keebstuff.com/)                |          |      |       | [x]    |         |           | Germany     |
 | [Keebwerk](https://keebwerk.com/)                  | [x]      |      |       |        |         | [x]       | Germany     |
-| [Keyb.no](https://keyb.no/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | Norway      |
 | [KeyCapsss](https://keycapsss.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Germany     |
 | [Keygem](https://keygem.store/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
 | [KHOR](https://khor.store)                         |          |      | [x]   | [x]    |         |           | Italy       |
@@ -221,8 +220,8 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Keyboard Treehouse (AUS)](https://treehousehobbies.com)<sup>2</sup> | | |     |        | [x]     | [x]       | Australia   |
 | [Kiwi Clack](https://www.kiwiclack.com/)             |  [x]     | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 | [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  |       |        |         | [x]       | Australia   | 
-| [MTNKBD](https://mtnkbd.com/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
-| [Naughty Boards](https://naughtyboards.com)          | [x]|     |      | [x]   | [x]    | [x]     |           |  Australia  |
+| [MTNKBD](https://mtnkbd.com/)                        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
+| [Naughty Boards](https://naughtyboards.com)          | [x]      |      | [x]   | [x]    | [x]     |           |  Australia  |
 | [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia   |
 | [Prestige Keys](https://prestigekeys.com.au/)        | [x]      | [x]  | [x]   |        |         |           | Australia   |
 | [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
