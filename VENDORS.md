@@ -31,7 +31,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [BoardSource](https://boardsource.xyz/)<sup>1</sup>          | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
 | [Cable Craze](https://cablecraze.net/)                       |          |      |       | [x]    |         |           | ?                          |
 | [Cannon Keys](https://cannonkeys.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
-| [Checkerboards](https://www.checkerboards.xyz)<sup>1</sup>   | [x]      |      | [x]   |        |         | [x]       | Waco, TX                   |
 | [Coaxius](https://coaxius.com/)                              |          |      |       | [x]    |         |           | California                 |
 | [Cookie Cables](https://cookiecables.com/)                   |          |      |       | [x]    |         |           | ?                          |
 | [Cruz Ctrl](https://cruzctrl.gg/)                            |          |      |       | [x]    |         |           | Bay Area, CA               |
