@@ -16,7 +16,7 @@
 
 ### Kitting
 
-Please consult [this section](KEYCAPS.md/#on-kitting-or-how-to-read-a-kitting-diagram) on if your
+Please consult [this section](KEYCAPS.md#on-kitting-or-how-to-read-a-kitting-diagram) on if your
 keycaps will work with the board you want to put them on.
 
 ### North facing keycap interference

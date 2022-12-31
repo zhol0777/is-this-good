@@ -2,6 +2,8 @@
 
 For personal switch recommendations, please refer to [the spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWkz3vJflKwHt6aYwWWAULPU3NKbqfZj8J9h6IkcapPYVUbtxsaLXF9hnRmf-1aBAijMmBg0Jm6D7A/pubhtml) that milo and I have put together.
 
+Guidance on switch lubing is [here](HOW_DO.md#switches), and filming is [here](FILMS.md)
+
 - [Switches (The Switch Meta)](#switches-the-switch-meta)
   - [Gateron](#gateron)
     - [Inks](#inks)
@@ -25,6 +27,7 @@ For personal switch recommendations, please refer to [the spreadsheet](https://d
   - [Invyr](#invyr)
     - [Drop x Invyr Holy Panda](#drop-x-invyr-holy-panda)
   - [Haimu](#haimu)
+  - [Aflion](#aflion)
   - [Other players](#other-players)
 
 ## Gateron
@@ -121,6 +124,11 @@ Made somewhat famous by a certain internet video, some praise it as a "thock" an
 ## Haimu
 
 Formerly transliterated as "Homoo", new player to the West, already making some switches for some OEM. Decent factory lube with occasional spring ping or spring crunch. Otherwise, they're pretty nice stock! They have an interesting sound dampening technique where instead of using some silicone or foam gasket to dampen the impact of switch hitting plastic, part of the stem on the top and bottom has some bendy piece of plastic that bends when it absorbs the impact of colliding with the top or bottom housing. For the most part, based on pricing with Geon, CannonKeys, and whoever sells Haimu Sea Salt Lemons on AliExpress, you should not pay much more than 30 cents USD per switch.
+
+## Aflion
+
+Polycarbonate top, nylon bottom, long pole. I've seen how this movie ends. The factory lube job is supposed
+to be decent, at least.
 
 ## Other players
 

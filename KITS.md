@@ -4,15 +4,16 @@
   - [Firmware Support](#firmware-support)
   - [Switch orientation](#switch-orientation)
   - [Hotswap support](#hotswap-support)
+  - [Mounts](#mounts)
   - [Boards We Have Feelings About](#boards-we-have-feelings-about)
     - [Any Optical Board](#any-optical-board)
-    - [Some Skyloong Optical Kit (SK6*/GK6*, SK87, etc.)](#some-skyloong-optical-kit-sk6gk6-sk87-etc)
-    - [Some Skyloong Mechanical Kit (GK6*X, GK87, etc)](#some-skyloong-mechanical-kit-gk6x-gk87-etc)
+    - [Some Skyloong Optical Kit (SK6\*/GK6\*, SK87, etc.)](#some-skyloong-optical-kit-sk6gk6-sk87-etc)
+    - [Some Skyloong Mechanical Kit (GK6\*X, GK87, etc)](#some-skyloong-mechanical-kit-gk6x-gk87-etc)
     - [TM680 (Wired)](#tm680-wired)
       - [LK67](#lk67)
     - [Royal Kludge Boards](#royal-kludge-boards)
     - [Tofu60 case](#tofu60-case)
-    - [DZ6* (DZ60, DZ65) PCBs](#dz6-dz60-dz65-pcbs)
+    - [DZ6\* (DZ60, DZ65) PCBs](#dz6-dz60-dz65-pcbs)
   - [PCB/Case compatability](#pcbcase-compatability)
 
 ## Firmware Support
@@ -43,11 +44,31 @@ issey83 provides a very good video about how hotswap sockets hold up over repeat
 - Kailh hotswap is reasonably good hotswap that can arrive in a prebuilt, and it supports most-all Cherry MX clone switches.
 - Quality of TTC hotswap is solid and pins remain tight.
 - Gateron hotswap provides similar compatibility (most to all Cherry MX clone type switches) as the above two.
+  I'm not sure if it's a population bias thing or not, but the leaves on these seem to get weaker faster than
+  Kailh. Fix them by jamming in tweezers if you can.
 - CIY hotswap is known to have fairly weak contact leaves, to the point where a CIY hotswap socket can hardly retain a switch by the pins like the above hotswap sockets can.
 - Outemu rivet hotswap is installed onto PCB’s cheaply and easily, but compatibility is much more limited than with Kailh/Gateron/TTC/CIY style sockets. This sort of hotswap is found only on prebuilts.
   - Compatability for other Outemu switches and KTT (includes Akko CS) is known.
   - Huano stuff like Feker Pandas have mixed reports on support.
   - Outemu has a new hotswap socket comaprable to the Kailh style of offering, but I have yet to see any boards with them soldered on.
+
+## Mounts
+
+Milo has provided a wisely worded guide to understanding the different keyboard mount styles (the way in which
+the plate and pcb is fixed to the case) affect typing feel and sound
+[here](https://docs.google.com/document/d/1G-UZOmY3ZdEM288UN3sB-tz9oRRZOTPfjtdnokDO1Nw/edit), but if you are too
+lazy to read that, I have a much cruder run-down below.
+
+| Mount | Review |
+| - | - |
+| Top | Feels even, sounds clean, and has a bit more give than stiffer mounts like sandwich/integrated/tray. |
+| Bottom | Much like top, only it sounds a little like bones. |
+| Gasket | Not always as soft/flexy-wexy as you think, but generally has the most give of all. Popular, people-pleaser, too many keyboard sellers cancel out any flex by pairing with a foam lasgna. |
+| Tray | Usually found in the cheapest of boards. No give, and sound can be very uneven. |
+| Sandwich | Even and stiff, but can feel like typing into a wall. Not the worst thing in the world. |
+| Integrated | Cheap to make. Tends to sound hollow and pingy in most implementation. Consider force breaking. |
+
+Jamming foam into your keyboard stiffens the feel, and so on.
 
 ## Boards We Have Feelings About
 

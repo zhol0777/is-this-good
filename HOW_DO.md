@@ -1,6 +1,5 @@
 # How do I work this?
-
-[How do I work this?](#how-do-i-work-this)
+- [How do I work this?](#how-do-i-work-this)
   - [Stabilizers](#stabilizers)
     - [Clipping Stabilizers](#clipping-stabilizers)
     - [Assembling Stabilizers](#assembling-stabilizers)
@@ -10,7 +9,8 @@
   - [Switches](#switches)
     - [Lubing Switches](#lubing-switches)
     - [Dealing with leaf ping](#dealing-with-leaf-ping)
-    - [Opening switches on the cheap](#opening-switches-on-the-cheap))
+    - [Opening switches on the cheap](#opening-switches-on-the-cheap)
+  - [Busted hotswap](#busted-hotswap)
 
 ## Stabilizers
 
@@ -80,3 +80,8 @@ https://youtu.be/PZDwj1TWsxU?t=198 (example of Glorious Panda Pinging)
 ### Opening switches on the cheap
 
 [issey83 using a 4 pin top to open another switch](https://discord.com/channels/190327149696253952/190327462087884811/850610661951668284)
+
+## Busted hotswap
+
+If you didn't shear a socket off by inserting a switch without supporting it, follow
+[this video](https://www.youtube.com/watch?v=S3wuA8uEVhM).

@@ -20,9 +20,9 @@ Things to keep in mind:
   - Common switch manufacturers you’ll find in prebuilts are Gateron, Kailh, Outemu, and maybe TTC in a few cases. Most are decent and punch above their weight comapred to Cherry cost. Sure, they'll have some amount of scratch and spring ping stock
   - Supposedly HyperX is just rebranded Gateron, Keychron branded switches are just rebranded Huano’s (not great), Logitech’s GL’s are Kailh Chocs, Logitech GX are just Kailh.
   - Omron Romer-G: unpopular switch, tactility is unimpressive
-  - More information about the switch manufacturer meta [here](#switches-the-switch-meta)
+  - More information about the switch manufacturer meta [here](SWITCHES.md)
 - Hotswap support is not found on many prebuilts, but when it’s found, it’s nice to have!
-  - See [this section](KITS.md/#hotswap-support) for more detail
+  - See [this section](KITS.md#hotswap-support) for more detail
 
 ## Non-standard bottom row layouts
 

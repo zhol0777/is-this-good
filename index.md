@@ -21,16 +21,18 @@ Also, I have not finished writing this. Please help.
 
 Thanks,
 
-zhol (with assistance from moosh, chickenman, Daniel, powwu, pizza, chill and shamb)
+zhol (with assistance from moosh, chickenman, Daniel, powwu, pizza, chill, shamb, xalmart, and Henri)
 
 - [Prebuilt Keyboards](PREBUILT.md)
-- [Keyboard Kits](KITS.md/#keyboard-kits)
-- [Keycaps](KEYCAPS.md/#keycaps)
-- [Switches (The Switch Meta)](SWITCHES.md/#switches-the-switch-meta)
-- [Switch openers](SWITCH_OPENERS.md/#switch-openers)
-- [Stabilizers](STABILIZERS.md/#stabilizers)
-- [Films](FILMS.md/#films)
-- [Lubricants](LUBRICANTS.md/#lubricants)
-- [Springs](SPRINGS.md/#springs)
-- [Will these parts work together?](WILL_THIS_WORK_TOGETHER.md/#will-these-parts-work-together)
+- [Keyboard Kits](KITS.md)
+- [Keycaps](KEYCAPS.md)
+- [Switches (The Switch Meta)](SWITCHES.md)
+- [Switch openers](SWITCH_OPENERS.md)
+- [Stabilizers](STABILIZERS.md)
+- [Films](FILMS.md)
+- [Lubricants](LUBRICANTS.md)
+- [Springs](SPRINGS.md)
+- [Will these parts work together?](WILL_THIS_WORK_TOGETHER.md)
+- [How do I work this?](HOW_DO.md)
 - [Vendors List](VENDORS.md)
+)

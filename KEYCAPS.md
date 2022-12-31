@@ -37,7 +37,7 @@
 
 ## Switch orientation on PCB and keycap interference
 
-Please consult [this section](WILL_THIS_WORK_TOGETHER.md/#north-facing-keycap-interference) when thinking on if your keycaps may have any issue with the switches in your PCB.
+Please consult [this section](WILL_THIS_WORK_TOGETHER.md#north-facing-keycap-interference) when thinking on if your keycaps may have any issue with the switches in your PCB.
 
 ## On Clones
 
