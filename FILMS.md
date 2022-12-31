@@ -67,7 +67,7 @@ what level of stem wobble you may expect.
 
 | When Going Too Thick Goes Wrong                                      |
 | -------------------------------------------------------------------- |
-| [top housings with broken legs](images/films/too_thick.jpeg)         |
+| ![top housings with broken legs](images/films/too_thick.jpeg)         |
 | via issey83. Desoldered JWK H1 with 0.15mm films. Many broken claws. |
 
 New people to the hobby may be tempted to compulsively film all switches. This can be a bad idea,

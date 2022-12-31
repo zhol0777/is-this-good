@@ -70,7 +70,7 @@ Pictured: A “universal” 60% plate for a tray mount keyboard - notice the lac
 ### Be aware of issues
 
 - Staebies
-  - Manufactured by Tecsee. Designed only for GMK molds, so key caps with molds that vary from GMK tolerances (such as some PBT keycaps) may bind, as secondhand reports have claimed. Occasional reports of these stems cracking keycap stems have been spotted in the wild. Other users have a grand time with these, and the stock rattle on the spacebar outclasses TX stabs.
+  - Manufactured by Tecsee. Designed only for GMK molds, so key caps with molds that vary from GMK tolerances (such as some PBT keycaps) may bind, as secondhand reports have claimed. Occasional reports of these stems from v1 Stabies cracking keycap stems have surfaced. Other users have a grand time with these, and the stock rattle on the spacebar outclasses TX stabs.
 
 ## Plate Mount
 
@@ -83,6 +83,8 @@ Pictured: A plate with specific cutouts for plate-mount stabilizers to fit into 
 Folk knowledge suggests that plate mount stabilizers aren’t “as good” as PCB mount stabilizers, but these can still sound perfectly fine if you’re willing to ignore some hater in your ear.
 
 - Recommended
+  - TX
+    - if you can find TX plate-mount stabilizers
   - Durock Plate Mount/Everglide Plate Mount
     - Decent for plate mounts in my experience with the all-black ones.
   - Gateron Plate Mount
