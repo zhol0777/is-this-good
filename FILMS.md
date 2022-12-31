@@ -67,7 +67,7 @@ what level of stem wobble you may expect.
 
 | When Going Too Thick Goes Wrong                                      |
 | -------------------------------------------------------------------- |
-| [](images/films/too_thick.jpeg)                                      |
+| [top housings with broken legs](images/films/too_thick.jpeg)         |
 | via issey83. Desoldered JWK H1 with 0.15mm films. Many broken claws. |
 
 New people to the hobby may be tempted to compulsively film all switches. This can be a bad idea,
@@ -89,10 +89,10 @@ thinner hard films, like those at 0.125mm tightness, compressible foam films, or
 
 | ❌ Winglatch top housing (Kailh Box Jade)                                                          | ✅ 4-pin ("Cherry-style") top housing (Gateron Brown)                                                                 |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![Kailh Box Jade](images/films/kailhwinglatch.png)                                                      | ![Gateron Brown KS-9](images/films/gateronbrown.png)                                                                       |
+| ![Kailh Box Jade](images/films/kailhwinglatch.png)                                                      | ![Gateron Brown KS-9](images/switch_openers/gateronbrown.png)                                                                       |
 | “Winglatch” housing (via kbdfans). The top housing is secured two large "wings", one on each side | “Cherry style”/”4 pin” top housing. Note the two "pins"/legs of each side the top housing, securing it to the bottom |
 
-Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.
+Films **do not** fit in winglatch housings. Winglatch housings are generally “tight enough” (reduced wobble in W-E direction) that films are not needed to prevent housing wobble, and cause difficulty in re-assembling the switch. These generally tend to get produced by Kailh for all their switches that aren’t Cream variants (Launch Creams, Blueberries, Cream Tactiles, etc.) non-Boba Outemu switches, most KTT stuff (and consequently most Akko CS stuff), but you should know these when you see these.
 
 ### Misc. Cases
 
@@ -101,4 +101,9 @@ These following switches are known to have fairly tight housings, and will not r
 - Outemu x Gazzew “Boba” variants (this includes those with PC/clear tops)
 - Kailh x Novelkeys Cream variants
 - “Panda” housings
-  - [The proliferation of housings made with the Panda name](https://www.theremingoat.com/blog/the-pandaverse) has kinda diluted the meaning, but thanks to the fact that most of these variants (Purple Pandas, Frost Pandas, Ethereal Pandas, Glorious Pandas) are produced by Tecsee, you can safely assume that the molds provide similarly tight tolerances. Pandas are known to have tight housings.
+  - [The proliferation of housings made with the Panda name](https://www.theremingoat.com/blog/the-pandaverse) has kinda diluted the meaning, but thanks to the fact that most of these variants (Purple Pandas, Frost Pandas, Ethereal Pandas, Glorious Pandas) are produced by Tecsee, you can safely assume that the molds provide similarly tight tolerances. Pandas are supposedly known to have tight housings.
+- Personal recommendation
+  - I wouldn't put anything thicker than 0.125mm PC films in Gateron (foam films may work, though). On JWK I would use foam
+    (Deskeys or YMDK) most of the time. 0.125mm PC films in Wuque mm.switch housings were a mistake, the top housing legs were
+    too weak to stay on, and some refused to stay assembled. Maybe foam would have been better, but I did not have any on me
+    during that time.
