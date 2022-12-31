@@ -35,4 +35,3 @@ zhol (with assistance from moosh, chickenman, Daniel, powwu, pizza, chill, shamb
 - [Will these parts work together?](WILL_THIS_WORK_TOGETHER.md)
 - [How do I work this?](HOW_DO.md)
 - [Vendors List](VENDORS.md)
-)

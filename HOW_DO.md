@@ -11,6 +11,8 @@
     - [Dealing with leaf ping](#dealing-with-leaf-ping)
     - [Opening switches on the cheap](#opening-switches-on-the-cheap)
   - [Busted hotswap](#busted-hotswap)
+  - [Remove factory lube?](#remove-factory-lube)
+  - [Deal with north facing switches with Cherry profile keycaps?](#deal-with-north-facing-switches-with-cherry-profile-keycaps)
 
 ## Stabilizers
 
@@ -85,3 +87,47 @@ https://youtu.be/PZDwj1TWsxU?t=198 (example of Glorious Panda Pinging)
 
 If you didn't shear a socket off by inserting a switch without supporting it, follow
 [this video](https://www.youtube.com/watch?v=S3wuA8uEVhM).
+
+## Remove factory lube?
+
+Hey, you know all those warnings about how you should only handle Krytox/Tribosys products with gloves and a drop
+shield because they are extremely resistant to solvents? Yeah, soap and water isn't going to completely clean off
+the factory lubricant off your switches. You can either
+* Lube lightly over and spread around an uneven lube application, or
+* Get an ultrasonic cleaner, and an industrial degreaser like Vertrel XF.
+
+Trying to wash off factory lube with hand soap and water is copium. Get real.
+
+## Deal with north facing switches with Cherry profile keycaps?
+
+* Stem washers to prevent the keycap from sitting all the way down the crucifix.
+  * Issey has some recommendations for washer sizes [here]
+  * Payson makes a few you can buy from [Taobao](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23480718111.19.409c73f2RLNVEH&id=663565490387) or [Shopee](https://shopee.sg/Payson-0.5mm-Switch-Washers-for-North-Facing-Interference-i.298506661.13894235246).
+
+Suggesting "get long pole switches" isn't one I agree with totally.  It is not the fact that a stem pole is long that saves a switch
+from north-facing interference, but the reduction in travel that an especially long stem pole implies, and in many cases, travel is
+not reduced enough. In the below table, I run the paper test on switches with a key from row 3 of some Domikey Cherry-profile set.
+Shamb provides information about how the paper test is used to determine if a switch experiences housing collision
+[here](https://www.youtube.com/shorts/7yXoii--s5Y).
+Domikey makes keycaps with around 1.3mm-1.4mm wall thickness, comparable to GMK or JTK.
+
+| "Long pole"/"Special" switch      | Est. key travel    | Result           |
+| --------------------------------- | ------------------ | -----------------|
+| Gateron Oil King<sup>1</sup>      | 3.9mm              | Fail             |
+| Tecsee Diamond/Oreo/Ruby/Sapphire | 3.8mm              | Fail             |
+| Durock POM                        | 3.7mm              | Fail             |
+| Tecsee Carrot/Techno Violet       | 3.5mm              | Fail             |
+| JWK Quartz v2                     | 3.5mm              | Fail             |
+| Tecsee Ice Candy (Nylon stem)     | 3.5mm              | Pass             |
+| Outemu/Gazzew Boba U4T/LT         | 3.1mm              | Pass<sup>2</sup> |
+| Outemu/Gazzew U4/Bobagum          | ~3.1mm<sup>3</sup> | Pass<sup>2</sup> |
+| JWK & Rebult Penyu                | ~2.9mm             | Pass<sup>2</sup> |
+| Tecsee Purple Panda               | 3.0mm              | Pass             |
+
+<sup>1</sup>: Youtubers claims that these have a special top housing to prevent north-facing interference. Maybe with thinner caps, but not these, dude.
+
+<sup>2</sup>: Barely passes paper test: some resistance on pulling paper out, but paper does not tear
+
+<sup>3</sup>: Compression on silicone dampener makes defining where key travel stops a bit vague 
+
+In short, trying to use long pole switches to save a cheap north-facing board is copium more often than not.
