@@ -40,7 +40,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Divinikey](https://divinikey.com/)                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
 | [Donut Cables](https://donutcables.com/)                     |          |      |       | [x]    |         |           | ?                          |
 | [Dream Cables](https://dream-cables.com/)                    |          |      |       | [x]    |         |           | Utah                       |
-| [Elboard](https://elboard.store/)                            | [x]      |      | [x]   |        | [x]     |           | Pennsylvania               |
 | [Endgame Keys](https://endgamekeys.com/)                     |          | [x]  | [x]   |        |         |           | Indiana                    |
 | [FlashQuark](https://flashquark.com/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | New York                   |
 | [Flex Cables](https://flexcablesstore.com/)                  |          |      |       | [x]    |         |           | ?                          |
