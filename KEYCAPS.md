@@ -1,6 +1,7 @@
 # Keycaps
 
 - [Keycaps](#keycaps)
+  - [Comparing ABS versus PBT](#comparing-abs-versus-pbt)
   - [Switch orientation on PCB and keycap interference](#switch-orientation-on-pcb-and-keycap-interference)
   - [On Clones](#on-clones)
     - [Artisans](#artisans)
@@ -44,6 +45,55 @@
       - [DCX](#dcx)
       - [DCD](#dcd)
   - [Aifei (爱菲)](#aifei-爱菲)
+
+## Comparing ABS versus PBT
+
+* Doubleshot ABS
+  * Good
+    * Capable of more vivid colors
+    * Brighter sound signature (if that's your sort of thing)
+    * When the molds are good, they remain good for a fairly long time.
+  * Bad
+    * Shines faster
+    * Yellows when exposed to UV light over time
+    * Brighter sound signature (if that's your sort of thing)
+    * Every key requires a legend mold to be made for it
+    * If the molds are bad, they remain bad until remade.
+      * "Shif t" legend on some China doubleshot
+      * sinking ">." legend on Domikey SA
+      * key alignment, consistent letter thickness
+* UV-print ABS
+  * Good
+    * Very cheap to make!
+  * Bad
+    * Rubs off eventually (although some prints are more robust than you expect)
+* Dye-sublimated PBT
+  * Good
+    * Does not yellow like ABS when exposed to UV light over time
+    * PBT resists physical wear much more than ABS does, increasing the time it takes for a keyset to shine
+      * This is somewhat dependent on the amount of texture the molds have; molds that create very smooth caps can shine faster than you would expect.
+    * Lets you hit nice middle ground of being able to make interesting looking keyset for not very much money (although more expensive than the cheapest doubleshot OEM caps you may have seen before)
+    * Marginally lower, more muted sound signature (if you're into that sort of thing)
+  * Bad
+    * Warps much more than ABS does on cooling, especially on longer keys
+      * Most people who have complained about their GMK bars warping have never seen what PBT does when it hasn't been QC'ed properly before shipment
+    * Consistent legend alignment is difficult
+    * Bad prints can appear to be fuzzy on the cap
+    * Colors tend to be more muted than ABS
+    * Regular dye-sublimation limits you to printing dark legends onto light keycaps
+    * Reverse/five-side sublimation to get a light legend appear on a darker keycap (by printing everywhere across the cap besides the legend) has a host of production issues, such as
+      * Color/print on side walls
+      * Increase difficulty in legend alignment
+      * Possibility of print peeling if not applied hot enough (most famously on KAT Space Cadet)
+      * Keycap wall shrink (if print is applied too hot for too long)
+      * Softening of the cap (seen on early Milkyway)
+* Doubleshot PBT
+  * Good
+    * All the nice parts about PBT being robust to wear and none of the problems about reverse dyesub
+  * Bad
+    * Same deal with molds as ABS - if they're bad now, they'll be bad until they're remade
+    * Sometimes adulterated with ABS to inject easier - this leads to caps that shine SIGNIFICANTLY faster than even regular doubleshot ABS (seems to predominantly be the case with Akko keycaps, as issey83 has been able to shine his sets in as little as two weeks)
+    * Colors still seem to be more muted than ABS
 
 ## Switch orientation on PCB and keycap interference
 
