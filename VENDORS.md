@@ -54,7 +54,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kraken Keyboards](https://krakenkeyboards.com/)             |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
 | [Little Keyboards](https://littlekeyboards.com/)<sup>1</sup> | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
 | [MaxKeyboard](https://maxkeyboard.com/)                      | [x]      |      |       |        | [x]     | [x]       | California (Northern)      |
-| [MechanicalKeyboards](https://mechanicalkeyboards.com/)      | [x]      |      | [x]   |        | [x]     | [x]       | Tennessee                  |
+| [MechanicalKeyboards](https://mechanicalkeyboards.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Tennessee                  |
 | [MechCables](https://mechcables.com/)                        |          |      |       | [x]    |         |           | Virginia                   |
 | [Mechs and Co](https://mechsandco.com/)                      |          |      |       |        | [x]     | [x]       | Florida, NY                |
 | [Mechwild](https://mechwild.com/)<sup>1</sup>                | [x]      |      | [x]   |        |         | [x]       | Ohio                       |
