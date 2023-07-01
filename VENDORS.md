@@ -56,7 +56,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MaxKeyboard](https://maxkeyboard.com/)                      | [x]      |      |       |        | [x]     | [x]       | California (Northern)      |
 | [MechanicalKeyboards](https://mechanicalkeyboards.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Tennessee                  |
 | [MechCables](https://mechcables.com/)                        |          |      |       | [x]    |         |           | Virginia                   |
-| [Mechs and Co](https://mechsandco.com/)                      |          |      |       |        | [x]     | [x]       | Florida, NY                |
 | [Mechwild](https://mechwild.com/)<sup>1</sup>                | [x]      |      | [x]   |        |         | [x]       | Ohio                       |
 | [Mekibo (TX Keyboards)](https://mekibo.com/)                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
 | [Mimic Cables](https://mimic-cables.com/)                    |          |      |       | [x]    |         |           | ?                          |
