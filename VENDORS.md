@@ -218,14 +218,17 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Kiwi Clack](https://www.kiwiclack.com/)             |  [x]     | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 | [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  |       |        |         | [x]       | Australia   | 
 | [MTNKBD](https://mtnkbd.com/)                        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
-| [Naughty Boards](https://naughtyboards.com)          | [x]      |      | [x]   | [x]    | [x]     |           |  Australia  |
+| [NajaKeys](https://najakeys.com/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
+| [Naughty Boards](https://naughtyboards.com)          | [x]      |      | [x]   | [x]    | [x]     |           | Australia  |
 | [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia   |
 | [Prestige Keys](https://prestigekeys.com.au/)        | [x]      | [x]  | [x]   |        |         |           | Australia   |
 | [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
+| [Truly Chewyie](https://trulychewyie.com/)           |          |      |       |[x]     |         |           | Australia   |
 | [Escape Keyboards](https://esckeyboard.com/)         | [x]      | [x]  |       |        | [x]     |           | Australia   |
 
 <sup>1</sup>: Through-hole keyboard specialty
 <sup>2</sup>: Australia-only storefront
+<sup>3</sup>: Also offers cerakote service
 
 ## Middle East/West Asia
 
