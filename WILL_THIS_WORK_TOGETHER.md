@@ -189,7 +189,7 @@ generally not limited in what switches they would accept, with the exception of 
 (Note: these look like regular solder joints, and are obviously distinct from the surface mount Outemu
 hotswap socket that resembles Kailh/Gateron/TTC/CIY sockets).
 
-Outemu hotswap is limited to Outemu switches (this includes Gazzew Boba switches), as the pins for the
+Outemu hotswap is limited to Outemu switches (as of 2023, this no longer includes Gazzew Boba switches), as the pins for the
 switches are sufficiently thin enough to enter the socket **without sanding**. Other switches that
 **may** fit in include
 
