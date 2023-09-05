@@ -124,6 +124,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [42Keebs](https://42keebs.eu)<sup>1</sup>          | [x]      | [x]  | [x]   |        |         | [x]       | Czechia     |
 | [CandyKeys](https://candykeys.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Germany     |
 | [Clark Cable](https://clarkkable.com/)             |          |      |       | [x]    |         |           | Germany     |
+| [Delta Key Co](https://deltakeyco.com)             | [x]      | [x]  | [x]   |        | [x]     | [x]       | France
 | [Eloquent Clicks](https://www.eloquentclicks.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Spain       |
 | [KBnordic](https://kbnordic.eu)                    | [x]      | [x]  | [x]   |        | [x]     | PCB/Plate | Sweden      |
 | [Keeb.Studio](https://keeb.studio/)                |          |      |       | [x]    |         |           | Belgium     |
