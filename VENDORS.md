@@ -124,11 +124,12 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [42Keebs](https://42keebs.eu)<sup>1</sup>          | [x]      | [x]  | [x]   |        |         | [x]       | Czechia     |
 | [CandyKeys](https://candykeys.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Germany     |
 | [Clark Cable](https://clarkkable.com/)             |          |      |       | [x]    |         |           | Germany     |
-| [Delta Key Co](https://deltakeyco.com)             | [x]      | [x]  | [x]   |        | [x]     | [x]       | France
+| [Delta Key Co](https://deltakeyco.com)             | [x]      | [x]  | [x]   |        | [x]     | [x]       | France      |
 | [Eloquent Clicks](https://www.eloquentclicks.com/) | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Spain       |
 | [KBnordic](https://kbnordic.eu)                    | [x]      | [x]  | [x]   |        | [x]     | PCB/Plate | Sweden      |
 | [Keeb.Studio](https://keeb.studio/)                |          |      |       | [x]    |         |           | Belgium     |
 | [Keebstuff](https://keebstuff.com/)                |          |      |       | [x]    |         |           | Germany     |
+| [KeebSupply](https://keeb.supply/)                 | [x]      |      | [x]   |        | [x]     | [x]       | Germany     |
 | [Keebwerk](https://keebwerk.com/)                  | [x]      |      |       |        |         | [x]       | Germany     |
 | [KeyCapsss](https://keycapsss.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Germany     |
 | [Keygem](https://keygem.store/)                    | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Germany     |
