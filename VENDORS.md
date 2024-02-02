@@ -136,7 +136,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [KHOR](https://khor.store)                         |          |      | [x]   | [x]    |         |           | Italy       |
 | [Kriscables](https://kriscables.com/)<sup>1</sup>  | [x]      |      |       | [x]    | [x]     | [x]       | Portugal    |
 | [Mechanisk](https://mekanisk.com/)                 | [x]      |      | [x]   |        |         | [x]       | Norway      |
-| [MyKeyboard](https://mykeyboard.eu/)               | [x]      | [x]  | [x]   |        | [x]     | [x]       | Belgium     |
 | [Oblotsky](https://oblotzky.industries/)           | [x]      |      |       |        | [x]     | [x]       | Germany     |
 | [SplitKB](https://splitkb.com/)<sup>1</sup>        | [x]      |      | [x]   |        | [x]     | [x]       | Netherlands |
 
