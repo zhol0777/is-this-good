@@ -57,16 +57,13 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [PrimeKB](https://primekb.com/)                                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
 | [RGBKB](https://rgbkb.net/)                                                  | [x]      |      |       |        | [x]     | [x]       | Connecticut                |
 | [Ringer Keys](https://ringerkeys.com/)                                       | [x]      | [x]  | [x]   |        |         | [x]       | Greater Boston, MA         |
-| [Space Cables](https://spaceholdings.net/)                                   |          | [x]  | [x]   | [x]    | [x]     |           | Austin, TX                 |
 | [Stupid Bullets Tech](https://stupidbulletstech.com)                         | [x]      | [x]  | [x]   |        |         | [x]       |                            |
 | [Switch Couture](https://switchcouture.com/)                                 |          |      |       |        |         | [x]       | Florida                    |
-| [Switchmod](https://switchmod.net/)                                          |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
 | [Teal Technik](https://tealtechnik.com/)                                     | [x]      | [x]  | [x]   |        |         |           | ?                          |
 | [Tez Cables](https://tezcables.com/)                                         |          |      |       | [x]    |         |           | ?                          |
 | [Thockpop](https://thockpop.com/)                                            | [x]      | [x]  | [x]   |        | [x]     |           | Houston, TX                |
 | [TypeMachina](https://typemachina.com/)                                      | [x]      |      | [x]   |        | [x]     | [x]       | Irvine, CA                 |
 | [Upgrade Keyboards](https://upgradekeyboards.com/)                           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
-| [WASD Keyboards](https://wasdkeyboards.com/)                                 | [x]      |      |       | [x]    | [x]     | [x]       | California                 |
 | [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup>             |          |      |       |        |         | [x]       | Austin, TX                 |
 | [Winnja](https://winnja.com/)                                                |          |      | [x]   | [x]    |         |           | Texas                      |
 
