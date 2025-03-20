@@ -6,4 +6,3 @@
 {% for choice in choices_per_layout -%}
 | {{ choice.name }} | ![]({{ choice.image }}) | {{ choice.description }} | {% for link in choice.links%} [Link]({{link}}) {% endfor %} |
 {% endfor %}
-| - | - | - | - |

@@ -13,5 +13,3 @@
 | KBD8X MKIII | ![](https://kbdfans.com/products/kbd8x-mkiii) | Lot of metal keyboard for not much money. A lot of colors, WKL options, foam, and a cool lightbar |  [Link](https://kbdfans.com/products/kbd8x-mkiii)  |
 | NCR80 | ![](https://ymdkey.com/cdn/shop/products/MG_0377.jpg?v=1665017811) | Looks like an old Cherry G80, feels like one too. But it's got a modern PCB! |  [Link](https://ymdkey.com/products/ncr-80-ncr80-r3-vintage-mechanical-keyboard-kit-ansi-iso-tkl-hotswap-via-supported)  |
 | Realforce R3 | ![](https://mechanicalkeyboards.com/cdn/shop/files/17281-RWASZ-Realforce-R3-Black-TKL-Bluetooth-Mechanical-Keyboard.jpg?v=1721234782&width=1680) | Topre in TKL form. R3 is wireless. R3S is lasered on legends. R2 is same case as R3 with dye-sub legends. |  [Link](https://mechanicalkeyboards.com/products/topre-realforce-r3-tkl-wireless-keyboard)  |
-
-| - | - | - | - |
