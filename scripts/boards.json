@@ -91,7 +91,7 @@
             ]
         }
     ],
-    "tkl": [
+    "TKL": [
         {
             "name": "Keychron Q3/V3",
             "description": "Q's the metal one, V's the plastic one. Standard Keychron design language in TKL size. Supports QMK/VIA.",
@@ -176,6 +176,6 @@
         }
     ],
     "1800": [],
-    "alice": [],
-    "macropad": []
+    "Alice": [],
+    "Macropad": []
 }
