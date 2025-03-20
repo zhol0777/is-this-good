@@ -1,0 +1,181 @@
+
+{
+    "40": [
+        {
+            "name": "Vicious40",
+            "description": "Minivan (12.75u) layout from Cannonkeys.",
+            "image": "https://cannonkeys.com/cdn/shop/products/CK071522-92.jpg?v=1687201191&width=5000",
+            "links": [
+                "https://cannonkeys.com/products/vicious40-keyboard"
+            ]
+        },
+        {
+            "name": "Sofle",
+            "description": "12u columnar stagger with a number row. Open source with many varieties.",
+            "image": "https://github.com/josefadamcik/SofleKeyboard/blob/master/docs/images/sofle_keyboard.jpg",
+            "links": [
+                "https://www.littlekeyboards.com/products/sofle-rgb-pcb-kit",
+                "https://splitkb.com/products/aurora-sofle-v2",
+                "https://keebd.com/en-us/products/sofle-v2-1-rgb-keyboard-kit",
+                "https://keebmaker.com/products/sofle-rgb-kit",
+                "https://mechboards.co.uk/products/sofle-kit?"
+            ]
+        },
+        {
+            "name": "corne (crkbd)",
+            "description": "12u (or 10u) columnar stagger. Open source with many varieties",
+            "image": "https://media.discordapp.net/attachments/212575396032413697/1121896259700150282/IMG_2999.jpg?ex=67dc7750&is=67db25d0&hm=71287bdee6125b809fba03dda8a8e8e7a95cbfd73e18e726169aae4804f7e6a8&=&format=webp&width=1864&height=1398",
+            "links": [
+                "https://www.boardsource.xyz/products/Corne",
+                "https://keebmaker.com/products/corne-cherry",
+                "https://keebd.com/en-us/products/corne-cherry-v3-rgb-keyboard-kit",
+                "https://typeractive.xyz/products/corne-partially-assembled-pcb"
+            ]
+        }
+    ],
+    "60": [
+        {
+            "name": "Bakeneko60",
+            "description": "Gummy o-ring mounted 60%. The classic.",
+            "image": "https://media.discordapp.net/attachments/212575396032413697/974182138150813756/KOK_0500.jpg?ex=67dc5111&is=67daff91&hm=8ee74a6ab81a1cded76fd2f76db5c45fa3d87dd6385faaf9d8ea6bf6ca924920&=&format=webp&width=2096&height=1398",
+            "links": [
+                "https://cannonkeys.com/products/bakenekogo",
+                "https://cannonkeys.com/products/bakeneko-60"
+            ]
+        },
+        {
+            "name": "neo60",
+            "description": "Rolling release. Grommet gasket pcb-mounted 60%. Maybe some wireless option. Cheap and fancy.",
+            "image": "https://monacokeys.de/cdn/shop/files/neo60-60-isoansi-aluminium-keyboard-kit-preorder-993755.webp?v=1737652157&width=1220",
+            "links": [
+                "https://divinikey.com/products/qwertykeys-neo60-core-keyboard?variant=41997604126785",
+                "https://www.qwertykeys.com/products/neo60",
+                "https://www.qwertykeys.com/products/neo60-cu-custom-mechanical-keyboard-1"
+            ]
+        },
+        {
+            "name": "QK60",
+            "description": "Acrylic top, aluminum bottom 60. Plate gasket mount. Cheap and fancy.",
+            "image": "https://media.discordapp.net/attachments/212575396032413697/1210377810519265361/KOK_0673.jpg?ex=67dcae2d&is=67db5cad&hm=a52b7ce3df87ede186649af8a523d868cc46f46c6d7409738bdbd6ebd59a5c4b&=&format=webp&width=2096&height=1398",
+            "links": [
+                "https://www.qwertykeys.com/products/qk60-round-3"
+            ]
+        },
+        {
+            "name": "Keychron Q4, V4 (Max)",
+            "description": "Q4's the metal one, V4's the plastic one. Has your foam, and silicone blubber bottom in the V4. Supports QMK/VIA. Max model is wireless.",
+            "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychron-v4-custom-mechanical-custom-keyboard-1661162984691.jpg?v=1661162987",
+            "links": [
+                "https://www.keychron.com/products/keychron-v4-qmk-custom-mechanical-keyboard",
+                "https://www.keychron.com/products/keychron-v4-max-qmk-via-wireless-custom-mechanical-keyboard",
+                "https://www.keychron.com/products/keychron-q4-qmk-via-custom-mechanical-keyboard"
+            ]
+        },
+        {
+            "name": "HHKB Professional Classic",
+            "description": "The big round bump of Topre isn't something you'll find in MX based switches. Simple and reliable, and allergic to modifications. Some people swear by it.",
+            "image": "https://mechanicalkeyboards.com/cdn/shop/files/3442-AX52Q-Hybrid-Type-S-White.jpg?v=1708020490&width=1100",
+            "links": [
+                "https://mechanicalkeyboards.com/products/hhkb-hybrid-type-s"
+            ]
+        }
+    ],
+    "65": [],
+    "75": [
+        {
+            "name": "Realforce RC1",
+            "description": "Topre in a 75% case. Portable like an HHKB, only with a function row and 2U shift key.",
+            "image": "https://mechanicalkeyboards.com/cdn/shop/files/23055-MTNXH-Topre-Realforce-RC1-75.jpg?v=1740167949&width=2400",
+            "links": [
+                "https://mechanicalkeyboards.com/products/topre-realforce-rc1-75-bluetooth-keyboard"
+            ]
+        }
+    ],
+    "tkl": [
+        {
+            "name": "Keychron Q3/V3",
+            "description": "Q's the metal one, V's the plastic one. Standard Keychron design language in TKL size. Supports QMK/VIA.",
+            "image": "https://mechanicalkeyboards.com/cdn/shop/files/22165-Q3GUI-Keychron-V3-Max-w-Knob-Gateron-Jupiter-Red.jpg?v=1720461643&width=2400",
+            "links": [
+                "https://mechanicalkeyboards.com/products/keychron-v3-max-w-knob",
+                "https://www.keychron.com/products/keychron-q3-max-qmk-via-wireless-custom-mechanical-keyboard"
+            ]
+        },
+        {
+            "name": "Tiger Lite Gaming",
+            "description": "Look out, we got an important gamer here! Here's the one with the PCB for you, stop yammering about how you wouldn't be hardstuck in Wood if you had access to rapid trigger or whatever",
+            "image": "https://kbdfans.com/cdn/shop/files/11_78d56367-f992-49f5-bea8-43c0e6eae682_1080x.jpg?v=1733711876",
+            "links": [
+                "https://divinikey.com/products/kbdfans-tiger-lite-gaming-tkl-keyboard",
+                "https://kbdfans.com/products/kbdfans-tiger-lite-gaming-keyboard-kit    "
+            ]
+        },
+        {
+            "name": "Leopold FC750RBT",
+            "description": "Classic Leopold tank quality, now with bluetooth. Doubleshot PBT keycaps. Buy this if you don't plan on modifying it.",
+            "image": "https://mechanicalkeyboards.com/cdn/shop/files/15261_63ae06db3108e_FC750RBT-Bluetooth-Navy-Blue-PD.jpg?v=1707272048&width=800",
+            "links": [
+                "https://mechanicalkeyboards.com/products/leopold-fc750rbt-bluetooth-navy-blue-pd"
+            ]
+        },
+        {
+            "name": "Filco Majestouch",
+            "description": "If it ain't broke, don't fix it. Buy this if you don't plan on modifying it. Doubleshot caps (sometimes), costar stabilizers. The standard of TKL.",
+            "image": "https://mechanicalkeyboards.com/cdn/shop/files/15202_63795cfbdbf84_Majestouch-3-TKL.jpg?v=1707271867&width=800",
+            "links": [
+                "https://mechanicalkeyboards.com/products/filco-majestouch-3-tkl"
+            ]
+        },
+        {
+            "name": "MK870",
+            "description": "Translucent plastic tray mounted TKL with boatload of RGB in the correct orientation. It just works, no stupid glued on wireless module, no battery that catches on fire.",
+            "image": "https://m.media-amazon.com/images/I/71sbFqyH7JL._AC_SL1500_.jpg",
+            "links": [
+                "https://www.amazon.com/FL-ESPORTS-MK870-Mechanical-Customizable/dp/B09GB6BRGD?th=1"
+            ]
+        },
+        {
+            "name": "Keychron C1/C1 Pro/C3 Pro",
+            "description": "Regular tray mounted plastic TKL. It just works. Pro series can be configured with QMK/VIA",
+            "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronc1hotswappablewiredmechanicalkeyboardtenkeylesslayoutformacwindowsnonbacklightkeychronswitchredretrostylecolor--edited-1645781115763_1200x.jpg?v=1645781118",
+            "links": [
+                "https://www.keychron.com/collections/keychron-c-series-keyboard-s1"
+            ]
+        },
+        {
+            "name": "Varmilo VA87M",
+            "description": "Classic floating key TKL. Buy this if you don't plan on modifying it.",
+            "image": "https://i.rtings.com/assets/products/bJrHmS7E/varmilo-va87m/design-medium.jpg?format=auto",
+            "links": [
+                "https://mechanicalkeyboards.com/collections/Varmilo"
+            ]
+        },
+        {
+            "name": "KBD8X MKIII",
+            "description": "Lot of metal keyboard for not much money. A lot of colors, WKL options, foam, and a cool lightbar",
+            "image": "https://kbdfans.com/products/kbd8x-mkiii",
+            "links": [
+                "https://kbdfans.com/products/kbd8x-mkiii"
+            ]
+        },
+        {
+            "name": "NCR80",
+            "description": "Looks like an old Cherry G80, feels like one too. But it's got a modern PCB!",
+            "image": "https://ymdkey.com/cdn/shop/products/MG_0377.jpg?v=1665017811",
+            "links": [
+                "https://ymdkey.com/products/ncr-80-ncr80-r3-vintage-mechanical-keyboard-kit-ansi-iso-tkl-hotswap-via-supported"
+            ]
+        },
+        {
+            "name": "Realforce R3",
+            "description": "Topre in TKL form. R3 is wireless. R3S is lasered on legends. R2 is same case as R3 with dye-sub legends.",
+            "image": "https://mechanicalkeyboards.com/cdn/shop/files/17281-RWASZ-Realforce-R3-Black-TKL-Bluetooth-Mechanical-Keyboard.jpg?v=1721234782&width=1680",
+            "links": [
+                "https://mechanicalkeyboards.com/products/topre-realforce-r3-tkl-wireless-keyboard"
+            ]
+        }
+    ],
+    "1800": [],
+    "alice": [],
+    "macropad": []
+}
