@@ -78,6 +78,16 @@
             "links": [
                 "https://mechanicalkeyboards.com/products/hhkb-hybrid-type-s"
             ]
+        },
+        {
+            "name": "Tofu60 Redux",
+            "description": "You bought a Wooting60 and now you want to put the PCB in a fancy metal case.",
+            "image": "../images/map/tofu_redux.jpg",
+            "links": [
+                "https://divinikey.com/products/kbdfans-tofu60-redux-case",
+                "https://kbdfans.com/products/tofu60-redux-case",
+                "https://kbdfans.com/products/tofu60-redux-kit"
+            ]
         }
     ],
     "65": [],
@@ -88,6 +98,49 @@
             "image": "../images/map/rc1.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/topre-realforce-rc1-75-bluetooth-keyboard"
+            ]
+        },
+        {
+            "name": "Keychron V1/Q1",
+            "description": "Same deal as the rest, the V series is plastic and the Q series is metal. The Max model is wireless. It's a 75 with foam and a knob! What more could you want",
+            "image": "../images/map/q1.jpg",
+            "links": [
+                "https://www.keychron.com/products/keychron-v1-qmk-via-custom-mechanical-keyboard",
+                "https://mechanicalkeyboards.com/products/keychron-q1-v1"
+            ]
+        },
+        {
+            "name": "Monsgeek M1",
+            "description": "Similar to Keychron Q1: a gasket mounted 75 with foam and a knob for a competitive price. M1W is wireless and might not support VIA.",
+            "image": "../images/map/m1.jpg",
+            "links": [
+                "https://www.monsgeek.com/?s=M1",
+                "https://www.amazon.com/s?k=monsgeek+m1"
+
+            ]
+        },
+        {
+            "name": "Lemokey X4",
+            "description": "Like a Keychron V1, but cheaper, and without hotswap. Still supports QMK/VIA, still has gamer lights.",
+            "image": "../images/map/x4.jpg",
+            "links": [
+                "https://www.lemokey.com/products/lemokey-x4-qmk-wired-mechanical-keyboard"
+            ]
+        },
+        {
+            "name": "Sat75X",
+            "description": "Gasket mounted 75% with a knob and an OLED, only it's not slop like the others.",
+            "image": "../images/map/sat75x.jpg",
+            "links": [
+                "https://cannonkeys.com/products/sat75-x?srsltid=AfmBOorGSBswffu4keGTuATsYj0cOZYiQwgZBhq3twu_Q2uPsjhVsP0b"
+            ]
+        },
+        {
+            "name": "Keychron K2",
+            "description": "Older, condensed 75% layout. Supports bluetooth by default, but the Max model supports QMK/VIA. 'Aluminum frame' means there's a strip of aluminum running around the lip of the plastic case.",
+            "image": "../images/map/k2.jpg",
+            "links": [
+                "https://www.keychron.com/products/keychron-k2-qmk-wireless-mechanical-keyboard-version-3"
             ]
         }
     ],
@@ -172,6 +225,22 @@
             "image": "../images/map/rf_r3.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/topre-realforce-r3-tkl-wireless-keyboard"
+            ]
+        },
+        {
+            "name": "Classic-TKL",
+            "description": "Plastic gasket mounted TKL with a lightbar and design language of a Realforce R1. They put the USB port in a good place.",
+            "image": "../images/map/classic_tkl.jpg",
+            "links": [
+                "https://novelkeys.com/collections/keyboards/products/classic-tkl-keyboard"
+            ]
+        },
+        {
+            "name": "Lemokey X1",
+            "description": "Plastic tray mount TKL from a Keychron sub-brand. Cheap, simple, supports QMK, has a few gamer lights.",
+            "image": "../images/map/x1.jpg",
+            "links": [
+                "https://www.lemokey.com/products/lemokey-x1-qmk-via-wired-mechanical-keyboard"
             ]
         }
     ],

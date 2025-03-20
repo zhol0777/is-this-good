@@ -12,7 +12,7 @@
 
 | [TKL](tkl.md)                               | 96/1800/Full-size     (not done yet)         |
 |---------------------------------------------|----------------------------------------------|
-| [![](../images/map/sometkl.jpg)](tkl.md)    | ![](../images/map/1800.jpg)                  |
+| [![](../images/map/sometkl.jpg)](tkl.html)    | ![](../images/map/1800.jpg)                  |
 | You do a lot of work, but not with numbers. | You need it all and have no time for layers. |
 
 <!-- | Alices and actual Ergo boards  | Macropads                   |
