@@ -8,8 +8,4 @@ nav_order: {{ nav_order }}
 # {{ name }}
 
 ## Options
-| Name  | Description | Links |
-| - | - | - |
-{% for choice in choices_per_layout -%}
-| {{ choice.name }} | {{ choice.description }} | {% for link in choice.links%} [Link]({{link}}) {% endfor %} |
-{% endfor %}
+{{ table }}
