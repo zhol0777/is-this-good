@@ -2,7 +2,7 @@
 
 | [40](40.md)                  | [60](60.md)                                 |
 |------------------------------|---------------------------------------------|
-| ![](../images/map/cajal.png) | [![](../images/map/wtsalv.jpg)](./sixty.md) |
+| ![](../images/map/cajal.jpg) | [![](../images/map/wtsalv.jpg)](./sixty.md) |
 | Big brain on you, huh.       | Number row, and not much else.              |
 
 | 65                              | [75](75.md)                    |
