@@ -1,11 +1,18 @@
 ---
 title: TKL
 parent: MechMap
-nav_order: 4
+nav_order: 5
 ---
 
 
 # TKL
+
+## Heads up!
+
+If the board you wanted isn't here, it's not because it's bad, maybe we just haven't heard of it!
+If a link below is dead, or the board is out of stock at one of the links provided, that doesn't
+mean it's impossible to buy! You may just have to search for it on your own! Maybe even on Amazon!
+I believe in you!
 
 ## Options
 

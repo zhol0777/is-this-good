@@ -90,7 +90,86 @@
             ]
         }
     ],
-    "65": [],
+    "65": [
+        {
+            "name": "Photon",
+            "description": "Plastic polycarb 65 that supports wireless through ZMK, so it'll have excellent battery life. Designed by Ai03.",
+            "image": "../images/map/photon.jpg",
+            "links": [
+                "https://cannonkeys.com/products/photon"
+            ]
+        },
+        {
+            "name": "Keychron Q2/V2",
+            "description": "It's a Keychron, you know the deal. Q is metal, V is plastic. Exploded arrow key and nav cluster 65 with a knob. Standard, plain, vanilla, but customizable with QMK/VIA and various plate options",
+            "image": "../images/map/v2.jpg",
+            "links": [
+                "https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard",
+                "https://www.keychron.com/products/keychron-v2-qmk-custom-mechanical-keyboard"
+            ]
+        },
+        {
+            "name": "Monsgeek M7",
+            "description": "Metal gasket mounted 65% with the old MF68 layout. Few people complain about Monsgeek quality - you could be one of those people not complaining!",
+            "image": "../images/map/m7.png",
+            "links": [
+                "https://www.monsgeek.com/product-category/65/"
+            ]
+        },
+        {
+            "name": "bakeneko65",
+            "description": "Gummy o-ring mounted 65 with a solid arrow key blocker. Cheaper version is cast and coated aluminum, expensive one is milled and anodized",
+            "image": "../images/map/bakeneko65.jpg",
+            "links": [
+                "https://cannonkeys.com/products/bakeneko65",
+                "https://cannonkeys.com/products/bakeneko65-cnc"
+            ]
+        },
+        {
+            "name": "Bauer Lite",
+            "description": "Plastic gasket mounted 65 with unique WKL blockers. Solid product for a decent price.",
+            "image": "../images/map/bauer_lite.jpg",
+            "links":[
+                "https://omnitype.com/products/bauer-lite",
+                "https://oblotzky.industries/products/bauer-lite"
+            ]
+        },
+        {
+            "name": "neo65",
+            "description": "PCB grommet gasket mounted metal 65. Wireless options. Cheap for the finish you get!",
+            "image": "../images/map/neo65.png",
+            "links": [
+                "https://www.qwertykeys.com/products/neo65-1",
+                "https://www.qwertykeys.com/products/neo65-cu-custom-mechanical-keyboard"
+            ]
+        },
+        {
+            "name": "qk65",
+            "description": "More complex internally than the neo65, with a few more doodads, but still the same high quality finish for low price. Some wireless options.",
+            "image": "../images/map/qk65.png",
+            "links": [
+                "https://www.qwertykeys.com/products/qk65-v2",
+                "https://www.qwertykeys.com/products/qk65v2-classic"
+            ]
+        },
+        {
+            "name": "GMK67",
+            "description": "Plastic wireless gasket mounted China board that sells a bunch, and owners don't seem to complain too much about it. That's enough of a track record for me!",
+            "image": "../images/map/gmk67.png",
+            "links": [
+                "https://kineticlabs.com/keyboards/kinetic/gmk67-keyboard",
+                "https://www.aliexpress.us/item/3256805803271779.html"
+            ]
+        },
+        {
+            "name": "GAS67",
+            "description": "Same deal as above - a lot of sales and few people complaining about PCBs breaking or batteries lighting on fire. Probably fine if you don't need QMK/VIA.",
+            "image": "../images/map/gas67.jpg",
+            "links": [
+                "https://www.aliexpress.us/item/3256805031744525.html"
+            ]
+        }
+    ],
     "75": [
         {
             "name": "Realforce RC1",
@@ -112,7 +191,7 @@
         {
             "name": "Monsgeek M1",
             "description": "Similar to Keychron Q1: a gasket mounted 75 with foam and a knob for a competitive price. M1W is wireless and might not support VIA.",
-            "image": "../images/map/m1.jpg",
+            "image": "../images/map/m1.png",
             "links": [
                 "https://www.monsgeek.com/?s=M1",
                 "https://www.amazon.com/s?k=monsgeek+m1"
