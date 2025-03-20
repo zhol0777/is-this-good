@@ -84,7 +84,7 @@
     "75": [
         {
             "name": "Realforce RC1",
-            "description": "Topre in a 75% case. Portable like an HHKB, only with a function row and 2U shift key.",
+            "description": "Topre in a 75% case. Portable like an HHKB, only with a function row and 2U shift key. Has bluetooth!",
             "image": "../images/map/rc1.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/topre-realforce-rc1-75-bluetooth-keyboard"
@@ -95,7 +95,7 @@
         {
             "name": "Keychron Q3/V3",
             "description": "Q's the metal one, V's the plastic one. Standard Keychron design language in TKL size. Supports QMK/VIA.",
-            "image": "https://mechanicalkeyboards.com/cdn/shop/files/22165-Q3GUI-Keychron-V3-Max-w-Knob-Gateron-Jupiter-Red.jpg?v=1720461643&width=2400",
+            "image": "../images/map/keychron_tkl_fancy.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/keychron-v3-max-w-knob",
                 "https://www.keychron.com/products/keychron-q3-max-qmk-via-wireless-custom-mechanical-keyboard"
@@ -104,7 +104,7 @@
         {
             "name": "Tiger Lite Gaming",
             "description": "Look out, we got an important gamer here! Here's the one with the PCB for you, stop yammering about how you wouldn't be hardstuck in Wood if you had access to rapid trigger or whatever",
-            "image": "https://kbdfans.com/cdn/shop/files/11_78d56367-f992-49f5-bea8-43c0e6eae682_1080x.jpg?v=1733711876",
+            "image": "../images/map/tigergamer.jpg",
             "links": [
                 "https://divinikey.com/products/kbdfans-tiger-lite-gaming-tkl-keyboard",
                 "https://kbdfans.com/products/kbdfans-tiger-lite-gaming-keyboard-kit    "
@@ -113,7 +113,7 @@
         {
             "name": "Leopold FC750RBT",
             "description": "Classic Leopold tank quality, now with bluetooth. Doubleshot PBT keycaps. Buy this if you don't plan on modifying it.",
-            "image": "https://mechanicalkeyboards.com/cdn/shop/files/15261_63ae06db3108e_FC750RBT-Bluetooth-Navy-Blue-PD.jpg?v=1707272048&width=800",
+            "image": "../images/map/fc750.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/leopold-fc750rbt-bluetooth-navy-blue-pd"
             ]
@@ -121,7 +121,7 @@
         {
             "name": "Filco Majestouch",
             "description": "If it ain't broke, don't fix it. Buy this if you don't plan on modifying it. Doubleshot caps (sometimes), costar stabilizers. The standard of TKL.",
-            "image": "https://mechanicalkeyboards.com/cdn/shop/files/15202_63795cfbdbf84_Majestouch-3-TKL.jpg?v=1707271867&width=800",
+            "image": "../images/map/majestouch.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/filco-majestouch-3-tkl"
             ]
@@ -129,15 +129,15 @@
         {
             "name": "MK870",
             "description": "Translucent plastic tray mounted TKL with boatload of RGB in the correct orientation. It just works, no stupid glued on wireless module, no battery that catches on fire.",
-            "image": "https://m.media-amazon.com/images/I/71sbFqyH7JL._AC_SL1500_.jpg",
+            "image": "../images/map/mk870.jpg",
             "links": [
                 "https://www.amazon.com/FL-ESPORTS-MK870-Mechanical-Customizable/dp/B09GB6BRGD?th=1"
             ]
         },
         {
             "name": "Keychron C1/C1 Pro/C3 Pro",
-            "description": "Regular tray mounted plastic TKL. It just works. Pro series can be configured with QMK/VIA",
-            "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronc1hotswappablewiredmechanicalkeyboardtenkeylesslayoutformacwindowsnonbacklightkeychronswitchredretrostylecolor--edited-1645781115763_1200x.jpg?v=1645781118",
+            "description": "C1's a regular tray mounted plastic TKL, C3 is gasket mounted. It just works. Pro series can be configured with QMK/VIA",
+            "image": "../images/map/c1.jpg",
             "links": [
                 "https://www.keychron.com/collections/keychron-c-series-keyboard-s1"
             ]
@@ -145,7 +145,7 @@
         {
             "name": "Varmilo VA87M",
             "description": "Classic floating key TKL. Buy this if you don't plan on modifying it.",
-            "image": "https://i.rtings.com/assets/products/bJrHmS7E/varmilo-va87m/design-medium.jpg?format=auto",
+            "image": "../images/map/va87m.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/collections/Varmilo"
             ]
