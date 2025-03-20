@@ -8,8 +8,8 @@ nav_order: {{ nav_order }}
 # {{ name }}
 
 ## Options
-| Name | Image | Description | Links |
-| - | - | - | - |
+| Name  | Description | Links |
+| - | - | - |
 {% for choice in choices_per_layout -%}
-| {{ choice.name }} | ![]({{ choice.image }}) | {{ choice.description }} | {% for link in choice.links%} [Link]({{link}}) {% endfor %} |
+| {{ choice.name }} | {{ choice.description }} | {% for link in choice.links%} [Link]({{link}}) {% endfor %} |
 {% endfor %}
