@@ -37,7 +37,7 @@
         {
             "name": "Bakeneko60",
             "description": "Gummy o-ring mounted 60%. The classic.",
-            "image": "https://media.discordapp.net/attachments/212575396032413697/974182138150813756/KOK_0500.jpg?ex=67dc5111&is=67daff91&hm=8ee74a6ab81a1cded76fd2f76db5c45fa3d87dd6385faaf9d8ea6bf6ca924920&=&format=webp&width=2096&height=1398",
+            "image": "../images/map/bakeneko.jpg",
             "links": [
                 "https://cannonkeys.com/products/bakenekogo",
                 "https://cannonkeys.com/products/bakeneko-60"
@@ -46,7 +46,7 @@
         {
             "name": "neo60",
             "description": "Rolling release. Grommet gasket pcb-mounted 60%. Maybe some wireless option. Cheap and fancy.",
-            "image": "https://monacokeys.de/cdn/shop/files/neo60-60-isoansi-aluminium-keyboard-kit-preorder-993755.webp?v=1737652157&width=1220",
+            "image": "../images/map/neo60.webp",
             "links": [
                 "https://divinikey.com/products/qwertykeys-neo60-core-keyboard?variant=41997604126785",
                 "https://www.qwertykeys.com/products/neo60",
@@ -56,7 +56,7 @@
         {
             "name": "QK60",
             "description": "Acrylic top, aluminum bottom 60. Plate gasket mount. Cheap and fancy.",
-            "image": "https://media.discordapp.net/attachments/212575396032413697/1210377810519265361/KOK_0673.jpg?ex=67dcae2d&is=67db5cad&hm=a52b7ce3df87ede186649af8a523d868cc46f46c6d7409738bdbd6ebd59a5c4b&=&format=webp&width=2096&height=1398",
+            "image": "../images/map/qk60_kokaloo.jpg",
             "links": [
                 "https://www.qwertykeys.com/products/qk60-round-3"
             ]
@@ -64,7 +64,7 @@
         {
             "name": "Keychron Q4, V4 (Max)",
             "description": "Q4's the metal one, V4's the plastic one. Has your foam, and silicone blubber bottom in the V4. Supports QMK/VIA. Max model is wireless.",
-            "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychron-v4-custom-mechanical-custom-keyboard-1661162984691.jpg?v=1661162987",
+            "image": "../images/map/keychron_v4.jpg",
             "links": [
                 "https://www.keychron.com/products/keychron-v4-qmk-custom-mechanical-keyboard",
                 "https://www.keychron.com/products/keychron-v4-max-qmk-via-wireless-custom-mechanical-keyboard",
@@ -74,7 +74,7 @@
         {
             "name": "HHKB Professional Classic",
             "description": "The big round bump of Topre isn't something you'll find in MX based switches. Simple and reliable, and allergic to modifications. Some people swear by it.",
-            "image": "https://mechanicalkeyboards.com/cdn/shop/files/3442-AX52Q-Hybrid-Type-S-White.jpg?v=1708020490&width=1100",
+            "image": "../images/map/hhkb.jpg",
             "links": [
                 "https://mechanicalkeyboards.com/products/hhkb-hybrid-type-s"
             ]

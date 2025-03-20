@@ -1,6 +1,6 @@
 ---
 title: tkl
-parent: Map
+parent: MechMap
 nav_order: 4
 ---
 
