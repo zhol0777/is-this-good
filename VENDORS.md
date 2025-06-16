@@ -117,6 +117,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Mechanisk](https://mekanisk.com/)                 | [x]      |      | [x]   |        |         | [x]       | Norway      |
 | [Oblotsky](https://oblotzky.industries/)           | [x]      |      |       |        | [x]     | [x]       | Germany     |
 | [SplitKB](https://splitkb.com/)<sup>1</sup>        | [x]      |      | [x]   |        | [x]     | [x]       | Netherlands |
+| [RGBKeys](https://rgbkeys.com/en)                  | [x]      |      |       |        | [x]     |           | Netherlands |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
