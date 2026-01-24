@@ -118,6 +118,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Oblotsky](https://oblotzky.industries/)           | [x]      |      |       |        | [x]     | [x]       | Germany     |
 | [SplitKB](https://splitkb.com/)<sup>1</sup>        | [x]      |      | [x]   |        | [x]     | [x]       | Netherlands |
 | [RGBKeys](https://rgbkeys.com/en)                  | [x]      |      |       |        | [x]     |           | Netherlands |
+| [splitted.space](https://splitted.space/en)        | [x]      |      |       | [x]    | [x]     | [x]       | Ukraine     |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
